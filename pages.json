@@ -1,0 +1,70 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+            "path" : "pages/user/index/index",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/index/home/home",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/find/index/index",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/merchant/index/index",
+            "style" : {}
+        }
+        ,{
+            "path" : "components/Dialog/Dialog",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/commodity/index/index",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/hairstylist/index/index",
+            "style" : {}
+        }
+    ],
+	"tabBar": {
+	    "color": "#333333",
+	    "selectedColor": "#333333",
+	    "borderStyle": "white",
+	    "backgroundColor": "#ffffff",
+	    "list": [
+			{
+				"pagePath": "pages/index/home/home",
+				"iconPath": "",
+				"selectedIconPath": "",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/merchant/index/index",
+				"iconPath": "",
+				"selectedIconPath": "",
+				"text": "商家"
+			},
+			{
+				"pagePath": "pages/find/index/index",
+				"iconPath": "",
+				"selectedIconPath": "",
+				"text": "发现"
+			},
+			{
+				"pagePath": "pages/user/index/index",
+				"iconPath": "",
+				"selectedIconPath": "",
+				"text": "我的"
+			}
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

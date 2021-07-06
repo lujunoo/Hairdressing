@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/user/index/index",
+    "pages/index/home/home",
+    "pages/find/index/index",
+    "pages/merchant/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#333333",
+    "selectedColor": "#333333",
+    "borderStyle": "white",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/home/home",
+        "iconPath": "",
+        "selectedIconPath": "",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/merchant/index/index",
+        "iconPath": "",
+        "selectedIconPath": "",
+        "text": "商家"
+      },
+      {
+        "pagePath": "pages/find/index/index",
+        "iconPath": "",
+        "selectedIconPath": "",
+        "text": "发现"
+      },
+      {
+        "pagePath": "pages/user/index/index",
+        "iconPath": "",
+        "selectedIconPath": "",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
