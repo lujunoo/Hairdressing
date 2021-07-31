@@ -1,10 +1,13 @@
 <script>
 	export default {
+		globalData: {
+			safeDistance: 1, //IOS手机底部安全距离
+		},
 		onLaunch: function() {
-			console.log('App Launch')
+			this.globalData.safeDistance = Math.abs(uni.getSystemInfoSync().safeAreaInsets.bottom)
 		},
 		onShow: function() {
-			console.log('App Show')
+			
 		},
 		onHide: function() {
 			console.log('App Hide')
@@ -13,5 +16,7 @@
 </script>
 
 <style>
-	/*每个页面公共css */
+ page {
+	background-color: #f3f5f7;
+}
 </style>

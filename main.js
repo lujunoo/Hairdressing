@@ -1,5 +1,7 @@
 import Vue from 'vue'
 import App from './App'
+// 全局样式
+import '@/style/index.less'
 
 Vue.config.productionTip = false
 

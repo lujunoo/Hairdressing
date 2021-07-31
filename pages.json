@@ -1,23 +1,414 @@
 {
 	"pages": [ // pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
 		{
+		    "path" : "pages/index/home/home",
+		    "style" : {
+				"navigationBarTitleText":"首页",
+				"navigationBarTextStyle":"white",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard-hairstylist-detail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "发型师详情",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard-answers-detail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "回答详情",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard-detail-questions-answers",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "问大家",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard-evaluation-detail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "评价详情",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard-user-evaluation",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "用户的所有评价",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard-evaluation",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "店铺评价",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/commodity/order/reservation-info",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "预约订单支付",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/commodity/order/clause",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "预约条款",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard-detail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "商家详情",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard-detail-package",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "商家-套餐详情",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/commodity/order/orders-create",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "确认订单",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/commodity/order/create-user-info",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "个人信息",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/commodity/order/select-time",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "选择时间",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/commodity/order/select-user-project",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "选择项目",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/commodity/order/select-user",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "选择发型师",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/commodity/order/order-appointment",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "预约到店",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		
+		
+		
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard-report",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "投诉举报",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard-work-detail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "商家-作品详情",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/merchant/leaderboard/recruitment",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "商家-招聘详情",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard-honor-detail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "商家-荣誉列表-荣誉详情",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard-honor",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "商家-荣誉列表",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard-hairstylist",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "商家-发型师列表",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/platform/platform",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "论坛",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/platform/creat-article",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "发布帖子",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/platform/user-reply",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "用户的回复",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/platform/user-topic",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "用户话题动态",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/platform/user-send",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "用户发帖",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/platform/user-fans",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "粉丝,关注",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/platform/platform-userInfo",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "用户主页",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/platform/platform-detail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "帖子详情",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/platform/platform-customerArea",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "顾客专区",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/training-school/training-school",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "培训学校",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/training-school/school-teachers-project-detail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "教师的项目详情",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/training-school/school-teachers-detail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "教师详情",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/training-school/school-teachers",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "培训老师",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/training-school/school-detail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "学校详情",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/competition/participate",
+		    "style" : {
+				"navigationBarTitleText":"我要参赛",
+				"navigationBarTextStyle":"white",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+		    "path" : "pages/index/competition/leaderboard-user",
+		    "style" : {
+				"navigationBarTitleText":"发型师排行榜",
+				"navigationBarTextStyle":"white",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+		    "path" : "pages/index/competition/activity-rules",
+		    "style" : {
+				"navigationBarTitleText":"比赛规则",
+				"navigationBarTextStyle":"white",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+		    "path" : "pages/index/competition/competition-works",
+		    "style" : {
+				"navigationBarTitleText":"作品详情",
+				"navigationBarTextStyle":"white",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+		    "path" : "pages/index/competition/competition-userInfo",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "发型师详情",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/competition/competition",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "IHair Do 首届优秀发型师甄选大赛",
+				"navigationBarTextStyle":"white",
+		        "enablePullDownRefresh": false
+		    }
+		},
+		{
+		    "path" : "pages/index/hairRanking/hairRanking",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "发型师排行榜",
+		        "navigationBarTextStyle":"white"
+		    }
+		},
+		{
+		    "path" : "pages/merchant/leaderboard/leaderboard",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText":"美发店排行榜",
+		        "navigationBarTextStyle":"white"
+		    }
+		},
+		{
             "path" : "pages/user/index/index",
             "style" : {}
         }
         ,{
-            "path" : "pages/index/home/home",
-            "style" : {}
-        }
-        ,{
             "path" : "pages/find/index/index",
-            "style" : {}
-        }
-        ,{
-            "path" : "pages/merchant/index/index",
-            "style" : {}
-        }
-        ,{
-            "path" : "components/Dialog/Dialog",
             "style" : {}
         }
         ,{
@@ -37,26 +428,26 @@
 	    "list": [
 			{
 				"pagePath": "pages/index/home/home",
-				"iconPath": "",
-				"selectedIconPath": "",
+				"iconPath": "./static/images/home.png",
+				"selectedIconPath": "./static/images/hmoe_s.png",
 				"text": "首页"
 			},
 			{
-				"pagePath": "pages/merchant/index/index",
-				"iconPath": "",
-				"selectedIconPath": "",
+				"pagePath": "pages/merchant/leaderboard/leaderboard",
+				"iconPath": "./static/images/shop.png",
+				"selectedIconPath": "./static/images/shop_s.png",
 				"text": "商家"
 			},
 			{
 				"pagePath": "pages/find/index/index",
-				"iconPath": "",
-				"selectedIconPath": "",
+				"iconPath": "./static/images/find.png",
+				"selectedIconPath": "./static/images/find_s.png",
 				"text": "发现"
 			},
 			{
 				"pagePath": "pages/user/index/index",
-				"iconPath": "",
-				"selectedIconPath": "",
+				"iconPath": "./static/images/my.png",
+				"selectedIconPath": "./static/images/my_s.png",
 				"text": "我的"
 			}
 		]
@@ -64,7 +455,17 @@
 	"globalStyle": {
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
-		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8"
+		"navigationBarBackgroundColor": "#fc689a",
+		"backgroundColor": "#f3f5f9"
+	},
+	"condition" : { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [
+			{
+				"name": "", //模式名称
+				"path": "pages/index/home/home", //启动页面，必选
+				"query": "" //启动参数，在页面的onLoad函数里面得到
+			}
+		]
 	}
 }
