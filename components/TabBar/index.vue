@@ -1,11 +1,11 @@
 <!-- tabBar -->
 <template>
 	<view class="t-hairdres-tabBar-box">
-		<scroll-view v-if="!isFlex" :scroll-x="true" :style="{height: `${height}rpx`, background:`${this.background}`}" class="t-hairdres-scroll">
-			<text v-for="(item,index) in tabList" :style="{lineHeight: `${height}rpx`}" :class="{ active: active === index}" @click="active = index" :key="index">{{item}}</text>
+		<scroll-view v-if="!isFlex" :scroll-x="true" :style="{height: `${height}rpx`, background:`${background}`}" class="t-hairdres-scroll">
+			<text v-for="(item,index) in tabList" :style="{lineHeight: `${height}rpx`}" :class="{ active: active === index}" @click="setActive(index)" :key="index">{{item}}</text>
 		</scroll-view>
 		<view v-if="isFlex" :style="{height: `${height}rpx`, background:`${background}`}" class="t-hairdres-flex">
-			<text v-for="(item,index) in tabList"  :style="{lineHeight: `${height}rpx`}"  :class="{ active: active === index}" @click="active = index" :key="index">{{item}}</text>
+			<text v-for="(item,index) in tabList"  :style="{lineHeight: `${height}rpx`}"  :class="{ active: active === index}" @click="setActive(index)" :key="index">{{item}}</text>
 		</view>
 	</view>
 </template>
@@ -45,13 +45,18 @@
 			return {
 				active: 0,
 			}
+		},
+		methods: {
+			setActive (index) {
+				this.active = index
+				this.$emit('onClick',index)
+			}
 		}
 	}
 </script>
 
 <style scoped lang="less">
 	.t-hairdres-tabBar-box {
-		background: #FFFFFF;
 		width: 100%;
 		height: 80rpx;
 		position: sticky;

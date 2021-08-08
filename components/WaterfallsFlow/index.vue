@@ -20,6 +20,10 @@
 					return []
 				}
 			},
+			isEmit: {
+				type: Boolean,
+				default: false
+			},
 			dislocation: {
 				type: Boolean,
 				default: false
@@ -27,9 +31,13 @@
 		},
 		methods: {
 			toDetail (item) {
-				uni.navigateTo({
-					url:'../../merchant/leaderboard/leaderboard-work-detail'
-				})
+				if (this.isEmit) {
+					this.$emit('onClick', item)
+				} else {
+					uni.navigateTo({
+						url:'../../merchant/leaderboard/leaderboard-work-detail'
+					})
+				}
 			}
 		}
 	}

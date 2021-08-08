@@ -50,6 +50,9 @@
 			}
 			.right {
 				flex: 1;
+				justify-content: space-between;
+				flex-direction: column;
+				display: flex;
 				.address {
 					margin-top: 24rpx;
 					display: block;

@@ -1,14 +1,21 @@
 <template>
 	<view class="t-hairdres-upload" :style="{ width: `${width}rpx`, height: `${height}rpx` }">
-		<view v-for="(item,index) in imageList" :key="index" class="image">
+		<view v-for="(item,index) in imageList" :key="'img'+index" class="image">
 			<image :src="item" mode="aspectFill"></image>
-			<text @click="deleteImage(index)" class="iconfont">&#xe60f;</text>
+			<text @click="deleteItem(1,index)" class="iconfont">&#xe60f;</text>
 		</view>
 		<view @click="openImage" class="uplaod-button">
 			<text class="iconfont">&#xe644;</text>
 			<text>{{title}}</text>
 		</view>
-		
+		<view v-for="(item,index) in viewList" :key="'video'+index" class="image">
+			<video :controls='false' :show-center-play-btn="false" :show-play-btn="false" :src="item" />
+			<text @click="deleteItem(2,index)" class="iconfont">&#xe60f;</text>
+		</view>
+		<view v-if="showVideo" @click="openVideo" class="uplaod-button">
+			<text class="iconfont iconfont2">&#xe78e;</text>
+			<text>上传视频</text>
+		</view>
 	</view>
 </template>
 
@@ -18,7 +25,7 @@
 		props: {
 			title: {
 				type:String,
-				default:'上传作品'
+				default:'上传图片'
 			},
 			width: {
 				type: Number,
@@ -27,6 +34,10 @@
 			height: {
 				type: Number,
 				type: 140
+			},
+			showVideo: {
+				type: Boolean,
+				default: false
 			}
 		},
 		data () {
@@ -34,10 +45,20 @@
 				imageList: [
 					'https://cdn.pixabay.com/photo/2020/05/30/07/15/mountains-5237939_960_720.jpg',
 					'https://cdn.pixabay.com/photo/2020/05/30/07/15/mountains-5237939_960_720.jpg'
-				]
+				],
+				viewList: []
 			}
 		},
 		methods: {
+			openVideo () {
+				const that = this
+				uni.chooseVideo({
+					success(data) {
+						console.log(data)
+						that.viewList.push(data.tempFilePath)
+					}
+				})
+			},
 			openImage () {
 				const that = this
 				uni.chooseImage({
@@ -48,8 +69,13 @@
 					}
 				})
 			},
-			deleteImage (index) {
-				this.imageList.splice(index, 1)
+			deleteItem (type,index) {
+				if (type === 1) {
+					this.imageList.splice(index, 1)
+				} else {
+					this.viewList.splice(index, 1)
+				}
+				
 			}
 		}
 	}
@@ -84,7 +110,7 @@
 			font-family: icon-hairdressing;
 		}
 		
-		image {
+		image,video {
 			border-radius: 8rpx;
 			width: 100%;
 			height: 100%;
@@ -93,6 +119,7 @@
 	.uplaod-button {
 		width: 140rpx;
 		height: 140rpx;
+		margin-right: 16rpx;
 		border-radius: 8rpx;
 		background: #EEEEEE;
 		display: flex;
@@ -105,6 +132,9 @@
 			transform: scale(1.2);
 			color: #999999;
 			font-family: icon-hairdressing;
+		}
+		.iconfont2 {
+			transform: scale(.75);
 		}
 	}
 }

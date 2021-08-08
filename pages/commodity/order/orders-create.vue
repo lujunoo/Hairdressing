@@ -93,55 +93,26 @@
 		<fixedFooter @onSubmit='createOrder' submitText="立即支付">
 			<text slot="left">实际应金额：<text class="color-theme">¥160.00</text></text>
 		</fixedFooter>
-		<!-- 弹窗 -->
-		<Dialog title="输入支付密码" ref="dialog">
-			<view class="body" slot="body">
-				<text v-for="item in 6" :key="item" :class="{active: password.length > (item - 1)}"></text>
-				<input type="number" maxlength="6" class="password" v-model="password" />
-			</view>
-			<view class="footer" slot="footer">
-				忘记支付密码？<text class="color-theme">修改密码</text>
-			</view>
-		</Dialog>
+		<!-- 支付密码弹窗 -->
+		<PayPassword ref="PayPassword"></PayPassword>
 	</view>
 </template>
 
 <script>
 	import card from '@/components/Card'
 	import Title from '@/components/Title'
-	import Dialog from '@/components/Dialog'
 	import fixedFooter from '@/components/fixedFooter'
+	import PayPassword from '@/components/PayPassword'
 	export default {
 		components:{
 			card,
 			Title,
-			Dialog,
-			fixedFooter
-		},
-		data () {
-			return {
-				active: 1,
-				password: ''
-			}
-		},
-		watch: {
-			password (data) {
-				if (data.length === 6) {
-					this.$refs.dialog.close()
-					uni.showLoading({
-						title: '正在提交',
-						mask: true
-					})
-					setTimeout(() => {
-						uni.hideLoading()
-						this.password = ''
-					},1000)
-				}
-			}
+			fixedFooter,
+			PayPassword
 		},
 		methods: {
 			createOrder () {
-				this.$refs.dialog.show()
+				this.$refs.PayPassword.toPay()
 			}
 		}
 	}
@@ -150,47 +121,6 @@
 <style scoped lang="less">
 	.t-hairdres-order-create {
 		padding-bottom: 100rpx;
-		
-		.footer {
-			padding: 40rpx;
-			font-size: 24rpx;
-		}
-		
-		.body {
-			display: flex;
-			justify-content: space-between;
-			padding: 0 40rpx;
-			position: relative;
-			.password {
-				width: 85%;
-				height: 60rpx;
-				position: absolute;
-				opacity: 0;
-			}
-			text {
-				display: flex;
-				width: 50rpx;
-				height: 50rpx;
-				border-radius: 4rpx;
-				border: solid 2rpx #a0a0a0;
-				display: flex;
-				justify-content: center;
-			}
-			.active {
-				position: relative;
-				&::after {
-					content: '';
-					width: 20rpx;
-					height: 20rpx;
-					border-radius: 100rpx;
-					background: #333333;
-					position: absolute;
-					top: 50%;
-					left: 50%;
-					transform: translate(-50%,-50%);
-				}
-			}
-		}
 		.card-title {
 			margin-top: -32rpx;
 		}

@@ -2,22 +2,22 @@
 	<view class="t-hairdres-filter">
 		<view v-if="open" @click="open = false" class="mask"></view>
 		<view class="filter">
-			<view class="filter-item" @click="filterAcitve(item)" v-for="(item,index) in filter" :key="index">
-				<text>{{item.title}}</text>
+			<view class="filter-item" @click="filterAcitve(item, index)" v-for="(item,index) in titleList" :key="index">
+				<text>{{item}}</text>
 			    <text class="icon">&#xe63d;</text>
 			</view>
 		</view>
 		<view v-if="open" class="filter-child">
-			<text v-for="(item,index) in acitve.children" :key="index">{{item.title}}</text>
+			<slot></slot>
 		</view>
 	</view>
 </template>
 
 <script>
 	export default {
-		name: 'Filter',
+		name: 'FilterTable',
 		props: {
-			filter: {
+			titleList: {
 				type: Array,
 				default: () => {
 					return []
@@ -31,10 +31,10 @@
 			}
 		},
 		methods: {
-			filterAcitve (item) {
-				console.log(item)
+			filterAcitve (item, index) {
 				this.acitve = item
 				this.open = true
+				this.$emit('onResult', { data: item, index: index })
 			}
 		}
 	}
@@ -44,6 +44,8 @@
 	.t-hairdres-filter {
 		position: relative;
 		z-index: 1;
+		background: #FFFFFF;
+		height: 80rpx;
 		
 		.mask {
 			position: absolute;
@@ -77,9 +79,9 @@
 		}
 		
 		.filter {
-			padding:  8rpx 32rpx 32rpx 32rpx;
 			font-family: icon-hairdressing;
 			display: flex;
+			height: 80rpx;
 			justify-content: space-between;
 			z-index: 2;
 			
