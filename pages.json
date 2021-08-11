@@ -9,6 +9,169 @@
 		    }
 		},
 		{
+		    "path" : "pages/user/settlein/merchant",
+		    "style" : {
+		    	"navigationBarTitleText":"商家入驻",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/settlein/hairstylist",
+		    "style" : {
+		    	"navigationBarTitleText":"发型师入驻",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/settlein/protocol",
+		    "style" : {
+		    	"navigationBarTitleText":"入驻协议",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/settlein/add-honor",
+		    "style" : {
+		    	"navigationBarTitleText":"添加荣誉",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/settlein/selecte-label",
+		    "style" : {
+		    	"navigationBarTitleText":"选择头衔",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/settlein/selecte-business",
+		    "style" : {
+		    	"navigationBarTitleText":"选择入驻商家",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/hairstyle/index",
+		    "style" : {
+		    	"navigationBarTitleText":"发型记录",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/hairstyle/creatdate",
+		    "style" : {
+		    	"navigationBarTitleText":"添加发型记录",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		
+		{
+		    "path" : "pages/user/reserve/order-detail",
+		    "style" : {
+		    	"navigationBarTitleText":"查看券码",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		
+		{
+		    "path" : "pages/user/reserve/index",
+		    "style" : {
+		    	"navigationBarTitleText":"我的预约",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/index/index",
+		    "style" :
+		    {
+		        "navigationBarTitleText": "我的",
+				"navigationStyle":"custom"
+		    }
+		},
+		{
+		    "path" : "pages/user/setting/platform-rules",
+		    "style" : {
+		    	"navigationBarTitleText":"平台规则",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/setting/privacy-agreement",
+		    "style" : {
+		    	"navigationBarTitleText":"隐私协议",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/setting/user-agreement",
+		    "style" : {
+		    	"navigationBarTitleText":"用户协议",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/setting/help-center",
+		    "style" : {
+		    	"navigationBarTitleText":"帮助中心",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/setting/about-us",
+		    "style" : {
+		    	"navigationBarTitleText":"关于我们",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/setting/bind-phone",
+		    "style" : {
+		    	"navigationBarTitleText":"绑定手机号",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/setting/verified",
+		    "style" : {
+		    	"navigationBarTitleText":"实名认证",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/setting/user-info",
+		    "style" : {
+		    	"navigationBarTitleText":"个人信息",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		{
+		    "path" : "pages/user/setting/index",
+		    "style" : {
+		    	"navigationBarTitleText":"设置",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
+		    }
+		},
+		
+		{
 		    "path" : "pages/user/integral/record",
 		    "style" : {
 		    	"navigationBarTitleText":"积分提现记录",

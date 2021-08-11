@@ -72,25 +72,25 @@
 			<text>更多</text>
 		</view>
 		<Card>
-			<view class="user-title">
+			<view @click="toReserve" class="user-title">
 				<view class="left">
 					<image src="../../../static/images/user-icon4.png" mode="aspectFill"></image>
 					<text>我的预约</text>
 				</view>
 			</view>
-			<view class="user-title">
+			<view @click="toHairstyle" class="user-title">
 				<view class="left">
 					<image src="../../../static/images/user-icon5.png" mode="aspectFill"></image>
 					<text>我的发型</text>
 				</view>
 			</view>
-			<view class="user-title">
+			<view @click="toSettled" class="user-title">
 				<view class="left">
 					<image src="../../../static/images/user-icon6.png" mode="aspectFill"></image>
 					<text>入驻品台</text>
 				</view>
 			</view>
-			<view class="user-title">
+			<view @click="toSetting" class="user-title">
 				<view class="left">
 					<image src="../../../static/images/user-icon7.png" mode="aspectFill"></image>
 					<text>设置</text>
@@ -103,18 +103,36 @@
 				</view>
 			</view>
 		</Card>
+		<!-- 选择商家入住类型 -->
+		<view v-if="settled" @click="settled = false" class="settled-type">
+			<view class="title">请选择入驻身份</view>
+			<view @click.stop="settlein(1)" class="item">
+				<image src="../../../static/images/user-icon10.png" mode="aspectFill"></image>
+				<text>发型师入驻</text>
+			</view>
+			<view @click.stop="settlein(2)"  class="item">
+				<image src="../../../static/images/user-icon9.png" mode="aspectFill"></image>
+				<text>商家入驻</text>
+			</view>
+		</view>
+		<!-- 实名认证 -->
+		<Dialog ref="dialog" @onConfirm="onConfirm" okText="前往认证" desc="入驻商家或发型师前需先进行实名认证！"></Dialog>
 	</view>
 </template>
 
 <script>
 	import Card from '@/components/Card'
+	import Dialog from '@/components/Dialog'
 	export default {
 		components: {
-			Card
+			Card,
+			Dialog
 		},
 		data() {
 			return {
-				statusBarHeight: getApp().globalData.statusBarHeight
+				statusBarHeight: getApp().globalData.statusBarHeight,
+				settled: true,
+				dialog:false
 			};
 		},
 		methods: {
@@ -142,6 +160,39 @@
 				uni.navigateTo({
 					url: '../integral/index'
 				})
+			},
+			toSetting () {
+				uni.navigateTo({
+					url: '../setting/index'
+				})
+			},
+			toReserve () {
+				uni.navigateTo({
+					url: '../reserve/index'
+				})
+			},
+			toHairstyle () {
+				uni.navigateTo({
+					url: '../hairstyle/index'
+				})
+			},
+			toSettled () {
+				this.$refs.dialog.show()
+			},
+			onConfirm () {
+				this.$refs.dialog.close()
+				this.settled = true
+			},
+			settlein (type) {
+				if (type === 1) {
+					uni.navigateTo({
+						url: '../settlein/hairstylist'
+					})
+				} else {
+					uni.navigateTo({
+						url: '../settlein/merchant'
+					})
+				}
 			},
 			toRouter(index) {
 				switch (index) {
@@ -175,6 +226,43 @@
 
 <style scoped lang="less">
 	.t-hairdres-user {
+		.settled-type {
+			width: 100%;
+			height: 100%;
+			position: fixed;
+			top: 0;
+			left: 0;
+			background: rgba(0,0,0,0.4);
+			z-index: 999;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+			.title {
+				font-size: 32rpx;
+				color: #FFFFFF;
+				font-weight: bold;
+				margin-bottom: 32rpx;
+			}
+			.item {
+				width: 500rpx;
+				color: #FFFFFF;
+				display: flex;
+				justify-content: center;
+				font-size: 28rpx;
+				align-items: center;
+				height: 80rpx;
+				background-color: #ffb1b1;
+				border-radius: 30rpx;
+				margin-bottom: 32rpx;
+			}
+			image {
+				display: block;
+				width: 50rpx;
+				height: 50rpx;
+				display: block;
+			}
+		}
 		.user-desc {
 			font-size: 28rpx;
 			font-weight: bold;

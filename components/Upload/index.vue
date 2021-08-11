@@ -1,18 +1,18 @@
 <template>
-	<view class="t-hairdres-upload" :style="{ width: `${width}rpx`, height: `${height}rpx` }">
-		<view v-for="(item,index) in imageList" :key="'img'+index" class="image">
+	<view class="t-hairdres-upload">
+		<view v-for="(item,index) in imageList" :key="'img'+index" :style="{ width: `${width}rpx`, height: `${height}rpx` }" class="image">
 			<image :src="item" mode="aspectFill"></image>
 			<text @click="deleteItem(1,index)" class="iconfont">&#xe60f;</text>
 		</view>
-		<view @click="openImage" class="uplaod-button">
+		<view @click="openImage" v-if="!(imageList.length === maxLength)" :style="{ width: `${width}rpx`, height: `${height}rpx` }" class="uplaod-button">
 			<text class="iconfont">&#xe644;</text>
 			<text>{{title}}</text>
 		</view>
-		<view v-for="(item,index) in viewList" :key="'video'+index" class="image">
+		<view v-for="(item,index) in videoList" :key="'video'+index" class="image">
 			<video :controls='false' :show-center-play-btn="false" :show-play-btn="false" :src="item" />
 			<text @click="deleteItem(2,index)" class="iconfont">&#xe60f;</text>
 		</view>
-		<view v-if="showVideo" @click="openVideo" class="uplaod-button">
+		<view v-if="showVideo" @click="getVideoList" class="uplaod-button">
 			<text class="iconfont iconfont2">&#xe78e;</text>
 			<text>上传视频</text>
 		</view>
@@ -23,31 +23,58 @@
 	export default {
 		name:'Upload',
 		props: {
+			// 提示文字
 			title: {
 				type:String,
 				default:'上传图片'
 			},
+			// 按钮宽度
 			width: {
-				type: Number,
-				type: 140
+				type: Number | String,
+				default: 140
 			},
+			// 按钮高度
 			height: {
-				type: Number,
-				type: 140
+				type: Number | String,
+				default: 140
 			},
+			// 最大上数量
+			maxLength: {
+				type: Number | String,
+				default: 9
+			},
+			// 是否可以上传视频
 			showVideo: {
 				type: Boolean,
 				default: false
+			},
+			// 默认显示的图片数据列表
+			imageData: {
+				type: Array,
+				default: () => {
+					return [
+						'https://cdn.pixabay.com/photo/2020/05/30/07/15/mountains-5237939_960_720.jpg',
+						'https://cdn.pixabay.com/photo/2020/05/30/07/15/mountains-5237939_960_720.jpg'
+					]
+				}
+			},
+			// 默认显示的视频列表
+			videoData: {
+				type: Array,
+				default: () => {
+					return []
+				}
 			}
 		},
 		data () {
 			return {
-				imageList: [
-					'https://cdn.pixabay.com/photo/2020/05/30/07/15/mountains-5237939_960_720.jpg',
-					'https://cdn.pixabay.com/photo/2020/05/30/07/15/mountains-5237939_960_720.jpg'
-				],
-				viewList: []
+				imageList: [],
+				videoList: []
 			}
+		},
+		created () {
+			this.imageList = this.imageList.concat(this.imageData)
+			this.videoList = this.videoList.concat(this.videoData)
 		},
 		methods: {
 			openVideo () {
@@ -55,13 +82,14 @@
 				uni.chooseVideo({
 					success(data) {
 						console.log(data)
-						that.viewList.push(data.tempFilePath)
+						that.videoList.push(data.tempFilePath)
 					}
 				})
 			},
 			openImage () {
 				const that = this
 				uni.chooseImage({
+					count: this.maxLength - that.imageList.length,
 					success(data) {
 						data.tempFilePaths.forEach(item => {
 							that.imageList.push(item)
@@ -73,7 +101,7 @@
 				if (type === 1) {
 					this.imageList.splice(index, 1)
 				} else {
-					this.viewList.splice(index, 1)
+					this.videoList.splice(index, 1)
 				}
 				
 			}

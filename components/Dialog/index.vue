@@ -34,7 +34,7 @@
 		props:{
 			title: {
 				type: String,
-				default: '提示信息'
+				default: '温馨提示'
 			},
 			okText:{
 				type: String,
