@@ -7,10 +7,7 @@
 				<text v-for="(item,index) in 8" :key="index">幽兰色</text>
 			</view>
 		</TabFilter>
-		<Card>
-			<WaterfallsFlow isEmit @onClick="toWorkDetail" :list="fallsFlow"/>
-			<PullDownRefresh/>
-		</Card>
+		<WaterfallsFlow hideTitle isEmit @onCilck="toWorkDetail" :list="fallsFlow"/>
 	</view>
 </template>
 
@@ -49,7 +46,10 @@
 		methods: {
 			toWorkDetail (data) {
 				uni.navigateTo({
-					url: '../work-detail/index'
+					url: '../../../page-merchant/leaderboard/leaderboard-work-detail?pageType=find',
+					complete: (data) => {
+						console.log(data)
+					}
 				})
 			}
 		},

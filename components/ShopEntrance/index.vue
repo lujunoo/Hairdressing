@@ -28,7 +28,7 @@
 		methods: {
 			toDetail () {
 				uni.navigateTo({
-					url:'../../merchant/leaderboard/leaderboard-detail'
+					url:'../../../leaderboard-detail'
 				})
 			}
 		}

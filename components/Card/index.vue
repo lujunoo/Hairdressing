@@ -10,7 +10,7 @@
 
 <style scoped lang="less">
 	.t-hairdres-card {
-		margin: 32rpx;
+		margin: 32rpx 32rpx 0 32rpx;
 		padding: 32rpx;
 		border-radius: 10rpx;
 		background: #FFFFFF;

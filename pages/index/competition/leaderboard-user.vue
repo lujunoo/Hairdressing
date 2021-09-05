@@ -21,7 +21,7 @@
 		<!-- 倒计时 -->
 		<view class="countdown">
 			<view class="title">
-				<image src="../../../static/images/home-icon4.png" mode="aspectFill"></image>
+				<image src="@/static/images/home-icon4.png" mode="aspectFill"></image>
 				<text>投票于25天8小时25分30秒后结束</text>
 			</view>
 		</view>
@@ -29,7 +29,7 @@
 		<view class="userlist">
 			<view class="title">
 				<text>~</text>
-				<image src="../../../static/images/home-icon7.png" mode="aspectFill"></image>
+				<image src="@/static/images/home-icon7.png" mode="aspectFill"></image>
 				<text>排行榜</text>
 				<text>~</text>
 			</view>

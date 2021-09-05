@@ -54,8 +54,6 @@
 <style scoped lang="less">
 	.t-hairdres-school-teachers {
 		.trainer {
-			margin: 32rpx;
-			
 			.item {
 				border-bottom: solid 2rpx #e5e5e5;
 				display: flex;

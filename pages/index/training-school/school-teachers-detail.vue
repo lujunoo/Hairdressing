@@ -10,15 +10,17 @@
 		</Card>
 		<!-- 套餐列表 -->
 		<view class="setmeal">
-			<Card class="item" v-for="(item,index) in 4" :key="index">
-				<view @click="toDetail" class="cover">
-					<image src="https://cdn.pixabay.com/photo/2021/07/07/22/29/badlands-national-park-6395444_960_720.jpg" mode="scaleToFill"></image>
-				</view>
-				<view  @click="toDetail" class="info">
-					<text>经典剪发</text>
-					<view class="price">
-						<text>¥8888<text>¥12900</text></text>
-						<text>已售35</text>
+			<Card v-for="(item,index) in 4" :key="index">
+				<view class="item" >
+					<view @click="toDetail" class="cover">
+						<image src="https://cdn.pixabay.com/photo/2021/07/07/22/29/badlands-national-park-6395444_960_720.jpg" mode="scaleToFill"></image>
+					</view>
+					<view  @click="toDetail" class="info">
+						<text>经典剪发</text>
+						<view class="price">
+							<text>¥8888<text>¥12900</text></text>
+							<text>已售35</text>
+						</view>
 					</view>
 				</view>
 			</Card>

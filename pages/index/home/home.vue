@@ -16,8 +16,8 @@
 				<text @click="toRouter(2)">发型师排行</text>
 			</view>
 			<view class="classification">
-				<view class="class-item">
-					<image @click="toRouter(5)" src="@/static/images/home-icon3.png" mode="aspectFill"></image>
+				<view @click="toRouter(5)" class="class-item">
+					<image src="@/static/images/home-icon3.png" mode="aspectFill"></image>
 					<text>论坛</text>
 				</view>
 				<view @click="toRouter(3)" class="class-item">
@@ -33,7 +33,7 @@
 		<!-- tabBar -->
 		<tabBar :tabList="tabList"/>
 		<!-- 套餐列表 -->
-		<setmeal v-for="(item, index) in 10" :key="index"/>
+		<setmeal @onClick="toDetail(item)" v-for="(item, index) in 10" :key="index"/>
 		<!-- 加载状态 -->
 		<pull-down-refresh :status="loading"/>
 	</view>
@@ -67,6 +67,11 @@
 			this.loadingData()
 		},
 		methods: {
+			toDetail() {
+				uni.navigateTo({
+					url:'../../../page-merchant/leaderboard/leaderboard-detail'
+				})
+			},
 			loadingData () {
 				if (this.loading === 1) {
 					return false
@@ -87,7 +92,10 @@
 			toRouter (name) {
 				if (name === 1) {
 					uni.switchTab({
-						url: '../../merchant/leaderboard/leaderboard'
+						url: '../../leaderboard/leaderboard',
+						complete: (data) => {
+							console.log(data)
+						}
 					})
 				}
 				if (name === 2) {
@@ -107,7 +115,10 @@
 				}
 				if (name === 5) {
 					uni.navigateTo({
-						url:'../platform/platform'
+						url:'../platform/platform',
+						complete: (data) => {
+							console.log(data)
+						}
 					})
 				}
 			}

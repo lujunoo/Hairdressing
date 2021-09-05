@@ -1,321 +1,12 @@
 {
 	"pages": [
 		{
-		    "path" : "pages/user/index/index",
-		    "style" :
-		    {
-		        "navigationBarTitleText": "我的",
-				"navigationStyle":"custom"
-		    }
-		},
-		{
-		    "path" : "pages/user/settlein/merchant",
+		    "path" : "pages/index/home/home",
 		    "style" : {
-		    	"navigationBarTitleText":"商家入驻",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/settlein/hairstylist",
-		    "style" : {
-		    	"navigationBarTitleText":"发型师入驻",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/settlein/protocol",
-		    "style" : {
-		    	"navigationBarTitleText":"入驻协议",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/settlein/add-honor",
-		    "style" : {
-		    	"navigationBarTitleText":"添加荣誉",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/settlein/selecte-label",
-		    "style" : {
-		    	"navigationBarTitleText":"选择头衔",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/settlein/selecte-business",
-		    "style" : {
-		    	"navigationBarTitleText":"选择入驻商家",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/hairstyle/index",
-		    "style" : {
-		    	"navigationBarTitleText":"发型记录",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/hairstyle/creatdate",
-		    "style" : {
-		    	"navigationBarTitleText":"添加发型记录",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		
-		{
-		    "path" : "pages/user/reserve/order-detail",
-		    "style" : {
-		    	"navigationBarTitleText":"查看券码",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		
-		{
-		    "path" : "pages/user/reserve/index",
-		    "style" : {
-		    	"navigationBarTitleText":"我的预约",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/index/index",
-		    "style" :
-		    {
-		        "navigationBarTitleText": "我的",
-				"navigationStyle":"custom"
-		    }
-		},
-		{
-		    "path" : "pages/user/setting/platform-rules",
-		    "style" : {
-		    	"navigationBarTitleText":"平台规则",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/setting/privacy-agreement",
-		    "style" : {
-		    	"navigationBarTitleText":"隐私协议",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/setting/user-agreement",
-		    "style" : {
-		    	"navigationBarTitleText":"用户协议",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/setting/help-center",
-		    "style" : {
-		    	"navigationBarTitleText":"帮助中心",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/setting/about-us",
-		    "style" : {
-		    	"navigationBarTitleText":"关于我们",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/setting/bind-phone",
-		    "style" : {
-		    	"navigationBarTitleText":"绑定手机号",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/setting/verified",
-		    "style" : {
-		    	"navigationBarTitleText":"实名认证",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/setting/user-info",
-		    "style" : {
-		    	"navigationBarTitleText":"个人信息",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/setting/index",
-		    "style" : {
-		    	"navigationBarTitleText":"设置",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		
-		{
-		    "path" : "pages/user/integral/record",
-		    "style" : {
-		    	"navigationBarTitleText":"积分提现记录",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/integral/withdraw",
-		    "style" : {
-		    	"navigationBarTitleText":"积分提现",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/integral/user-lits",
-		    "style" : {
-		    	"navigationBarTitleText":"邀请列表",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/integral/index",
-		    "style" : {
-		    	"navigationBarTitleText":"积分收益",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/invite/index",
-		    "style" : {
-		    	"navigationBarTitleText":"邀请新人",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		
-		{
-		    "path" : "pages/user/wallet/setpassword",
-		    "style" : {
-		    	"navigationBarTitleText":"设置支付密码",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/wallet/withdraw",
-		    "style" : {
-		    	"navigationBarTitleText":"提现",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/wallet/recharge",
-		    "style" : {
-		    	"navigationBarTitleText":"充值",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/wallet/add-card",
-		    "style" : {
-		    	"navigationBarTitleText":"添加银行卡",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/wallet/bank-card",
-		    "style" : {
-		    	"navigationBarTitleText":"银行卡",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/wallet/transaction-record",
-		    "style" : {
-		    	"navigationBarTitleText":"交易记录",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/wallet/index",
-		    "style" :
-		    {
-		        "navigationBarTitleText": "我的钱包",
-				"navigationStyle":"custom"
-		    }
-		},
-		
-		{
-		    "path" : "pages/user/message/detail",
-		    "style" : {
-		    	"navigationBarTitleText":"消息详情",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/message/index",
-		    "style" : {
-		    	"navigationBarTitleText":"消息",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/history/index",
-		    "style" : {
-		    	"navigationBarTitleText":"浏览",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/collect/index",
-		    "style" : {
-		    	"navigationBarTitleText":"我的收藏",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/order/order-refund-status",
-		    "style" : {
-		    	"navigationBarTitleText":"退款进度",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		{
-		    "path" : "pages/user/order/order-evaluation",
-		    "style" : {
-		    	"navigationBarTitleText":"订单评价",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
+				"navigationBarTitleText":"首页",
+				"navigationBarTextStyle":"white",
+				"enablePullDownRefresh":true
+			}
 		},
 		{
 		    "path" : "pages/find/index/index",
@@ -326,241 +17,18 @@
 		    }
 		},
 		{
-		    "path" : "pages/user/order/order-detail",
+		    "path" : "pages/leaderboard/leaderboard",
 		    "style" : {
-		    	"navigationBarTitleText":"订单详情",
+		    	"navigationBarTitleText":"美发店排行榜",
 		    	"navigationBarTextStyle":"white",
 		    	"enablePullDownRefresh":true
 		    }
 		},
 		{
-		    "path" : "pages/user/order/order-list",
-		    "style" : {
-		    	"navigationBarTitleText":"订单",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		
-		{
-		    "path" : "pages/find/work-detail/index",
-		    "style" : {
-		    	"navigationBarTitleText":"作品详情",
-		    	"navigationBarTextStyle":"white",
-		    	"enablePullDownRefresh":true
-		    }
-		},
-		
-		{
-		    "path" : "pages/index/home/home",
-		    "style" : {
-				"navigationBarTitleText":"首页",
-				"navigationBarTextStyle":"white",
-				"enablePullDownRefresh":true
+			"path": "pages/user/index",
+			"style" : {
+				"navigationStyle":"custom"
 			}
-		},
-		{
-		    "path" : "pages/merchant/leaderboard/leaderboard-hairstylist-detail",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "发型师详情",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/merchant/leaderboard/leaderboard-answers-detail",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "回答详情",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/merchant/leaderboard/leaderboard-detail-questions-answers",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "问大家",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/merchant/leaderboard/leaderboard-evaluation-detail",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "评价详情",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/merchant/leaderboard/leaderboard-user-evaluation",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "用户的所有评价",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/merchant/leaderboard/leaderboard-evaluation",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "店铺评价",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/commodity/order/reservation-info",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "预约订单支付",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/commodity/order/clause",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "预约条款",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		
-		{
-		    "path" : "pages/merchant/leaderboard/leaderboard-detail",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "商家详情",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		
-		{
-		    "path" : "pages/merchant/leaderboard/leaderboard-detail-package",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "商家-套餐详情",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/commodity/order/orders-create",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "确认订单",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/commodity/order/create-user-info",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "个人信息",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/commodity/order/select-time",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "选择时间",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/commodity/order/select-user-project",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "选择项目",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/commodity/order/select-user",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "选择发型师",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/commodity/order/order-appointment",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "预约到店",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		
-		
-		
-		{
-		    "path" : "pages/merchant/leaderboard/leaderboard-report",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "投诉举报",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/merchant/leaderboard/leaderboard-work-detail",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "商家-作品详情",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/merchant/leaderboard/recruitment",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "商家-招聘详情",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/merchant/leaderboard/leaderboard-honor-detail",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "商家-荣誉列表-荣誉详情",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/merchant/leaderboard/leaderboard-honor",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "商家-荣誉列表",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
-		},
-		{
-		    "path" : "pages/merchant/leaderboard/leaderboard-hairstylist",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText": "商家-发型师列表",
-				"navigationBarTextStyle":"white",
-		        "enablePullDownRefresh": false
-		    }
 		},
 		{
 		    "path" : "pages/index/platform/platform",
@@ -747,22 +215,1040 @@
 		    }
 		},
 		{
-		    "path" : "pages/merchant/leaderboard/leaderboard",
-		    "style" :                                                                                    
-		    {
-		        "navigationBarTitleText":"美发店排行榜",
-		        "navigationBarTextStyle":"white"
+		    "path" : "pages/find/work-detail/index",
+		    "style" : {
+		    	"navigationBarTitleText":"作品详情",
+		    	"navigationBarTextStyle":"white",
+		    	"enablePullDownRefresh":true
 		    }
 		}
-        ,{
-            "path" : "pages/commodity/index/index",
-            "style" : {}
-        }
-        ,{
-            "path" : "pages/hairstylist/index/index",
-            "style" : {}
-        }
     ],
+	"subPackages":[
+		{
+			"root": "page-commodity",
+			"pages": [
+				{
+				    "path" : "order/reservation-info",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "预约订单支付",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "order/clause",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "预约条款",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "order/orders-create",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "确认订单",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "order/create-user-info",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "个人信息",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "order/select-time",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "选择时间",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "order/select-user-project",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "选择项目",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "order/select-user",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "选择发型师",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "order/order-appointment",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "预约到店",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				}
+			]
+		},
+		{
+			"root": "page-hairstylist",
+			"pages": [
+				{
+				    "path" : "personal/set-break-time",
+				    "style" : {
+				        "navigationBarTitleText": "设置休息日期",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "personal/break-time",
+				    "style" : {
+				        "navigationBarTitleText": "作息设置",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "personal/add-honor",
+				    "style" : {
+				        "navigationBarTitleText": "荣誉墙",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "personal/honor-list",
+				    "style" : {
+				        "navigationBarTitleText": "荣誉墙",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "personal/price-list",
+				    "style" : {
+				        "navigationBarTitleText": "价目表",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "personal/personal",
+				    "style" : {
+				        "navigationBarTitleText": "个人档案",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "my-comment/my-comment",
+				    "style" : {
+				        "navigationBarTitleText": "评价管理",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				
+				{
+				    "path" : "my-creation/my-creation",
+				    "style" : {
+				        "navigationBarTitleText": "添加作品",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "my-creation/add-creation",
+				    "style" : {
+				        "navigationBarTitleText": "添加作品",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "appointment/add-appointment",
+				    "style" : {
+				        "navigationBarTitleText": "添加预约",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "appointment/information",
+				    "style" : {
+				        "navigationBarTitleText": "预约详情",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "appointment/appointment-detail",
+				    "style" : {
+				        "navigationBarTitleText": "当日预约",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "appointment/appointment",
+				    "style" : {
+				        "navigationBarTitleText": "预约管理",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				
+				{
+				    "path" : "customer-profile/add-record",
+				    "style" : {
+				        "navigationBarTitleText": "添加消费记录",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				
+				{
+				    "path" : "customer-profile/add-customer-profile",
+				    "style" : {
+				        "navigationBarTitleText": "添加顾客档案",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "customer-profile/customer-profile",
+				    "style" : {
+				        "navigationBarTitleText": "顾客档案",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				}
+			]
+		},
+		{
+			"root": "page-merchant",
+			"pages": [
+				{
+				    "path" : "personal/index",
+				    "style" : {
+				        "navigationBarTitleText": "我的",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "change-password/index",
+				    "style" : {
+				        "navigationBarTitleText": "修改密码",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "transfer/index",
+				    "style" : {
+				        "navigationBarTitleText": "店铺转让",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "financial/status",
+				    "style" : {
+				        "navigationBarTitleText": "支付进度",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "financial/combo-detail",
+				    "style" : {
+				        "navigationBarTitleText": "收入详情",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "financial/combo",
+				    "style" : {
+				        "navigationBarTitleText": "套餐收入",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "financial/platform-revenue",
+				    "style" : {
+				        "navigationBarTitleText": "平台收入",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "financial/billing-details",
+				    "style" : {
+				        "navigationBarTitleText": "账单明细",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "financial/index",
+				    "style" : {
+				        "navigationBarTitleText": "财务管理",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "event-planning/effect",
+				    "style" : {
+				        "navigationBarTitleText": "立减效果",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "event-planning/activity-detail",
+				    "style" : {
+				        "navigationBarTitleText": "活动详情",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "event-planning/preview",
+				    "style" : {
+				        "navigationBarTitleText": "预览活动",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "event-planning/constrains",
+				    "style" : {
+				        "navigationBarTitleText": "限制条件",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "event-planning/setoffer",
+				    "style" : {
+				        "navigationBarTitleText": "设置优惠",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "event-planning/add-activity",
+				    "style" : {
+				        "navigationBarTitleText": "发布活动",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "event-planning/index",
+				    "style" : {
+				        "navigationBarTitleText": "活动策划",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "talent-recruitment/add-talent",
+				    "style" : {
+				        "navigationBarTitleText": "发布招聘",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "talent-recruitment/index",
+				    "style" : {
+				        "navigationBarTitleText": "人才招聘",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "brand-introduction/index",
+				    "style" : {
+				        "navigationBarTitleText": "品牌介绍",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "user-management/index",
+				    "style" : {
+				        "navigationBarTitleText": "发型师管理",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "store-management/label-list",
+				    "style" : {
+				        "navigationBarTitleText": "商户标签",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "store-management/index",
+				    "style" : {
+				        "navigationBarTitleText": "门店管理",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "reserve/add-appointment",
+				    "style" : {
+				        "navigationBarTitleText": "添加预约",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "reserve/information",
+				    "style" : {
+				        "navigationBarTitleText": "预约详情",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "reserve/set-break-time",
+				    "style" : {
+				        "navigationBarTitleText": "设置休息时间",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "reserve/reserve-time",
+				    "style" : {
+				        "navigationBarTitleText": "发型师预约表",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "reserve/add-hairstylist",
+				    "style" : {
+				        "navigationBarTitleText": "添加可预约发型师",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "reserve/hairstylist",
+				    "style" : {
+				        "navigationBarTitleText": "预约管理",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "reserve/reserve",
+				    "style" : {
+				        "navigationBarTitleText": "预约管理",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				
+				{
+				    "path" : "personal/evaluation",
+				    "style" : {
+				        "navigationBarTitleText": "评价管理",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "personal/order/index",
+				    "style" : {
+				        "navigationBarTitleText": "订单管理",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "personal/withdrawal/withdrawal",
+				    "style" : {
+				        "navigationBarTitleText": "提现明细",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "home/echarts-data",
+				    "style" : {
+				        "navigationBarTitleText": "店铺流量",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "home/home",
+				    "style" : {
+				        "navigationBarTitleText": "商家首页",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				
+				{
+				    "path" : "home/settlement",
+				    "style" : {
+				        "navigationBarTitleText": "券详情",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "home/income-statistics-detail",
+				    "style" : {
+				        "navigationBarTitleText": "收入统计详情",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "home/income-statistics",
+				    "style" : {
+				        "navigationBarTitleText": "收入统计",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "home/verification-record",
+				    "style" : {
+				        "navigationBarTitleText": "验证记录",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "account/login",
+				    "style" :
+				    {
+				        "navigationBarTitleText": "登录",
+						"navigationStyle":"custom"
+				    }
+				},
+				{
+				    "path" : "account/register",
+				    "style" :
+				    {
+				        "navigationBarTitleText": "注册",
+						"navigationStyle":"custom"
+				    }
+				},
+				{
+				    "path" : "leaderboard/leaderboard-hairstylist-detail",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "发型师详情",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "leaderboard/leaderboard-answers-detail",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "回答详情",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "leaderboard/leaderboard-detail-questions-answers",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "问大家",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "leaderboard/leaderboard-evaluation-detail",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "评价详情",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "leaderboard/leaderboard-user-evaluation",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "用户的所有评价",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "leaderboard/leaderboard-evaluation",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "店铺评价",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				
+				
+				{
+				    "path" : "leaderboard/leaderboard-detail",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "商家详情",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				
+				{
+				    "path" : "leaderboard/leaderboard-detail-package",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "商家-套餐详情",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "leaderboard/leaderboard-report",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "投诉举报",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "leaderboard/leaderboard-work-detail",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "商家-作品详情",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "leaderboard/recruitment",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "商家-招聘详情",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "leaderboard/leaderboard-honor-detail",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "商家-荣誉列表-荣誉详情",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "leaderboard/leaderboard-honor",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "商家-荣誉列表",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "leaderboard/leaderboard-hairstylist",
+				    "style" :                                                                                    
+				    {
+				        "navigationBarTitleText": "商家-发型师列表",
+						"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "commodity/disclaimer",
+				    "style" : {
+				        "navigationBarTitleText": "免责声明",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "commodity/add-commodity-project",
+				    "style" : {
+				        "navigationBarTitleText": "添加商品",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "commodity/add-commodity",
+				    "style" : {
+				        "navigationBarTitleText": "添加商品",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				},
+				{
+				    "path" : "commodity/index",
+				    "style" : {
+				        "navigationBarTitleText": "商品管理",
+				    	"navigationBarTextStyle":"white",
+				        "enablePullDownRefresh": false
+				    }
+				}
+			]
+		},
+		{
+			"root": "page-user",
+			"pages": [
+				{
+				    "path" : "settlein/merchant",
+				    "style" : {
+				    	"navigationBarTitleText":"商家入驻",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "settlein/hairstylist",
+				    "style" : {
+				    	"navigationBarTitleText":"发型师入驻",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "settlein/protocol",
+				    "style" : {
+				    	"navigationBarTitleText":"入驻协议",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "settlein/add-honor",
+				    "style" : {
+				    	"navigationBarTitleText":"添加荣誉",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "settlein/selecte-label",
+				    "style" : {
+				    	"navigationBarTitleText":"选择头衔",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "settlein/selecte-business",
+				    "style" : {
+				    	"navigationBarTitleText":"选择入驻商家",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "hairstyle/index",
+				    "style" : {
+				    	"navigationBarTitleText":"发型记录",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "hairstyle/creatdate",
+				    "style" : {
+				    	"navigationBarTitleText":"添加发型记录",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				
+				{
+				    "path" : "reserve/order-detail",
+				    "style" : {
+				    	"navigationBarTitleText":"查看券码",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				
+				{
+				    "path" : "reserve/index",
+				    "style" : {
+				    	"navigationBarTitleText":"我的预约",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "setting/platform-rules",
+				    "style" : {
+				    	"navigationBarTitleText":"平台规则",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "setting/privacy-agreement",
+				    "style" : {
+				    	"navigationBarTitleText":"隐私协议",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "setting/user-agreement",
+				    "style" : {
+				    	"navigationBarTitleText":"用户协议",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "setting/help-center",
+				    "style" : {
+				    	"navigationBarTitleText":"帮助中心",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "setting/about-us",
+				    "style" : {
+				    	"navigationBarTitleText":"关于我们",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "setting/bind-phone",
+				    "style" : {
+				    	"navigationBarTitleText":"绑定手机号",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "setting/verified",
+				    "style" : {
+				    	"navigationBarTitleText":"实名认证",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "setting/user-info",
+				    "style" : {
+				    	"navigationBarTitleText":"个人信息",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "setting/index",
+				    "style" : {
+				    	"navigationBarTitleText":"设置",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				
+				{
+				    "path" : "integral/record",
+				    "style" : {
+				    	"navigationBarTitleText":"积分提现记录",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "integral/withdraw",
+				    "style" : {
+				    	"navigationBarTitleText":"积分提现",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "integral/user-lits",
+				    "style" : {
+				    	"navigationBarTitleText":"邀请列表",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "integral/index",
+				    "style" : {
+				    	"navigationBarTitleText":"积分收益",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "invite/index",
+				    "style" : {
+				    	"navigationBarTitleText":"邀请新人",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				
+				{
+				    "path" : "wallet/setpassword",
+				    "style" : {
+				    	"navigationBarTitleText":"设置支付密码",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "wallet/withdraw",
+				    "style" : {
+				    	"navigationBarTitleText":"提现",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "wallet/recharge",
+				    "style" : {
+				    	"navigationBarTitleText":"充值",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "wallet/add-card",
+				    "style" : {
+				    	"navigationBarTitleText":"添加银行卡",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "wallet/bank-card",
+				    "style" : {
+				    	"navigationBarTitleText":"银行卡",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "wallet/transaction-record",
+				    "style" : {
+				    	"navigationBarTitleText":"交易记录",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "wallet/index",
+				    "style" :
+				    {
+				        "navigationBarTitleText": "我的钱包",
+						"navigationStyle":"custom"
+				    }
+				},
+				
+				{
+				    "path" : "message/detail",
+				    "style" : {
+				    	"navigationBarTitleText":"消息详情",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "message/index",
+				    "style" : {
+				    	"navigationBarTitleText":"消息",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "history/index",
+				    "style" : {
+				    	"navigationBarTitleText":"浏览",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "collect/index",
+				    "style" : {
+				    	"navigationBarTitleText":"我的收藏",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "order/order-refund-status",
+				    "style" : {
+				    	"navigationBarTitleText":"退款进度",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "order/order-evaluation",
+				    "style" : {
+				    	"navigationBarTitleText":"订单评价",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				
+				{
+				    "path" : "order/order-detail",
+				    "style" : {
+				    	"navigationBarTitleText":"订单详情",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				},
+				{
+				    "path" : "order/order-list",
+				    "style" : {
+				    	"navigationBarTitleText":"订单",
+				    	"navigationBarTextStyle":"white",
+				    	"enablePullDownRefresh":true
+				    }
+				}
+			]
+		}
+	],
 	"tabBar": {
 	    "color": "#333333",
 	    "selectedColor": "#333333",
@@ -776,7 +1262,7 @@
 				"text": "首页"
 			},
 			{
-				"pagePath": "pages/merchant/leaderboard/leaderboard",
+				"pagePath": "pages/leaderboard/leaderboard",
 				"iconPath": "./static/images/shop.png",
 				"selectedIconPath": "./static/images/shop_s.png",
 				"text": "商家"
@@ -788,7 +1274,7 @@
 				"text": "发现"
 			},
 			{
-				"pagePath": "pages/user/index/index",
+				"pagePath": "pages/user/index",
 				"iconPath": "./static/images/my.png",
 				"selectedIconPath": "./static/images/my_s.png",
 				"text": "我的"

@@ -1,6 +1,6 @@
 <!-- 商品信息 -->
 <template>
-	<view @click="toDetail" class="t-hairdres-setmeal">
+	<view @click="toDetail()" class="t-hairdres-setmeal">
 		<view class="t-hairdres-header">
 			<image src="https://cdn.pixabay.com/photo/2021/07/07/22/29/badlands-national-park-6395444_960_720.jpg" mode="aspectFill"></image>
 		</view>
@@ -40,9 +40,7 @@
 		},
 		methods: {
 			toDetail () {
-				uni.navigateTo({
-					url:'../../merchant/leaderboard/leaderboard-detail',
-				})
+				this.$emit('onClick')
 			}
 		}
 	}

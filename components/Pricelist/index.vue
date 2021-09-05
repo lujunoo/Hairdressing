@@ -4,7 +4,7 @@
 		<Card>
 			<Title class="card-title" title="价目表"/>
 			<TabBar isFlex :tabList="tabList" />
-			<view @click="toDetail(item)" v-for="(item,index) in (isOpen ? datalist.length : (datalist.length > 3 ? 3: datalist.length))" :key="index" class="list-item">
+			<view @click="toDetail(item)" v-for="(item,index) in getLength" :key="index" class="list-item">
 				<image src="https://cdn.pixabay.com/photo/2020/05/30/07/15/mountains-5237939_960_720.jpg" mode="scaleToFill"></image>
 				<view class="desc">
 					<view class="title">【时尚烫染】施华蔻烫染直3选1【时尚烫染】施华蔻烫染直3选1</view>
@@ -50,6 +50,19 @@
 			Card,
 			TabBar
 		},
+		computed: {
+			getLength(){
+				if (this.isOpen) {
+					return this.datalist.length
+				} else {
+					if (this.datalist.length > 3) {
+							return 3
+					} else {
+						return datalist.length
+					}
+				}
+			}
+		},
 		data () {
 			return {
 				isOpen: false, //是否展开菜单
@@ -59,9 +72,9 @@
 		methods: {
 			toDetail (item) {
 				uni.navigateTo({
-					url:'../../merchant/leaderboard/leaderboard-detail-package',
-					complete: (data) => {
-						console.log(data)
+					url:'../../../leaderboard-detail-package',
+					complete: (res) => {
+						console.log(res)
 					}
 				})
 			}

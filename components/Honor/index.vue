@@ -1,10 +1,13 @@
 <template>
 	<!-- 荣誉墙 -->
-	<view @click="toDetail" class="t-hairdres-honor">
+	<view class="t-hairdres-honor">
 		<Card>
-			<image src="https://cdn.pixabay.com/photo/2020/05/30/07/15/mountains-5237939_960_720.jpg" mode="aspectFill"></image>
-			<text class="subtitle">中国美发美容协会第五届理事会理事单位</text>
-			<text class="desc">文字介绍文字介绍文字介绍文字介绍文字介绍文字介绍文字介绍文字介绍文字介绍文字介绍字介绍介绍文字介绍文字介绍字介绍介绍文字介绍文字介绍文绍文字介绍字介绍</text>
+			<Title v-if="hideTitle" @onClick="toHonor" showLeft title="荣誉证书"/>
+			<view @click="toDetail" class="">
+				<image src="https://cdn.pixabay.com/photo/2020/05/30/07/15/mountains-5237939_960_720.jpg" mode="aspectFill"></image>
+				<text class="subtitle">中国美发美容协会第五届理事会理事单位</text>
+				<text class="desc">文字介绍文字介绍文字介绍文字介绍文字介绍文字介绍文字介绍文字介绍文字介绍文字介绍字介绍介绍文字介绍文字介绍字介绍介绍文字介绍文字介绍文绍文字介绍字介绍</text>
+			</view>
 		</Card>
 	</view>
 </template>
@@ -13,6 +16,12 @@
 	import Title from '@/components/Title'
 	import Card from '@/components/Card'
 	export default {
+		props: {
+			hideTitle: {
+				type:Boolean,
+				default: false
+			}
+		},
 		components: {
 			Title,
 			Card
@@ -20,9 +29,14 @@
 		methods: {
 			toDetail () {
 				uni.navigateTo({
-					url: '../../merchant/leaderboard/leaderboard-honor-detail'
+					url: '../../../leaderboard-honor-detail'
 				})
-			}
+			},
+			toHonor () {
+				uni.navigateTo({
+					url: '../../../leaderboard-honor'
+				})
+			},
 		}
 	}
 </script>

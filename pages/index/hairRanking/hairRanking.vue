@@ -25,7 +25,7 @@
 		</view>
 		<!-- 商品列表 -->
 		<view class="Setmeal">
-			<Hairstylist v-for="(item,index) in 10" :key="index" />
+			<Hairstylist @onCilck="toDetail(item)" v-for="(item,index) in 10" :key="index" />
 		</view>
 		<!-- 加载状态 -->
 		<pull-down-refresh/>
@@ -129,6 +129,11 @@
 		onShow() {
 		},
 		methods: {
+			toDetail() {
+				uni.navigateTo({
+					url: '../../../page-merchant/leaderboard/leaderboard-hairstylist-detail'
+				})
+			},
 			checkedItem (index, index2) {
 				this.filterChildActive = [index, index2]
 				console.log(this.filterChildActive)

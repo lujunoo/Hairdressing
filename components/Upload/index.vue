@@ -1,6 +1,6 @@
 <template>
 	<view class="t-hairdres-upload">
-		<view v-for="(item,index) in imageList" :key="'img'+index" :style="{ width: `${width}rpx`, height: `${height}rpx` }" class="image">
+		<view v-for="(item,index) in imageList" :key="index" :style="{ width: `${width}rpx`, height: `${height}rpx` }" class="image">
 			<image :src="item" mode="aspectFill"></image>
 			<text @click="deleteItem(1,index)" class="iconfont">&#xe60f;</text>
 		</view>
@@ -8,7 +8,7 @@
 			<text class="iconfont">&#xe644;</text>
 			<text>{{title}}</text>
 		</view>
-		<view v-for="(item,index) in videoList" :key="'video'+index" class="image">
+		<view v-for="(item,index) in videoList" :key="index" class="image">
 			<video :controls='false' :show-center-play-btn="false" :show-play-btn="false" :src="item" />
 			<text @click="deleteItem(2,index)" class="iconfont">&#xe60f;</text>
 		</view>

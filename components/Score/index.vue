@@ -2,7 +2,7 @@
 	<!-- 评分 -->
 	<view class="t-hairdres-score">
 		<text class="iconfont"  v-for="(item,index) in parseInt(score)" :key="index" >&#xe62b;</text>
-		<text class="iconfont iconfont2" v-if="showGray"  v-for="(item2,index2) in parseInt(5 - score)" :key="'t_'+index2" >&#xe62b;</text>
+		<text class="iconfont iconfont2" v-if="showGray"  v-for="(item2,index2) in parseInt(5 - score)" :key="index2" >&#xe62b;</text>
 		<text class="score" >{{getString}}</text>
 	</view>
 </template>

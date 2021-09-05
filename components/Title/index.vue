@@ -39,7 +39,7 @@
 
 <style scoped lang="less">
 	.t-hairdres-title {
-		padding: 32rpx 0;
+		padding-bottom: 32rpx;
 		font-size: 32rpx;
 		display: flex;
 		justify-content: space-between;

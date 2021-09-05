@@ -1,5 +1,5 @@
 {
-    "name" : "Hairdressing",
+    "name" : "ihair do",
     "appid" : "__UNI__A5050DE",
     "description" : "",
     "versionName" : "1.0.0",
@@ -57,10 +57,14 @@
     "quickapp" : {},
     /* 小程序特有相关 */
     "mp-weixin" : {
-        "appid" : "",
+        "appid" : "wxb82b9d13a167275d",
         "setting" : {
-            "urlCheck" : false
+            "urlCheck" : false,
+            "minified" : true
         },
+		"optimization":{
+			"subPackages": true
+		},
         "usingComponents" : true
     },
     "mp-alipay" : {

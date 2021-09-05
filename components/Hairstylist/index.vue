@@ -36,9 +36,7 @@
 	export default {
 		methods: {
 			toDetail () {
-				uni.navigateTo({
-					url: '../../merchant/leaderboard/leaderboard-hairstylist-detail'
-				})
+				this.$emit('onCilck')
 			}
 		}
 	}

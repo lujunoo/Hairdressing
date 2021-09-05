@@ -20,7 +20,7 @@
 			<view v-if="!hideFooter" class="footer">
 				<slot name="footer">
 					<view class="footer-button">
-						<text @click="cancel" class='button'>{{cancelText}}</text>
+						<text v-if="!cancelHide" @click="cancel" class='button'>{{cancelText}}</text>
 						<text @click="confirm" class='button submit'>{{okText}}</text>
 					</view>
 				</slot>
@@ -44,9 +44,13 @@
 				type:String,
 				default: '取消'
 			},
+			cancelHide: {
+				type: Boolean,
+				default: false
+			},
 			desc: {
 				type: String,
-				default: '本次下架前已售出待验券订单不受下架影响，请按原有内容接待！'
+				default: '请确认是否要执行此操作！'
 			},
 			hideHeader: {
 				type: Boolean,
@@ -110,6 +114,7 @@
 		height: auto;
 		min-height: 330rpx;
 		min-width: 500rpx;
+		max-height: 90%;
 		border-radius: 10rpx;
 		background: #FFFFFF;
 		position: absolute;
@@ -128,16 +133,20 @@
 				text-align: center;
 			}
 		}
+		.body {
+			max-height: 90%;
+			overflow-y: auto;
+		}
 		.desc {
 			font-size: 24rpx;
 			padding: 0 40rpx;
+			line-height: 2;
 		}
 		.footer {
 			.footer-button {
 				display: flex;
 				justify-content: space-around;
 				padding: 40rpx 32rpx;
-				
 				.button {
 					flex: 1;
 					display: block;

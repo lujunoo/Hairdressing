@@ -1,19 +1,32 @@
 <template>
 	<!-- 瀑布流 -->
-	<view class="t-hairdres-waterfallsflow">
-		<view @click="toDetail(item)" v-if="index % 2=== 0" class="item" v-for="(item,index) in list" :key="index" >
-			<image :src="item" mode="widthFix"></image>
+	<Card>
+		<Title v-if="!hideTitle" title="作品"></Title>
+		<view class="t-hairdres-waterfallsflow">
+			<view @click="toDetail(item)" v-if="index % 2=== 0" class="item" v-for="(item,index) in list" :key="index" >
+				<image :src="item" mode="widthFix"></image>
+			</view>
+			<view @click="toDetail(item)"  v-if="index % 2!== 0" class="item" v-for="(item,index) in list" :key="index" >
+				<image :src="item" mode="widthFix"></image>
+			</view>
 		</view>
-		<view @click="toDetail(item)"  v-if="index % 2!== 0" class="item" v-for="(item,index) in list" :key="index" >
-			<image :src="item" mode="widthFix"></image>
-		</view>
-	</view>
+	</Card>
 </template>
 
 <script>
+	import Card from '@/components/Card'
+	import Title from '@/components/Title'
 	export default {
+		components: {
+			Card,
+			Title
+		},
 		name: '',
 		props: {
+			hideTitle: {
+				type:Boolean,
+				default: false
+			},
 			list: {
 				type: Array,
 				default: () => {
@@ -32,12 +45,12 @@
 		methods: {
 			toDetail (item) {
 				if (this.isEmit) {
-					this.$emit('onClick', item)
-				} else {
-					uni.navigateTo({
-						url:'../../merchant/leaderboard/leaderboard-work-detail'
-					})
+					this.$emit('onCilck', item)
+					return
 				}
+				uni.navigateTo({
+					url:'../../../leaderboard-work-detail'
+				})
 			}
 		}
 	}
