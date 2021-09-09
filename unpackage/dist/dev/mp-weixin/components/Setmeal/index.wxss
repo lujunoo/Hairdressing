@@ -1,0 +1,99 @@
+.t-hairdres-setmeal.data-v-a6f74fc6 {
+  background: #FFFFFF;
+  margin: 24rpx 32rpx 0 32rpx;
+  border-radius: 10rpx;
+  padding: 24rpx;
+}
+.t-hairdres-setmeal .theme.data-v-a6f74fc6 {
+  color: #F95AC0;
+}
+.t-hairdres-setmeal .yellow.data-v-a6f74fc6 {
+  color: #FFB400;
+}
+.t-hairdres-setmeal .red.data-v-a6f74fc6 {
+  color: #FF6464;
+}
+.t-hairdres-setmeal .content.data-v-a6f74fc6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-setmeal .content .title.data-v-a6f74fc6 {
+  font-size: 28rpx;
+  line-height: 28rpx;
+  margin-bottom: 24rpx;
+  color: #333333;
+  font-weight: bold;
+  display: block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.t-hairdres-setmeal .content .count.data-v-a6f74fc6 {
+  line-height: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 24rpx;
+  color: #333333;
+}
+.t-hairdres-setmeal .content .address.data-v-a6f74fc6 {
+  line-height: 24rpx;
+  font-size: 24rpx;
+  color: #333333;
+  margin-top: 20rpx;
+}
+.t-hairdres-setmeal .content .address text.data-v-a6f74fc6 {
+  margin-right: 32rpx;
+}
+.t-hairdres-setmeal .content .desc.data-v-a6f74fc6 {
+  line-height: 24rpx;
+  font-size: 24rpx;
+  color: #333333;
+  margin: 32rpx 0 24rpx 0;
+}
+.t-hairdres-setmeal .content .selling-price.data-v-a6f74fc6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 24rpx;
+  color: #333333;
+}
+.t-hairdres-setmeal .content .selling-price .price.data-v-a6f74fc6 {
+  font-size: 28rpx;
+  color: #f95abf;
+  font-weight: bold;
+  position: relative;
+}
+.t-hairdres-setmeal .content .selling-price .price text.data-v-a6f74fc6:last-child {
+  font-size: 24rpx;
+  color: #999999;
+  font-weight: 500;
+  margin-left: 16rpx;
+}
+.t-hairdres-setmeal .t-hairdres-header.data-v-a6f74fc6 {
+  width: 225rpx;
+  height: 225rpx;
+  border-radius: 10rpx;
+  overflow: hidden;
+  margin-right: 40rpx;
+  float: left;
+}
+.t-hairdres-setmeal .t-hairdres-header image.data-v-a6f74fc6 {
+  width: 100%;
+  height: 100%;
+}
+

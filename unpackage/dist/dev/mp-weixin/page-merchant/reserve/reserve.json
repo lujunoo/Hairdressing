@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "预约管理",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "tab-bar": "/components/TabBar/index",
+    "calendar-header": "/components/CalendarHeader/index",
+    "schedule": "/components/Schedule/index"
+  }
+}

@@ -1,0 +1,56 @@
+.t-hairdres-user-send .item .title2.data-v-1b93b2e3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 32rpx;
+  padding-bottom: 24rpx;
+  font-size: 24rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-user-send .item .title2 text text.data-v-1b93b2e3 {
+  color: #ff8400;
+  margin-left: 16rpx;
+}
+.t-hairdres-user-send .item .title2 .iconfont.data-v-1b93b2e3 {
+  font-size: 28rpx;
+  color: #fc689a;
+}
+.t-hairdres-user-send .item .title.data-v-1b93b2e3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-send .item .title text.data-v-1b93b2e3:first-child {
+  line-height: 1;
+  font-size: 24rpx;
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-bottom: 40rpx;
+}
+.t-hairdres-user-send .item .title .iconfont.data-v-1b93b2e3 {
+  margin-bottom: 40rpx;
+  font-size: 28rpx;
+  color: #fc689a;
+}
+.t-hairdres-user-send .item .time.data-v-1b93b2e3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  color: #666;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 24rpx;
+}
+

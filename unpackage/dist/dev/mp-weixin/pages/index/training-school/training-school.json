@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "培训学校",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "pull-down-refresh": "/components/PullDownRefresh/index"
+  }
+}

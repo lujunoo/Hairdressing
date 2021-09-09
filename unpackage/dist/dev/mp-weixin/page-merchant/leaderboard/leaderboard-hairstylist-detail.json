@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "发型师详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "banner": "/components/Banner/index",
+    "tab-bar": "/components/TabBar/index",
+    "shop-entrance": "/components/ShopEntrance/index",
+    "pricelist": "/components/Pricelist/index",
+    "evaluation": "/components/Evaluation/index",
+    "title": "/components/Title/index",
+    "honor": "/components/Honor/index",
+    "waterfalls-flow": "/components/WaterfallsFlow/index",
+    "dialog": "/components/Dialog/index"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "隐私协议",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card": "/components/Card/index"
+  }
+}

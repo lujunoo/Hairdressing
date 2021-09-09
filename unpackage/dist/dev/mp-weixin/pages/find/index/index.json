@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "发现",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tab-bar": "/components/TabBar/index",
+    "tab-filter": "/components/Filter/index",
+    "card": "/components/Card/index",
+    "waterfalls-flow": "/components/WaterfallsFlow/index",
+    "pull-down-refresh": "/components/PullDownRefresh/index"
+  }
+}

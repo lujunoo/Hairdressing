@@ -1,0 +1,45 @@
+.t-hairdres-user-personal-honor-list.data-v-1f1b6345 {
+  padding-bottom: 100rpx;
+  font-size: 24rpx;
+}
+.t-hairdres-user-personal-honor-list .honor-list.data-v-1f1b6345 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.t-hairdres-user-personal-honor-list .honor-list .list-item.data-v-1f1b6345 {
+  width: calc(50% - 16rpx);
+  height: 216rpx;
+  margin-right: 16rpx;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-user-personal-honor-list .honor-list .list-item text.data-v-1f1b6345 {
+  background: rgba(0, 0, 0, 0.3);
+  color: #fff;
+  display: block;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: calc(100% - 32rpx);
+  line-height: 1;
+  padding: 16rpx 24rpx;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.t-hairdres-user-personal-honor-list .honor-list .list-item image.data-v-1f1b6345 {
+  width: 100%;
+  height: 100%;
+}
+.t-hairdres-user-personal-honor-list .honor-list .list-item.data-v-1f1b6345:nth-child(2n) {
+  margin-right: 0;
+  margin-left: 16rpx;
+}
+.t-hairdres-user-personal-honor-list .t-hairdres-button.data-v-1f1b6345 {
+  width: 480rpx;
+}
+

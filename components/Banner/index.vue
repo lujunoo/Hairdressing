@@ -1,9 +1,9 @@
 <template>
 	<view :style="{ height: setHeight }" class="t-hairdres-banner">
 		<swiper class="swiper" indicator-dots indicator-active-color="#fff" indicator-color="rgba(255,255,255,0.5)" :vertical="vertical" autoplay interval="5000" duration="300">
-			<swiper-item v-for="(item, index) in images" :key="index">
-				<view class="swiper-item">
-					<image class="swiper-item-image" :src="item" mode="aspectFill"></image>
+			<swiper-item v-for="(item, index) in list" :key="index">
+				<view @click="toDetail" class="swiper-item">
+					<image class="swiper-item-image" :src="item.image" mode="aspectFill"></image>
 				</view>
 			</swiper-item>
 		</swiper>
@@ -22,7 +22,7 @@
 				type: String,
 				default: '400rpx'
 			},
-			images: {
+			list: {
 				type: Array,
 				default: () => {
 					return []
@@ -47,6 +47,11 @@
 				} else {
 					return `${this.height}rpx`
 				}
+			}
+		},
+		methods: {
+			toDetail (url) {
+				uni.navigateTo({ url: url })
 			}
 		}
 	}

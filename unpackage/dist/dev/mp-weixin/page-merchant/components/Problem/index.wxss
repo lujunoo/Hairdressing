@@ -1,0 +1,46 @@
+.t-hairdres-problem .card-title.data-v-5804bac0 {
+  margin: -32rpx 0;
+}
+.t-hairdres-problem .list-item.data-v-5804bac0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-top: 24rpx;
+  font-size: 24rpx;
+}
+.t-hairdres-problem .list-item .desc.data-v-5804bac0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-problem .list-item .text.data-v-5804bac0 {
+  display: block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 490rpx;
+}
+.t-hairdres-problem .list-item .icon.data-v-5804bac0 {
+  width: 32rpx;
+  height: 32rpx;
+  color: #FFFFFF;
+  display: inline-block;
+  text-align: center;
+  margin-right: 8rpx;
+  line-height: 32rpx;
+  background-color: #fc689a;
+  border-radius: 5rpx;
+}
+.t-hairdres-problem .problem-title.data-v-5804bac0 {
+  margin: -32rpx;
+}
+

@@ -1,0 +1,69 @@
+.t-hairdres-filter.data-v-421ab8d6 {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  height: 80rpx;
+}
+.t-hairdres-filter .mask.data-v-421ab8d6 {
+  position: absolute;
+  top: 72rpx;
+  left: 0;
+  width: 100%;
+  height: 85vh;
+  background: rgba(0, 0, 0, 0.05);
+  z-index: 1;
+}
+.t-hairdres-filter .filter-child.data-v-421ab8d6 {
+  border-top: solid #f0f0f0 1px;
+  box-shadow: 0 16rpx 16rpx rgba(0, 0, 0, 0.1);
+  width: 100%;
+  background: #FFFFFF;
+  position: absolute;
+  top: 74rpx;
+  left: 0;
+  z-index: 2;
+}
+.t-hairdres-filter .filter-child text.data-v-421ab8d6 {
+  display: block;
+  font-size: 28rpx;
+  color: #999999;
+  padding: 0 32rpx 32rpx 32rpx;
+}
+.t-hairdres-filter .filter-child text.data-v-421ab8d6:first-child {
+  padding-top: 32rpx;
+}
+.t-hairdres-filter .filter.data-v-421ab8d6 {
+  font-family: icon-hairdressing;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 80rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  z-index: 2;
+}
+.t-hairdres-filter .filter .filter-item.data-v-421ab8d6 {
+  font-size: 28rpx;
+  color: #333333;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-filter .filter .filter-item text.data-v-421ab8d6:last-child {
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  margin-left: 8rpx;
+  font-size: 24rpx;
+  display: block;
+}
+

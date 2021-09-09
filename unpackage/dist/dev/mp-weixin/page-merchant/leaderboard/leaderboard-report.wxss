@@ -1,0 +1,9 @@
+.t-hairdres-shop-work-complaint .count.data-v-7f773c4d {
+  text-align: right;
+  display: block;
+  font-size: 24rpx;
+}
+.t-hairdres-shop-work-complaint button.data-v-7f773c4d {
+  margin: 120rpx 0;
+}
+

@@ -1,0 +1,46 @@
+.t-hairdres-user-personal-break-time.data-v-88affe02 {
+  font-size: 24rpx;
+}
+.t-hairdres-user-personal-break-time .break-time-calendar-header.data-v-88affe02 {
+  padding: 32rpx;
+  line-height: 1;
+}
+.t-hairdres-user-personal-break-time .break-time-header.data-v-88affe02 {
+  line-height: 1;
+  border: solid 2rpx #aaaaaa;
+}
+.t-hairdres-user-personal-break-time .break-time-header .start-time.data-v-88affe02 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-bottom: solid 2rpx #aaaaaa;
+}
+.t-hairdres-user-personal-break-time .break-time-header .start-time.data-v-88affe02:last-child {
+  border: 0;
+}
+.t-hairdres-user-personal-break-time .break-time-header .start-time text.data-v-88affe02 {
+  padding: 24rpx 16rpx;
+  text-align: center;
+  -webkit-box-flex: 3;
+  -webkit-flex: 3;
+          flex: 3;
+  border-right: solid 2rpx #aaaaaa;
+}
+.t-hairdres-user-personal-break-time .break-time-header .start-time text.data-v-88affe02:last-child {
+  border: none;
+}
+.t-hairdres-user-personal-break-time .break-time-header .start-time .label.data-v-88affe02 {
+  -webkit-box-flex: 1.5;
+  -webkit-flex: 1.5;
+          flex: 1.5;
+}
+.t-hairdres-user-personal-break-time .break-time-header .start-time .subtitle.data-v-88affe02 {
+  font-weight: bold;
+  font-size: 28rpx;
+  border: none;
+  -webkit-box-flex: 6;
+  -webkit-flex: 6;
+          flex: 6;
+  padding-left: 130rpx;
+}
+

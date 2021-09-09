@@ -1,0 +1,48 @@
+.t-hairdres-pay-password .footer.data-v-4e21b74a {
+  padding: 40rpx;
+  font-size: 24rpx;
+}
+.t-hairdres-pay-password .body.data-v-4e21b74a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 0 40rpx;
+  position: relative;
+}
+.t-hairdres-pay-password .body .password.data-v-4e21b74a {
+  width: 85%;
+  height: 60rpx;
+  position: absolute;
+  opacity: 0;
+}
+.t-hairdres-pay-password .body text.data-v-4e21b74a {
+  width: 50rpx;
+  height: 50rpx;
+  border-radius: 4rpx;
+  border: solid 2rpx #a0a0a0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.t-hairdres-pay-password .body .active.data-v-4e21b74a {
+  position: relative;
+}
+.t-hairdres-pay-password .body .active.data-v-4e21b74a::after {
+  content: '';
+  width: 20rpx;
+  height: 20rpx;
+  border-radius: 100rpx;
+  background: #333333;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+

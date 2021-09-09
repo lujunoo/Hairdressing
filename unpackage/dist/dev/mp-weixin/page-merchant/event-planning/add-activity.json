@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "发布活动",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "fixed-footer": "/components/fixedFooter/index",
+    "dialog": "/components/Dialog/index"
+  }
+}

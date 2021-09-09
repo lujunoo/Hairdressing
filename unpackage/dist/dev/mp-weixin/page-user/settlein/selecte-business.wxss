@@ -1,0 +1,49 @@
+.t-hairdres-user-selecte-business .list-item.data-v-3e67ebbf {
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-selecte-business .list-item.data-v-3e67ebbf:last-child {
+  margin-bottom: 0;
+  padding-bottom: 16rpx;
+  border: none;
+}
+.t-hairdres-user-selecte-business .list-item image.data-v-3e67ebbf {
+  display: block;
+  width: 70rpx;
+  height: 70rpx;
+  border-radius: 10rpx;
+}
+.t-hairdres-user-selecte-business .list-item .content.data-v-3e67ebbf {
+  font-size: 24rpx;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  min-height: 65rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  line-height: 1;
+  margin-left: 24rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-user-selecte-business .list-item .content text.data-v-3e67ebbf:first-child {
+  font-weight: bold;
+}
+.t-hairdres-user-selecte-business .search-box.data-v-3e67ebbf {
+  width: calc(100% - 64rpx);
+  margin: 32rpx;
+}
+

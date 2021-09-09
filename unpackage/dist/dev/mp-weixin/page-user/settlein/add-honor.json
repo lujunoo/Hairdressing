@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "添加荣誉",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "upload": "/components/Upload/index"
+  }
+}

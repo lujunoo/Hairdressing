@@ -1,0 +1,27 @@
+.t-hairdres-user-integral-user-list .list-item.data-v-0c13766f {
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-integral-user-list .list-item.data-v-0c13766f:last-child {
+  margin-bottom: 0;
+  border: none;
+  padding-bottom: 0;
+}
+.t-hairdres-user-integral-user-list .list-item image.data-v-0c13766f {
+  width: 60rpx;
+  height: 60rpx;
+  margin-right: 32rpx;
+  border-radius: 100rpx;
+}
+.t-hairdres-user-integral-user-list .list-item text.data-v-0c13766f {
+  font-weight: bold;
+  font-size: 28rpx;
+}
+

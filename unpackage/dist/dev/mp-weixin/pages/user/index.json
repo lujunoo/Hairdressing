@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "dialog": "/components/Dialog/index"
+  }
+}

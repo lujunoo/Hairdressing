@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "作品详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "banner": "/components/Banner/index",
+    "search": "/components/Search/index",
+    "pull-down-refresh": "/components/PullDownRefresh/index"
+  }
+}

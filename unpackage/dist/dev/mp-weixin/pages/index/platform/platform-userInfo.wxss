@@ -1,0 +1,149 @@
+.t-hairdres-platform-user .data-list.data-v-e58cbf26 {
+  margin-top: 32rpx;
+  background: #FFFFFF;
+}
+.t-hairdres-platform-user .data-list .list-discuss.data-v-e58cbf26 {
+  margin: 0 32rpx 32rpx 32rpx;
+  border-radius: 10rpx;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 13px 0px rgba(0, 0, 0, 0.1);
+  padding: 32rpx;
+}
+.t-hairdres-platform-user .data-list .list-title.data-v-e58cbf26 {
+  margin: 32rpx  32rpx 0;
+}
+.t-hairdres-platform-user .usertab.data-v-e58cbf26 {
+  height: 150rpx;
+  background: #f95abf;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-platform-user .usertab .item.data-v-e58cbf26 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  color: #FFFFFF;
+  font-size: 28rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  line-height: 1;
+  margin: 32rpx 0;
+}
+.t-hairdres-platform-user .usertab .item.data-v-e58cbf26:nth-child(2) {
+  border-right: solid 2rpx #FFFFFF;
+  border-left: solid 2rpx #FFFFFF;
+}
+.t-hairdres-platform-user .usertab .item text.data-v-e58cbf26:first-child {
+  font-size: 32rpx;
+  font-weight: bold;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-platform-user .userinfo.data-v-e58cbf26 {
+  height: 350rpx;
+  position: relative;
+}
+.t-hairdres-platform-user .userinfo .content.data-v-e58cbf26 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  color: #FFFFFF;
+}
+.t-hairdres-platform-user .userinfo .content .count.data-v-e58cbf26 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  font-size: 24rpx;
+}
+.t-hairdres-platform-user .userinfo .content .count text.data-v-e58cbf26 {
+  margin: 32rpx 60rpx 0 60rpx ;
+}
+.t-hairdres-platform-user .userinfo .content .count text text.data-v-e58cbf26 {
+  color: #ff0000;
+  margin: 0;
+}
+.t-hairdres-platform-user .userinfo .content .name2.data-v-e58cbf26,
+.t-hairdres-platform-user .userinfo .content .name.data-v-e58cbf26 {
+  display: block;
+  font-size: 24rpx;
+  line-height: 24rpx;
+  margin-top: 32rpx;
+}
+.t-hairdres-platform-user .userinfo .content .name.data-v-e58cbf26 {
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-platform-user .userinfo .content .header.data-v-e58cbf26 {
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 100rpx;
+  box-shadow: 0px 0px 6px 0px #000000;
+  position: relative;
+}
+.t-hairdres-platform-user .userinfo .content .header .iconfont.data-v-e58cbf26 {
+  color: #fc699a;
+  position: absolute;
+  bottom: -20rpx;
+  left: 50%;
+  font-size: 40rpx;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+.t-hairdres-platform-user .userinfo .content .header image.data-v-e58cbf26 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border-radius: 100rpx;
+}
+.t-hairdres-platform-user .userinfo .content .btn.data-v-e58cbf26 {
+  color: #FFFFFF;
+  right: 32rpx;
+  top: 32rpx;
+  position: absolute;
+  line-height: 40rpx;
+  text-align: center;
+  font-size: 24rpx;
+  width: 116rpx;
+  height: 40rpx;
+  background-color: #fc699a;
+  border-radius: 10rpx;
+}
+.t-hairdres-platform-user .userinfo .bg.data-v-e58cbf26 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+

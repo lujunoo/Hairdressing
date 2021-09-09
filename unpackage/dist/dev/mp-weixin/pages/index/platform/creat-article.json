@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "发布帖子",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "upload": "/components/Upload/index"
+  }
+}

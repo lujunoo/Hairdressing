@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "选择入驻商家",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "search": "/components/Search/index"
+  }
+}

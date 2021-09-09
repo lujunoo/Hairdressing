@@ -1,0 +1,56 @@
+.t-hairdres-user-setting-help-center .list-item.data-v-4101d084 {
+  font-size: 24rpx;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-user-setting-help-center .list-item .sub-title.data-v-4101d084 {
+  height: 70rpx;
+  background-color: #eeeeee;
+  border-radius: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 0 32rpx;
+}
+.t-hairdres-user-setting-help-center .list-item .list-content.data-v-4101d084 {
+  height: auto;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  max-height: 0;
+  text-indent: 2em;
+  overflow: hidden;
+}
+.t-hairdres-user-setting-help-center .list-item .list-content text.data-v-4101d084 {
+  display: block;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-user-setting-help-center .list-item.data-v-4101d084:last-child {
+  margin-bottom: 0;
+}
+.t-hairdres-user-setting-help-center .list-item .iconfont.data-v-4101d084 {
+  font-size: 40rpx;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+.t-hairdres-user-setting-help-center .active .sub-title .iconfont.data-v-4101d084 {
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.t-hairdres-user-setting-help-center .active .list-content.data-v-4101d084 {
+  max-height: 300rpx;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+.t-hairdres-user-setting-help-center .title.data-v-4101d084 {
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-bottom: 32rpx;
+}
+

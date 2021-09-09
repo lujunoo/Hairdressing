@@ -1,0 +1,12 @@
+.t-hairdres-user-setting-about-us.data-v-1b810c8a {
+  text-align: center;
+  font-size: 24rpx;
+  line-height: 1.8;
+}
+.t-hairdres-user-setting-about-us .logo.data-v-1b810c8a {
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 20rpx;
+  margin-bottom: 24rpx;
+}
+

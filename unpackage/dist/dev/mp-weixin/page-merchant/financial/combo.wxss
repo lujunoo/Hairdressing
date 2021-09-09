@@ -1,0 +1,43 @@
+.t-hairdres-merchant-combo.data-v-ace14cbe {
+  font-size: 24rpx;
+  padding-bottom: 32rpx;
+}
+.t-hairdres-merchant-combo .list-item.data-v-ace14cbe {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-merchant-combo .list-item.data-v-ace14cbe:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border: none;
+}
+.t-hairdres-merchant-combo .list-item .item.data-v-ace14cbe {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-merchant-combo .list-item .item .iconfont.data-v-ace14cbe {
+  display: inline-block;
+  color: #888;
+  -webkit-transform: scale(1.3);
+          transform: scale(1.3);
+}
+.t-hairdres-merchant-combo .list-item .item.data-v-ace14cbe:first-child {
+  font-weight: bold;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-merchant-combo .list-item .item.data-v-ace14cbe:last-child {
+  color: #888;
+}
+

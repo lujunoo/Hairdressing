@@ -1,0 +1,141 @@
+.t-hairdres-user-invite.data-v-664b5460 {
+  height: 1094rpx;
+}
+.t-hairdres-user-invite .hairstylistDialog.data-v-664b5460 {
+  width: 524rpx;
+}
+.t-hairdres-user-invite .hairstylistDialog .list-item.data-v-664b5460 {
+  font-size: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 24rpx 32rpx 0 32rpx;
+}
+.t-hairdres-user-invite .hairstylistDialog .list-item .shopInfo.data-v-664b5460 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-user-invite .hairstylistDialog .list-item .shopInfo image.data-v-664b5460 {
+  display: block;
+  width: 50rpx;
+  height: 50rpx;
+  background-color: #fc689a;
+  border-radius: 10rpx;
+}
+.t-hairdres-user-invite .hairstylistDialog .list-item .shopInfo view.data-v-664b5460 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin-left: 16rpx;
+}
+.t-hairdres-user-invite .hairstylistDialog .list-item .shopInfo view text.data-v-664b5460 {
+  font-size: 18rpx;
+  display: block;
+}
+.t-hairdres-user-invite .hairstylistDialog .list-item .shopInfo view text.data-v-664b5460:first-child {
+  font-size: 24rpx;
+  font-weight: bold;
+}
+.t-hairdres-user-invite .hairstylistDialog .list-item .code.data-v-664b5460 {
+  width: 135rpx;
+  height: 135rpx;
+}
+.t-hairdres-user-invite .hairstylistDialog .list-item .code image.data-v-664b5460 {
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin-bottom: 8rpx;
+}
+.t-hairdres-user-invite .hairstylistDialog .list-item .code text.data-v-664b5460 {
+  display: block;
+  text-align: center;
+  font-size: 18rpx;
+  color: #666666;
+}
+.t-hairdres-user-invite .hairstylistDialog .list-item .user-price.data-v-664b5460 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-user-invite .hairstylistDialog .list-item .user-price text.data-v-664b5460 {
+  margin-bottom: 16rpx;
+}
+.t-hairdres-user-invite .hairstylistDialog .list-item .name.data-v-664b5460 {
+  font-weight: bold;
+  font-size: 28rpx;
+}
+.t-hairdres-user-invite .desc.data-v-664b5460 {
+  font-size: 28rpx;
+  display: block;
+  margin-top: 88rpx;
+}
+.t-hairdres-user-invite .button-group.data-v-664b5460 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+          justify-content: space-evenly;
+  margin-top: 40rpx;
+}
+.t-hairdres-user-invite .button-group text.data-v-664b5460 {
+  padding: 24rpx 40rpx;
+  line-height: 1;
+  color: #ff7ae7;
+  background: #FFFFFF;
+  border-radius: 50rpx;
+  display: block;
+}
+.t-hairdres-user-invite .button-group text.data-v-664b5460:last-child {
+  color: #ff8839;
+}
+.t-hairdres-user-invite .user-invite-card.data-v-664b5460 {
+  height: 100%;
+  background-image: -webkit-linear-gradient(bottom, #ff7ae7 0%, #ff8eb4 100%);
+  background-image: linear-gradient(0deg, #ff7ae7 0%, #ff8eb4 100%);
+  padding: 60rpx;
+  font-size: 24rpx;
+  text-align: center;
+  color: #fff;
+}
+.t-hairdres-user-invite .user-invite-card .code.data-v-664b5460 {
+  background-color: #ffffff;
+  border-radius: 10rpx;
+  padding: 24rpx;
+  margin: 32rpx auto;
+  display: inline-block;
+}
+.t-hairdres-user-invite .user-invite-card .code image.data-v-664b5460 {
+  width: 200rpx;
+  height: 200rpx;
+  display: block;
+}
+.t-hairdres-user-invite .user-invite-card .logo.data-v-664b5460 {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.t-hairdres-user-invite .user-invite-card .tipc.data-v-664b5460 {
+  display: block;
+  margin-top: 32rpx;
+}
+.t-hairdres-user-invite .user-invite-card .number.data-v-664b5460 {
+  display: block;
+  margin-top: 32rpx;
+}
+

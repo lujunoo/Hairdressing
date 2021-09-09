@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "商家-招聘详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index"
+  }
+}

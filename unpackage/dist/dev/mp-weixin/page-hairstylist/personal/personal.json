@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "个人档案",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "banner": "/components/Banner/index",
+    "fixed-footer": "/components/fixedFooter/index",
+    "dialog": "/components/Dialog/index"
+  }
+}

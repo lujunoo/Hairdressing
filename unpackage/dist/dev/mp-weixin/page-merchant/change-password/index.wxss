@@ -1,0 +1,37 @@
+.t-hairdres-merchant-change-password.data-v-716c1218 {
+  font-size: 24rpx;
+  line-height: 1;
+}
+.t-hairdres-merchant-change-password .t-hairdres-button.data-v-716c1218 {
+  margin-top: 100rpx;
+}
+.t-hairdres-merchant-change-password .list-item.data-v-716c1218 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 32rpx;
+  padding-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-merchant-change-password .list-item .label.data-v-716c1218 {
+  width: 180rpx;
+  font-weight: bold;
+}
+.t-hairdres-merchant-change-password .list-item .input.data-v-716c1218 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-merchant-change-password .list-item .input input.data-v-716c1218 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 24rpx;
+}
+

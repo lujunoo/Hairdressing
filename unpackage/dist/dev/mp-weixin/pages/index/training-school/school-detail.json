@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "学校详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "banner": "/components/Banner/index",
+    "title": "/components/Title/index",
+    "collection": "/components/PictureCollection/index",
+    "card": "/components/Card/index",
+    "tab-bar": "/components/TabBar/index",
+    "pull-down-refresh": "/components/PullDownRefresh/index"
+  }
+}

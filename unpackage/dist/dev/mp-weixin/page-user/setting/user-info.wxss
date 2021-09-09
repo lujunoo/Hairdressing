@@ -1,0 +1,70 @@
+.t-hairdres-user-setting-user-info .t-hairdres-button.data-v-2f164ae6 {
+  margin: 100rpx 90rpx;
+}
+.t-hairdres-user-setting-user-info .list-item.data-v-2f164ae6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 28rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-user-setting-user-info .list-item.data-v-2f164ae6:last-child {
+  margin-bottom: 0;
+  border: none;
+  padding-bottom: 16rpx;
+}
+.t-hairdres-user-setting-user-info .list-item .label.data-v-2f164ae6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-left: 80rpx;
+}
+.t-hairdres-user-setting-user-info .list-item .label text.data-v-2f164ae6:last-child {
+  margin-left: 24rpx;
+}
+.t-hairdres-user-setting-user-info .list-item .right.data-v-2f164ae6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-setting-user-info .list-item .right .string.data-v-2f164ae6 {
+  font-size: 24rpx;
+  color: #999999;
+}
+.t-hairdres-user-setting-user-info .list-item image.data-v-2f164ae6 {
+  width: 60rpx;
+  height: 60rpx;
+  display: block;
+  border-radius: 100rpx;
+}
+.t-hairdres-user-setting-user-info .list-item input.data-v-2f164ae6 {
+  font-size: 28rpx;
+  text-align: right;
+}
+.t-hairdres-user-setting-user-info .list-item .iconfont.data-v-2f164ae6 {
+  margin-left: 16rpx;
+}
+.t-hairdres-user-setting-user-info .list-item .iconfont2.data-v-2f164ae6 {
+  color: #fc689a;
+}
+.t-hairdres-user-setting-user-info .list-item .iconfon3.data-v-2f164ae6 {
+  color: red;
+  margin-right: 16rpx;
+}
+

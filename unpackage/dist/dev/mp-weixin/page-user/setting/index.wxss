@@ -1,0 +1,28 @@
+.t-hairdres-user-setting .list-item.data-v-98ef6922 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 28rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-user-setting .list-item.data-v-98ef6922:last-child {
+  margin-bottom: 0;
+  border: none;
+  padding-bottom: 16rpx;
+}
+.t-hairdres-user-setting .list-item .right .string.data-v-98ef6922 {
+  font-size: 24rpx;
+  color: #999999;
+}
+.t-hairdres-user-setting .list-item .iconfont.data-v-98ef6922 {
+  margin-left: 16rpx;
+}
+

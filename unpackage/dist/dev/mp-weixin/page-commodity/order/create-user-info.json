@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "个人信息",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "uplaod": "/components/Upload/index",
+    "fixed-footer": "/components/fixedFooter/index"
+  }
+}

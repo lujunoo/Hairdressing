@@ -1,0 +1,122 @@
+.t-hairdres-merchant-home.data-v-4184c6ba {
+  padding-bottom: 100rpx;
+  font-size: 24rpx;
+  line-height: 1;
+}
+.t-hairdres-merchant-home .codeDialog.data-v-4184c6ba {
+  border: dashed 4rpx #fc689a;
+  margin: 0 40rpx;
+  font-size: 24rpx;
+  padding: 16rpx;
+  border-radius: 10rpx;
+}
+.t-hairdres-merchant-home .tabBar.data-v-4184c6ba {
+  width: 100%;
+  height: 100rpx;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-merchant-home .tabBar .item.data-v-4184c6ba {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  color: #666;
+}
+.t-hairdres-merchant-home .tabBar .item .iconfont.data-v-4184c6ba {
+  font-size: 48rpx;
+}
+.t-hairdres-merchant-home .tabBar .item.data-v-4184c6ba:last-child {
+  color: #fc6968;
+}
+.t-hairdres-merchant-home .tabBar .item:last-child .iconfont.data-v-4184c6ba {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+.t-hairdres-merchant-home .t-home-title.data-v-4184c6ba {
+  margin-top: -32rpx;
+}
+.t-hairdres-merchant-home .list-item.data-v-4184c6ba {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin-bottom: -24rpx;
+}
+.t-hairdres-merchant-home .list-item .item.data-v-4184c6ba {
+  width: 33.3%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-merchant-home .list-item .item image.data-v-4184c6ba {
+  width: 60rpx;
+  height: 60rpx;
+  display: block;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-merchant-home .list-item .item text.data-v-4184c6ba {
+  font-size: 28rpx;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-merchant-home .list-item2 .item.data-v-4184c6ba {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.t-hairdres-merchant-home .t-home-header.data-v-4184c6ba {
+  height: 320rpx;
+  background-image: -webkit-linear-gradient(bottom, #ffb26e 0%, #fc689a 100%);
+  background-image: linear-gradient(0deg, #ffb26e 0%, #fc689a 100%);
+  color: #fff;
+  margin-bottom: -140rpx;
+  text-align: center;
+}
+.t-hairdres-merchant-home .t-home-header .count.data-v-4184c6ba {
+  font-size: 36rpx;
+  font-weight: bold;
+  padding-top: 32rpx;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-merchant-home .t-home-header .withdraw.data-v-4184c6ba {
+  margin-top: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.t-hairdres-merchant-home .t-home-header .withdraw .price.data-v-4184c6ba {
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-left: 24rpx;
+}
+.t-hairdres-merchant-home .t-home-header .withdraw .detail.data-v-4184c6ba {
+  color: #fff600;
+}
+

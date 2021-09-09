@@ -1,0 +1,69 @@
+.t-hairdres-user-send .item .link.data-v-2ad8b9c4 {
+  height: 100rpx;
+  background-color: #ffd9d3;
+  margin-bottom: 32rpx;
+  font-size: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 10rpx 24rpx;
+  color: #666666;
+}
+.t-hairdres-user-send .item .link text.data-v-2ad8b9c4:first-child {
+  max-width: 480rpx;
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.t-hairdres-user-send .item .link text.data-v-2ad8b9c4:last-child {
+  width: 80rpx;
+  height: 70rpx;
+  background-color: #ff4200;
+  border-radius: 3rpx;
+  color: #FFFFFF;
+  font-size: 28rpx;
+  display: block;
+  line-height: 34rpx;
+  text-align: center;
+  padding: 10rpx 0rpx;
+}
+.t-hairdres-user-send .item .title.data-v-2ad8b9c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-send .item .title text.data-v-2ad8b9c4:first-child {
+  line-height: 1;
+  font-size: 24rpx;
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  margin-bottom: 40rpx;
+}
+.t-hairdres-user-send .item .title .iconfont.data-v-2ad8b9c4 {
+  margin-bottom: 40rpx;
+  font-size: 28rpx;
+  color: #fc689a;
+}
+.t-hairdres-user-send .item .time.data-v-2ad8b9c4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  color: #666;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 24rpx;
+}
+

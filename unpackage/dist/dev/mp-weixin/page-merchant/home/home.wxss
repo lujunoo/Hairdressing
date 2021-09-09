@@ -1,0 +1,129 @@
+.t-hairdres-merchant-home.data-v-14dc6e68 {
+  padding-bottom: 100rpx;
+  font-size: 24rpx;
+  line-height: 1;
+}
+.t-hairdres-merchant-home .codeDialog.data-v-14dc6e68 {
+  border: dashed 4rpx #fc689a;
+  margin: 0 40rpx;
+  font-size: 24rpx;
+  padding: 16rpx;
+  border-radius: 10rpx;
+}
+.t-hairdres-merchant-home .tabBar.data-v-14dc6e68 {
+  width: 100%;
+  height: 100rpx;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  background: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-merchant-home .tabBar .item.data-v-14dc6e68 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  color: #666;
+}
+.t-hairdres-merchant-home .tabBar .item .iconfont.data-v-14dc6e68 {
+  font-size: 48rpx;
+}
+.t-hairdres-merchant-home .tabBar .item.data-v-14dc6e68:first-child {
+  color: #fc6968;
+}
+.t-hairdres-merchant-home .tabBar .item:first-child .iconfont.data-v-14dc6e68 {
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+}
+.t-hairdres-merchant-home .t-home-title.data-v-14dc6e68 {
+  margin-top: -32rpx;
+}
+.t-hairdres-merchant-home .list-item.data-v-14dc6e68 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin-bottom: -24rpx;
+}
+.t-hairdres-merchant-home .list-item .item.data-v-14dc6e68 {
+  width: 25%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-merchant-home .list-item .item text.data-v-14dc6e68 {
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-merchant-home .list-item .item text.data-v-14dc6e68:last-child {
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.t-hairdres-merchant-home .list-item2 .item.data-v-14dc6e68 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.t-hairdres-merchant-home .t-home-header.data-v-14dc6e68 {
+  height: 260rpx;
+  background: #fc689a;
+  color: #fff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: -120rpx;
+}
+.t-hairdres-merchant-home .t-home-header .item.data-v-14dc6e68 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 90rpx;
+}
+.t-hairdres-merchant-home .t-home-header .item .iconfont.data-v-14dc6e68 {
+  font-size: 56rpx;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-merchant-home .t-home-header .item:last-child .iconfont.data-v-14dc6e68 {
+  font-weight: bold;
+}
+.t-hairdres-merchant-home .t-home-header .item:first-child .iconfont.data-v-14dc6e68 {
+  -webkit-transform: scale(1.3);
+          transform: scale(1.3);
+}
+

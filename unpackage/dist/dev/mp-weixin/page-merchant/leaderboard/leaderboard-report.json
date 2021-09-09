@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "投诉举报",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "upload": "/components/Upload/index"
+  }
+}

@@ -5,7 +5,7 @@
 			<slot></slot>
 		</view>
 		<view :style="{'background': color ? color : ''}" class="t-search-box">
-			<input class="t-search-input" type="text" :placeholder="placeholder" value="" />
+			<input class="t-search-input" @confirm="confirm" type="text" :placeholder="placeholder" value="" />
 			<text class="icon-hairdressingguanbi">&#xe607;</text>
 		</view>
 	</view>
@@ -35,6 +35,11 @@
 			return {
 				value: ''
 			};
+		},
+		methods: {
+			confirm (data) {
+				this.$emit('onConfirm', data)
+			}
 		}
 	}
 </script>

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "预约条款",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index"
+  }
+}

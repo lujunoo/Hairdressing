@@ -5,7 +5,7 @@
 			<image src="https://cdn.pixabay.com/photo/2021/07/07/22/29/badlands-national-park-6395444_960_720.jpg" mode="aspectFill"></image>
 		</view>
 		<view class="content">
-			<text class="title">为发射点发实打实的绯闻情人微软犬瘟热我</text>
+			<text class="title">{{data.shop_name}}</text>
 			<view class="count">
 				<text><text :class="{ theme: color }">5.0</text>分</text>
 				<text>|</text>
@@ -36,6 +36,12 @@
 			color: {
 				type: Boolean,
 				default: true
+			},
+			data: {
+				type: Object,
+				default: () => {
+					return {}
+				}
 			}
 		},
 		methods: {

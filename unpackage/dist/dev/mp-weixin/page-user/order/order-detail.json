@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "title": "/components/Title/index",
+    "shop-entrance": "/components/ShopEntrance/index",
+    "fixed-footer": "/components/fixedFooter/index"
+  }
+}

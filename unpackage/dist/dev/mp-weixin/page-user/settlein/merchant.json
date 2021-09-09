@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "商家入驻",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "upload": "/components/Upload/index"
+  }
+}

@@ -1,0 +1,71 @@
+.t-hairdres-merchant-add-commodity.data-v-4e154a84 {
+  font-size: 24rpx;
+  line-height: 1;
+}
+.t-hairdres-merchant-add-commodity .t-hairdres-button.data-v-4e154a84 {
+  width: 500rpx;
+  margin: auto;
+}
+.t-hairdres-merchant-add-commodity .form-item.data-v-4e154a84 {
+  margin-bottom: 32rpx;
+  padding-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-merchant-add-commodity .form-item.data-v-4e154a84:last-child {
+  border: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+          align-items: flex-start;
+}
+.t-hairdres-merchant-add-commodity .form-item:last-child .label.data-v-4e154a84 {
+  margin-bottom: 24rpx;
+}
+.t-hairdres-merchant-add-commodity .form-item .label.data-v-4e154a84 {
+  width: 200rpx;
+}
+.t-hairdres-merchant-add-commodity .form-item .right.data-v-4e154a84 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-merchant-add-commodity .form-item .right textarea.data-v-4e154a84 {
+  background: #eeeeee;
+  width: 580rpx;
+  height: 200rpx;
+  font-size: 24rpx;
+  padding: 24rpx;
+}
+.t-hairdres-merchant-add-commodity .form-item .right .input.data-v-4e154a84 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 24rpx;
+}
+.t-hairdres-merchant-add-commodity .form-item .right .iconfont.data-v-4e154a84 {
+  font-size: 36rpx;
+}
+

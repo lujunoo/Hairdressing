@@ -1,0 +1,29 @@
+.t-hairdres-merchant-brand-introduction.data-v-6e68a25a {
+  font-size: 24rpx;
+}
+.t-hairdres-merchant-brand-introduction .title.data-v-6e68a25a {
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-merchant-brand-introduction .desc.data-v-6e68a25a {
+  color: #999;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-merchant-brand-introduction .length-text.data-v-6e68a25a {
+  text-align: right;
+  font-size: 20rpx;
+}
+.t-hairdres-merchant-brand-introduction textarea.data-v-6e68a25a {
+  font-size: 24rpx;
+  padding: 16rpx;
+  width: calc(100% - 32rpx);
+  height: 200rpx;
+  background-color: #fff3e2;
+  border-radius: 10rpx;
+  border: dashed 4rpx #fc689a;
+}
+.t-hairdres-merchant-brand-introduction .t-hairdres-button.data-v-6e68a25a {
+  margin-top: 100rpx;
+}
+

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "店铺评价",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "score": "/components/Score/index",
+    "evaluation": "/components/Evaluation/index"
+  }
+}

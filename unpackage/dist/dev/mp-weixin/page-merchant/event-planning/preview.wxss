@@ -1,0 +1,77 @@
+.t-hairdres-merchant-preview.data-v-610c0660 {
+  font-size: 24rpx;
+  line-height: 1;
+  color: #555;
+}
+.t-hairdres-merchant-preview .font-weight.data-v-610c0660 {
+  font-weight: bold;
+  font-size: 28rpx;
+  color: #000;
+  display: block;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-merchant-preview .label-item.data-v-610c0660 {
+  margin-bottom: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-merchant-preview .label-item text.data-v-610c0660 {
+  -webkit-box-flex: 1.4;
+  -webkit-flex: 1.4;
+          flex: 1.4;
+}
+.t-hairdres-merchant-preview .label-item text.data-v-610c0660:last-child {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.t-hairdres-merchant-preview .t-hairdres-button.data-v-610c0660 {
+  margin-top: 90rpx;
+}
+.t-hairdres-merchant-preview .prodcut.data-v-610c0660 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-merchant-preview .prodcut image.data-v-610c0660 {
+  width: 170rpx;
+  height: 120rpx;
+  border-radius: 10rpx;
+  margin-right: 32rpx;
+}
+.t-hairdres-merchant-preview .prodcut .content.data-v-610c0660 {
+  height: 120rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-merchant-preview .prodcut .content .price.data-v-610c0660 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-merchant-preview .prodcut .content .price text.data-v-610c0660:first-child {
+  font-size: 28rpx;
+  font-weight: bold;
+  color: #fc6968;
+}
+.t-hairdres-merchant-preview .prodcut .content .price text:first-child .oldprice.data-v-610c0660 {
+  margin-left: 24rpx;
+  font-weight: 500;
+  color: #aaa;
+}
+.t-hairdres-merchant-preview .prodcut .content .price text.data-v-610c0660:last-child {
+  font-weight: 500;
+}
+

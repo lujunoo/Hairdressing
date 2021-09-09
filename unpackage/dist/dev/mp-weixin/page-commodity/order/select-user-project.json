@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "选择项目",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "search": "/components/Search/index"
+  }
+}

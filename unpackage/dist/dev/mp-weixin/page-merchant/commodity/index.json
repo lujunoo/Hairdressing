@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "商品管理",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "search": "/components/Search/index",
+    "tab-bar": "/components/TabBar/index",
+    "dialog": "/components/Dialog/index"
+  }
+}

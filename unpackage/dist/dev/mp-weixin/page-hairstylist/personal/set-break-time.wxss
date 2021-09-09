@@ -1,0 +1,74 @@
+.t-hairdres-user-personal-set-break-time.data-v-3277fbca {
+  font-size: 28rpx;
+}
+.t-hairdres-user-personal-set-break-time .collapse.data-v-3277fbca {
+  border: solid 2rpx #aaa;
+  border-top: none;
+}
+.t-hairdres-user-personal-set-break-time .collapse .collapse-item.data-v-3277fbca {
+  border-bottom: solid 2rpx #aaa;
+}
+.t-hairdres-user-personal-set-break-time .collapse .collapse-item.data-v-3277fbca:last-child {
+  border-bottom: none;
+}
+.t-hairdres-user-personal-set-break-time .collapse .collapse-item .subtitle.data-v-3277fbca {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 24rpx 32rpx;
+}
+.t-hairdres-user-personal-set-break-time .collapse .collapse-item .content.data-v-3277fbca {
+  overflow: hidden;
+  max-height: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+.t-hairdres-user-personal-set-break-time .collapse .active .content.data-v-3277fbca {
+  max-height: 1000rpx;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+  border-top: solid 2rpx #eee;
+}
+.t-hairdres-user-personal-set-break-time .collapse .active .content.data-v-3277fbca .uni-calendar__header {
+  display: none;
+}
+.t-hairdres-user-personal-set-break-time .collapse .active .content.data-v-3277fbca .uni-calendar-item__weeks-box-item {
+  height: 60rpx;
+}
+.t-hairdres-user-personal-set-break-time .collapse .active .content.data-v-3277fbca .uni-calendar-item__weeks-box-circle {
+  display: none;
+}
+.t-hairdres-user-personal-set-break-time .collapse .active .content.data-v-3277fbca .uni-calendar-item--checked {
+  opacity: 1;
+  background: none;
+  color: #333;
+}
+.t-hairdres-user-personal-set-break-time .collapse .active .content.data-v-3277fbca .uni-calendar-item__weeks-box-circle + .uni-calendar-item__weeks-box-text {
+  background-color: rgba(252, 104, 154, 0.8);
+  border-radius: 100rpx;
+  width: 50rpx;
+  height: 50rpx;
+  text-align: center;
+  line-height: 50rpx;
+  color: #fff;
+}
+.t-hairdres-user-personal-set-break-time .collapse .active .content.data-v-3277fbca .uni-calendar-item--isDay {
+  background: none;
+  color: #d964ff;
+  opacity: 1;
+}
+.t-hairdres-user-personal-set-break-time .collapse .active .content.data-v-3277fbca .uni-calendar-item--isDay .uni-calendar-item__weeks-box-item .uni-calendar-item__weeks-box-text {
+  display: none;
+}
+.t-hairdres-user-personal-set-break-time .title.data-v-3277fbca {
+  border: solid 2rpx #aaa;
+  padding: 24rpx;
+}
+.t-hairdres-user-personal-set-break-time .title text.data-v-3277fbca:first-child {
+  font-weight: bold;
+  margin: 0 170rpx;
+}
+

@@ -1,0 +1,12 @@
+.t-hairdres-user-protocol .content.data-v-1df8759a {
+  text-indent: 2em;
+  font-size: 24rpx;
+}
+.t-hairdres-user-protocol .title.data-v-1df8759a {
+  display: block;
+  font-size: 28rpx;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 32rpx;
+}
+

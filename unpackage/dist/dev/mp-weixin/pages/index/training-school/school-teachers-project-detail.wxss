@@ -1,0 +1,46 @@
+.t-hairdres-school-teachers-project-detail .card.data-v-7e63a646 {
+  padding: 32rpx;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-school-teachers-project-detail .card .card-title.data-v-7e63a646 {
+  margin-top: -32rpx;
+}
+.t-hairdres-school-teachers-project-detail .card .price.data-v-7e63a646 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 28rpx;
+}
+.t-hairdres-school-teachers-project-detail .card .price text.data-v-7e63a646:first-child {
+  font-weight: bold;
+  color: #ff0000;
+}
+.t-hairdres-school-teachers-project-detail .card .price text:first-child text.data-v-7e63a646 {
+  font-weight: 500;
+  color: #999;
+  position: relative;
+  margin-left: 32rpx;
+}
+.t-hairdres-school-teachers-project-detail .card .price text:first-child text.data-v-7e63a646::after {
+  content: "";
+  width: 100%;
+  height: 2rpx;
+  background: #999;
+  position: absolute;
+  top: 50%;
+  left: 0;
+}
+.t-hairdres-school-teachers-project-detail .desc.data-v-7e63a646 {
+  font-size: 24rpx;
+  line-height: 1.8;
+  margin-top: -16rpx;
+}
+.t-hairdres-school-teachers-project-detail .banner.data-v-7e63a646 {
+  margin: -32rpx -32rpx 0 -32rpx;
+  border-radius: 10rpx 10rpx 0 0 ;
+  overflow: hidden;
+}
+

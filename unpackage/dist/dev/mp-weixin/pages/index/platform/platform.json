@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "论坛",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "banner": "/components/Banner/index",
+    "tab-bar": "/components/TabBar/index",
+    "discuss": "/components/Discuss/index",
+    "pull-down-refresh": "/components/PullDownRefresh/index"
+  }
+}

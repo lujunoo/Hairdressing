@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "商家-套餐详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "banner": "/components/Banner/index",
+    "card": "/components/Card/index",
+    "title": "/components/Title/index",
+    "shop-entrance": "/components/ShopEntrance/index",
+    "evaluation": "/components/Evaluation/index"
+  }
+}

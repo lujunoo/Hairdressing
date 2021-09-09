@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "提现",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "pay-password": "/components/PayPassword/index"
+  }
+}

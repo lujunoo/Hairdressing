@@ -1,0 +1,39 @@
+.t-hairdres-leaderboard-evaluation-detail.data-v-4113a879 {
+  padding-bottom: 100rpx;
+}
+.t-hairdres-leaderboard-evaluation-detail .fixedFooter-input.data-v-4113a879 {
+  width: 702rpx;
+  height: 100rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 0 24rpx;
+}
+.t-hairdres-leaderboard-evaluation-detail .fixedFooter-input input.data-v-4113a879 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  border: solid 2rpx #eee;
+  font-size: 24rpx;
+  height: 60rpx;
+  padding: 0 24rpx;
+  border-radius: 10rpx;
+}
+.t-hairdres-leaderboard-evaluation-detail .fixedFooter-input .button.data-v-4113a879 {
+  width: 180rpx;
+  height: 60rpx;
+  background-color: #fc689a;
+  border-radius: 30rpx;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 24rpx;
+  margin-left: 32rpx;
+  line-height: 60rpx;
+}
+

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "邀请新人",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "dialog": "/components/Dialog/index",
+    "banner": "/components/Banner/index"
+  }
+}

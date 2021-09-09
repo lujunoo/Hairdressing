@@ -1,0 +1,200 @@
+.t-hairdres-user-add-appointment .project-item.data-v-74f060b5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  position: relative;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  background: #ffe4ed;
+  padding: 24rpx;
+  border-radius: 10rpx;
+  margin-top: 32rpx;
+}
+.t-hairdres-user-add-appointment .project-item image.data-v-74f060b5 {
+  width: 170rpx;
+  height: 120rpx;
+  background-color: #f00055;
+  border-radius: 10rpx;
+  margin-right: 24rpx;
+}
+.t-hairdres-user-add-appointment .project-item .content.data-v-74f060b5 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 24rpx;
+  min-height: 120rpx;
+}
+.t-hairdres-user-add-appointment .project-item .content .info.data-v-74f060b5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  color: #666;
+}
+.t-hairdres-user-add-appointment .project-item .content .info .title2.data-v-74f060b5 {
+  color: #333333;
+  font-size: 28rpx;
+  line-height: 1.3;
+}
+.t-hairdres-user-add-appointment .project-item .content .info .color-theme.data-v-74f060b5 {
+  font-size: 28rpx;
+  margin: 0;
+}
+.t-hairdres-user-add-appointment .project-item .content .info .color-theme text.data-v-74f060b5 {
+  margin-left: 16rpx;
+  font-size: 24rpx;
+}
+.t-hairdres-user-add-appointment .button.data-v-74f060b5 {
+  color: #fc689a;
+  font-size: 24rpx;
+  line-height: 1;
+  padding: 24rpx 0;
+  text-align: center;
+  border-radius: 10rpx;
+  margin: 50rpx 210rpx 16rpx 210rpx;
+  border: dashed 3rpx #fc689a;
+}
+.t-hairdres-user-add-appointment .label-list.data-v-74f060b5 {
+  margin-bottom: 32rpx;
+}
+.t-hairdres-user-add-appointment .label-list .subtitle.data-v-74f060b5 {
+  font-size: 28rpx;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-user-add-appointment .label-list .label-item-group.data-v-74f060b5 {
+  margin-bottom: 24rpx;
+}
+.t-hairdres-user-add-appointment .label-list .label-item.data-v-74f060b5 {
+  font-size: 24rpx;
+  line-height: 1;
+  display: inline-block;
+  margin-right: 24rpx;
+  border: solid 2rpx #bfbfbf;
+  border-radius: 10rpx;
+  color: #999;
+  min-width: 100rpx;
+  text-align: center;
+  padding: 12rpx 12rpx;
+}
+.t-hairdres-user-add-appointment .label-list .active.data-v-74f060b5 {
+  background: #fc689a;
+  color: #fff;
+  border-color: #fc689a;
+}
+.t-hairdres-user-add-appointment .color-theme.data-v-74f060b5 {
+  font-size: 24rpx;
+  margin: 32rpx 0;
+}
+.t-hairdres-user-add-appointment .desc.data-v-74f060b5 {
+  font-size: 24rpx;
+  color: #666;
+  margin: 24rpx 0 32rpx 0;
+}
+.t-hairdres-user-add-appointment .title.data-v-74f060b5 {
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-user-add-appointment .title text.data-v-74f060b5 {
+  font-size: 24rpx;
+  color: #999;
+  font-weight: 500;
+}
+.t-hairdres-user-add-appointment .walloffame .image-lits.data-v-74f060b5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin-top: 16rpx;
+}
+.t-hairdres-user-add-appointment .walloffame .image-lits image.data-v-74f060b5 {
+  width: calc(33% - 20rpx);
+  border-radius: 6rpx;
+  margin: 10rpx;
+  height: 135rpx;
+  display: block;
+}
+.t-hairdres-user-add-appointment .walloffame .maxlength.data-v-74f060b5 {
+  display: block;
+  font-size: 24rpx;
+  text-align: right;
+}
+.t-hairdres-user-add-appointment .walloffame .photo.data-v-74f060b5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin: 24rpx 0;
+}
+.t-hairdres-user-add-appointment .walloffame textarea.data-v-74f060b5 {
+  width: calc(100% - 32rpx);
+  border-radius: 10rpx;
+  padding: 16rpx;
+  height: 200rpx;
+  font-size: 24rpx;
+  margin-top: 24rpx;
+  background-color: #fff3e2;
+}
+.t-hairdres-user-add-appointment .form-item.data-v-74f060b5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 32rpx;
+  font-size: 24rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-user-add-appointment .form-item.data-v-74f060b5:last-child {
+  margin-bottom: 0;
+  padding-bottom: 16rpx;
+  border: none;
+}
+.t-hairdres-user-add-appointment .form-item .label.data-v-74f060b5 {
+  width: 140rpx;
+  font-weight: bold;
+}
+.t-hairdres-user-add-appointment .form-item .right.data-v-74f060b5 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-add-appointment .form-item .right .grap.data-v-74f060b5 {
+  color: #999;
+}
+.t-hairdres-user-add-appointment .form-item .right input.data-v-74f060b5 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 24rpx;
+}
+

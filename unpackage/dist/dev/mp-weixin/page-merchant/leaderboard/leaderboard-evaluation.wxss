@@ -1,0 +1,74 @@
+.t-hairdres-leaderboard-evaluation .leaderboard-evaluation-item.data-v-17dcfc56 {
+  border-bottom: solid 2rpx #ddd;
+  margin-bottom: 32rpx;
+  padding-bottom: 32rpx;
+}
+.t-hairdres-leaderboard-evaluation .leaderboard-evaluation-item.data-v-17dcfc56:last-child {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+.t-hairdres-leaderboard-evaluation .label-list.data-v-17dcfc56 {
+  margin-bottom: -24rpx;
+}
+.t-hairdres-leaderboard-evaluation .label-list text.data-v-17dcfc56 {
+  font-size: 24rpx;
+  color: #ffbd55;
+  border: solid 2rpx #ffbd55;
+  border-radius: 20rpx;
+  display: inline-block;
+  margin: 0 24rpx 24rpx 0;
+  line-height: 1;
+  padding: 16rpx 24rpx;
+}
+.t-hairdres-leaderboard-evaluation .label-list .active.data-v-17dcfc56 {
+  background: #ffbd55;
+  color: #FFFFFF;
+}
+.t-hairdres-leaderboard-evaluation .cover.data-v-17dcfc56 {
+  position: relative;
+  height: 300rpx;
+}
+.t-hairdres-leaderboard-evaluation .cover image.data-v-17dcfc56 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 0;
+}
+.t-hairdres-leaderboard-evaluation .cover .content.data-v-17dcfc56 {
+  font-size: 24rpx;
+  color: #FFFFFF;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+  -webkit-justify-content: space-evenly;
+          justify-content: space-evenly;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 100%;
+  position: relative;
+  z-index: 1;
+  background: rgba(0, 0, 0, 0.4);
+}
+.t-hairdres-leaderboard-evaluation .cover .content .score.data-v-17dcfc56 {
+  width: 120rpx;
+  height: 120rpx;
+  background-color: #fc689a;
+  border-radius: 150rpx;
+  text-align: center;
+  line-height: 120rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+}
+.t-hairdres-leaderboard-evaluation .cover .content .level .level-score.data-v-17dcfc56 {
+  -webkit-transform: scale(1.3);
+          transform: scale(1.3);
+  margin-bottom: 10rpx;
+}
+.t-hairdres-leaderboard-evaluation .cover .content .level.data-v-17dcfc56 .score {
+  font-size: 10rpx;
+  color: #FFFFFF !important;
+}
+

@@ -1,0 +1,64 @@
+.t-hairdres-recruitment .button.data-v-2a916d23 {
+  height: 80rpx;
+  text-align: center;
+  line-height: 80rpx;
+  font-size: 28rpx;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: #fc689a;
+  border-radius: 10rpx;
+  margin-top: 56rpx;
+}
+.t-hairdres-recruitment .map.data-v-2a916d23 {
+  height: 300rpx;
+}
+.t-hairdres-recruitment .map map.data-v-2a916d23 {
+  height: 100%;
+}
+.t-hairdres-recruitment .subtitle.data-v-2a916d23 {
+  font-weight: bold;
+  font-size: 28rpx;
+  line-height: 1;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-recruitment .list-item.data-v-2a916d23 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+          justify-content: start;
+  margin-top: 40rpx;
+}
+.t-hairdres-recruitment .list-item.data-v-2a916d23:first-child {
+  margin: 0;
+}
+.t-hairdres-recruitment .list-item .subtitle.data-v-2a916d23 {
+  width: 150rpx;
+  -webkit-transform: translateY(10rpx);
+          transform: translateY(10rpx);
+}
+.t-hairdres-recruitment .list-item .desc.data-v-2a916d23 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 28rpx;
+  color: #666;
+}
+.t-hairdres-recruitment .label.data-v-2a916d23 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.t-hairdres-recruitment .label text.data-v-2a916d23 {
+  font-size: 24rpx;
+  color: #FFFFFF;
+  background: #ffc0c0;
+  border-radius: 5rpx;
+  margin-left: 16rpx;
+  line-height: 1;
+  padding: 8rpx 16rpx;
+}
+

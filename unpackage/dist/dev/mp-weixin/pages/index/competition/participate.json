@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "我要参赛",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "banner": "/components/Banner/index",
+    "pull-down-refresh": "/components/PullDownRefresh/index",
+    "upload": "/components/Upload/index"
+  }
+}

@@ -1,0 +1,80 @@
+.t-hairdres-user-recharge .t-hairdres-button.data-v-4162e919 {
+  margin: 50rpx 95rpx;
+}
+.t-hairdres-user-recharge .desc.data-v-4162e919 {
+  display: block;
+  line-height: 1.8;
+  font-size: 24rpx;
+  padding-left: 8rpx;
+}
+.t-hairdres-user-recharge .card-type image.data-v-4162e919 {
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 24rpx;
+}
+.t-hairdres-user-recharge .card-type .type-item.data-v-4162e919 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-user-recharge .card-type .type-item .right.data-v-4162e919 {
+  font-size: 24rpx;
+}
+.t-hairdres-user-recharge .card-type .type-item .right .name.data-v-4162e919 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-user-recharge .card-type .type-item .right .iconfont.data-v-4162e919 {
+  font-size: 28rpx;
+}
+.t-hairdres-user-recharge .card-type .type-item .iconfont.data-v-4162e919 {
+  margin-right: 24rpx;
+  font-size: 32rpx;
+}
+.t-hairdres-user-recharge .card-type .type-item .iconfont2.data-v-4162e919 {
+  color: #fc689a;
+}
+.t-hairdres-user-recharge .card-type .type-item .weixin.data-v-4162e919 {
+  color: #09bb07;
+  width: 40rpx;
+  height: 40rpx;
+  display: inline-block;
+  -webkit-transform: scale(1.4) translateY(5rpx);
+          transform: scale(1.4) translateY(5rpx);
+  margin-right: 24rpx;
+}
+.t-hairdres-user-recharge .amount.data-v-4162e919 {
+  -webkit-column-count: 3;
+          column-count: 3;
+  -webkit-column-gap: 24rpx;
+          column-gap: 24rpx;
+}
+.t-hairdres-user-recharge .amount text.data-v-4162e919 {
+  height: 110rpx;
+  text-align: center;
+  line-height: 110rpx;
+  margin-bottom: 24rpx;
+  display: block;
+  background-color: #e5e5e5;
+  border-radius: 10rpx;
+  font-size: 28rpx;
+}
+.t-hairdres-user-recharge .amount .active.data-v-4162e919 {
+  color: #FFFFFF;
+  background: #fc689a;
+}
+.t-hairdres-user-recharge .title.data-v-4162e919 {
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-bottom: 32rpx;
+}
+

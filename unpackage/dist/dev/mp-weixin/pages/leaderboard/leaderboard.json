@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "美发店排行榜",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "search-box": "/components/Search/index",
+    "tab-filter": "/components/Filter/index",
+    "setmeal": "/components/Setmeal/index",
+    "pull-down-refresh": "/components/PullDownRefresh/index"
+  }
+}

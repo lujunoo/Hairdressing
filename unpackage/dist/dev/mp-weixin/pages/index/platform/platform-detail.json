@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "帖子详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "user-discuss": "/components/UserDiscuss/index",
+    "pull-down-refresh": "/components/PullDownRefresh/index"
+  }
+}

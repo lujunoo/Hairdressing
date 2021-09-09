@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "作息设置",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "calendar-header": "/components/CalendarHeader/index",
+    "schedule": "/components/Schedule/index",
+    "dialog": "/components/Dialog/index"
+  }
+}

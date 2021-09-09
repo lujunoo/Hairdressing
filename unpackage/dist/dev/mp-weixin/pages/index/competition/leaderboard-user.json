@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "发型师排行榜",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "banner": "/components/Banner/index",
+    "pull-down-refresh": "/components/PullDownRefresh/index"
+  }
+}

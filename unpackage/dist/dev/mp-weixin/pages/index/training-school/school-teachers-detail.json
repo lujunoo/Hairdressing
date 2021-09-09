@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "教师详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "banner": "/components/Banner/index",
+    "title": "/components/Title/index",
+    "collection": "/components/PictureCollection/index",
+    "card": "/components/Card/index",
+    "tab-bar": "/components/TabBar/index"
+  }
+}

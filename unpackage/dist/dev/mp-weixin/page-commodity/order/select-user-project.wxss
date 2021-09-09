@@ -1,0 +1,77 @@
+.t-hairdres-select-user-project .select-user-search.data-v-1ad26516 {
+  padding: 32rpx;
+  background: #FFFFFF;
+}
+.t-hairdres-select-user-project .select-user-search .desc.data-v-1ad26516 {
+  padding: 32rpx 16rpx 0 16rpx;
+  color: #555555;
+  font-size: 24rpx;
+}
+.t-hairdres-select-user-project .select-user-item .list-item.data-v-1ad26516 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  position: relative;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-select-user-project .select-user-item .list-item .iconfont.data-v-1ad26516 {
+  color: #fc689a;
+  font-size: 40rpx;
+}
+.t-hairdres-select-user-project .select-user-item .list-item .iconfont2.data-v-1ad26516 {
+  color: #aaa;
+  -webkit-transform: scale(1.08);
+          transform: scale(1.08);
+}
+.t-hairdres-select-user-project .select-user-item .list-item image.data-v-1ad26516 {
+  width: 170rpx;
+  height: 120rpx;
+  background-color: #f00055;
+  border-radius: 10rpx;
+  margin-right: 24rpx;
+  margin-left: 16rpx;
+}
+.t-hairdres-select-user-project .select-user-item .list-item .content.data-v-1ad26516 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 24rpx;
+  min-height: 120rpx;
+}
+.t-hairdres-select-user-project .select-user-item .list-item .content .info.data-v-1ad26516 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  color: #666;
+}
+.t-hairdres-select-user-project .select-user-item .list-item .content .info .title.data-v-1ad26516 {
+  color: #333333;
+  font-size: 28rpx;
+  line-height: 1.3;
+}
+.t-hairdres-select-user-project .select-user-item .list-item .content .info .color-theme.data-v-1ad26516 {
+  font-size: 28rpx;
+}
+.t-hairdres-select-user-project .select-user-item .list-item .content .info .color-theme text.data-v-1ad26516 {
+  margin-left: 16rpx;
+  font-size: 24rpx;
+}
+

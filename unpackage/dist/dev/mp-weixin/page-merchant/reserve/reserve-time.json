@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "发型师预约表",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "calendar-header": "/components/CalendarHeader/index",
+    "schedule": "/components/Schedule/index",
+    "dialog": "/components/Dialog/index"
+  }
+}

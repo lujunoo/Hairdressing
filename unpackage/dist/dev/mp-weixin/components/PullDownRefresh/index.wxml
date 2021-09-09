@@ -1,0 +1,1 @@
+<view class="t-hairdres-pulldownrefresh data-v-d59b34e8"><text class="data-v-d59b34e8">{{getStatus}}</text></view>

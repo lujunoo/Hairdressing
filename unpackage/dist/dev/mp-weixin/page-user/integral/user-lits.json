@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "邀请列表",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "tab-bar": "/components/TabBar/index"
+  }
+}

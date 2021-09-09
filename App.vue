@@ -1,12 +1,32 @@
 <script>
+	import store from '@/store'
+	import { mapGetters } from 'vuex'
+	import { getLocation } from '@/unit/common'
 	export default {
-		globalData: {
-			safeDistance: 1, //IOS手机底部安全距离
-			statusBarHeight: 1, //顶部状态栏高度
+		computed: {
+			...mapGetters(['location'])
 		},
 		onLaunch: function() {
-			this.globalData.safeDistance = Math.abs(uni.getSystemInfoSync().safeAreaInsets.bottom)
-			this.globalData.statusBarHeight = Math.abs(uni.getSystemInfoSync().statusBarHeight)
+			if (!this.location) {
+				getLocation()
+			}
+			uni.getSystemInfo({
+				success: (result) => {
+					store.commit('SET_DEVICE_INFO', result)
+				}
+			})
+			uni.getStorage({
+				key: '_TOKEN_EXPIRE',
+				success: ({ result }) => {
+					store.commit("SET_TOKENEXPIRE", result)
+				},
+			})
+			uni.getStorage({
+				key: '_TOKEN',
+				success: ({ result }) => {
+					store.commit("SET_TOKEN", result)
+				},
+			})
 		},
 		onShow: function() {
 			

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "预约到店",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "fixed-footer": "/components/fixedFooter/index",
+    "card": "/components/Card/index"
+  }
+}

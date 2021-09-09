@@ -1,0 +1,91 @@
+.t-hairdres-merchant-add-activity.data-v-649a285a {
+  padding-bottom: 100rpx;
+  font-size: 24rpx;
+}
+.t-hairdres-merchant-add-activity .list-item.data-v-649a285a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-merchant-add-activity .list-item.data-v-649a285a:last-child {
+  border: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.t-hairdres-merchant-add-activity .list-item .content.data-v-649a285a {
+  min-height: 120rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-merchant-add-activity .list-item .content .color-theme.data-v-649a285a {
+  display: inline-block;
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-merchant-add-activity .list-item .content .color-theme .oldprice.data-v-649a285a {
+  font-weight: 500;
+  margin-left: 32rpx;
+}
+.t-hairdres-merchant-add-activity .list-item .checked.data-v-649a285a {
+  font-size: 40rpx;
+  margin-left: 24rpx;
+  display: block;
+  color: #888;
+  width: 40rpx;
+  height: 40rpx;
+}
+.t-hairdres-merchant-add-activity .list-item .iconfont2.data-v-649a285a {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+  color: #fc689a;
+}
+.t-hairdres-merchant-add-activity .list-item image.data-v-649a285a {
+  width: 170rpx;
+  height: 120rpx;
+  border-radius: 10rpx;
+  margin-right: 32rpx;
+}
+.t-hairdres-merchant-add-activity .desc.data-v-649a285a {
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-merchant-add-activity .desc text.data-v-649a285a {
+  font-size: 28rpx;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-merchant-add-activity .button-group.data-v-649a285a {
+  width: 750rpx;
+  text-align: right;
+}
+.t-hairdres-merchant-add-activity .button-group text.data-v-649a285a {
+  display: inline-block;
+  width: 180rpx;
+  height: 60rpx;
+  background-color: #fc689a;
+  color: #fff;
+  margin: 0 32rpx;
+  line-height: 60rpx;
+  text-align: center;
+  border-radius: 50rpx;
+}
+.t-hairdres-merchant-add-activity .button-group text.data-v-649a285a:first-child {
+  background: #ffc5c5;
+}
+

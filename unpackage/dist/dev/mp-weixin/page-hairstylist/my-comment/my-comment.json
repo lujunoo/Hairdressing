@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "评价管理",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "score": "/components/Score/index",
+    "evaluation": "/components/Evaluation/index",
+    "dialog": "/components/Dialog/index"
+  }
+}

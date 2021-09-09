@@ -1,0 +1,47 @@
+.t-hairdres-user-message .user-message-card.data-v-7fd27734 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-message .user-message-card .iconfont.data-v-7fd27734 {
+  font-size: 40rpx;
+  color: #fc689a;
+}
+.t-hairdres-user-message .user-message-card .info.data-v-7fd27734 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin-left: 16rpx;
+  font-size: 24rpx;
+  color: #666;
+}
+.t-hairdres-user-message .user-message-card .info .title.data-v-7fd27734 {
+  margin-bottom: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-user-message .user-message-card .info .title text.data-v-7fd27734:first-child {
+  font-size: 28rpx;
+  color: #333333;
+}
+.t-hairdres-user-message .clear.data-v-7fd27734 {
+  color: #FFFFFF;
+  background: #ffbd55;
+  font-size: 24rpx;
+  line-height: 1;
+  padding: 8rpx 16rpx;
+  border-radius: 10rpx;
+  margin: 32rpx 0 0 0;
+  margin-left: 50%;
+  display: inline-block;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+}
+

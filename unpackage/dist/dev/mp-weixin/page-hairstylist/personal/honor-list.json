@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "荣誉墙",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "tab-bar": "/components/TabBar/index",
+    "fixed-footer": "/components/fixedFooter/index"
+  }
+}

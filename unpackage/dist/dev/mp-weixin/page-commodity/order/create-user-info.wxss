@@ -1,0 +1,94 @@
+.t-hairdres-order-user-info.data-v-753a7e82 {
+  padding-bottom: 100rpx;
+}
+.t-hairdres-order-user-info .fixedFooter.data-v-753a7e82 {
+  background: #F3F5F7;
+}
+.t-hairdres-order-user-info .fixedFooter .t-hairdres-button.data-v-753a7e82 {
+  width: 500rpx;
+}
+.t-hairdres-order-user-info .desc.data-v-753a7e82 {
+  margin: 32rpx;
+  padding: 32rpx;
+  border-radius: 10rpx;
+  background: #f7a0c7;
+  font-size: 24rpx;
+  color: #FFFFFF;
+  line-height: 2;
+}
+.t-hairdres-order-user-info .from-item.data-v-753a7e82 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-order-user-info .from-item.data-v-753a7e82:last-child {
+  margin-bottom: 0;
+}
+.t-hairdres-order-user-info .from-item .title.data-v-753a7e82 {
+  font-size: 24rpx;
+}
+.t-hairdres-order-user-info .from-item .checked.data-v-753a7e82 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: end;
+          justify-content: end;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin-left: 70rpx;
+  font-size: 28rpx;
+}
+.t-hairdres-order-user-info .from-item .checked .radio.data-v-753a7e82 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.t-hairdres-order-user-info .from-item .checked .radio .iconfont.data-v-753a7e82 {
+  color: #fc6f9f;
+  margin-right: 16rpx;
+}
+.t-hairdres-order-user-info .from-item .checked .radio .iconfont2.data-v-753a7e82 {
+  display: inline-block;
+  -webkit-transform: scale(1.1);
+          transform: scale(1.1);
+  color: #999;
+}
+.t-hairdres-order-user-info .from-item input.data-v-753a7e82,
+.t-hairdres-order-user-info .from-item textarea.data-v-753a7e82 {
+  width: 470rpx;
+  height: 60rpx;
+  padding: 0 24rpx;
+  font-size: 24rpx;
+  background-color: #ffeeee;
+  border-radius: 20rpx;
+}
+.t-hairdres-order-user-info .from-item textarea.data-v-753a7e82 {
+  width: calc(100% - 32rpx);
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  min-height: 150rpx;
+  padding: 16rpx 16rpx;
+}
+.t-hairdres-order-user-info .textarea.data-v-753a7e82 {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+          align-items: flex-start;
+}
+.t-hairdres-order-user-info .textarea .title.data-v-753a7e82 {
+  margin-bottom: 24rpx;
+}
+

@@ -1,0 +1,1 @@
+<view class="t-hairdres-hairstylist data-v-6271d761"><block wx:for="{{10}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['toDetail',['$event']]]]]}}" class="list-item data-v-6271d761" bindtap="__e"><honor vue-id="{{'286cd476-1-'+index}}" class="data-v-6271d761" bind:__l="__l"></honor></view></block></view>

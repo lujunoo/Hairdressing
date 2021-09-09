@@ -1,0 +1,58 @@
+.t-hairdres-user-history .clear.data-v-d2d5c69a {
+  color: #fff;
+  font-size: 24rpx;
+  line-height: 1;
+  display: inline-block;
+  padding: 12rpx 16rpx;
+  background: #ffbd55;
+  border-radius: 10rpx;
+  float: right;
+  margin: 32rpx;
+}
+.t-hairdres-user-history .item.data-v-d2d5c69a {
+  padding: 0 32rpx;
+  font-size: 28rpx;
+}
+.t-hairdres-user-history .list-item.data-v-d2d5c69a {
+  clear: both;
+}
+.t-hairdres-user-history .list-item .user-history-card.data-v-d2d5c69a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-user-history .list-item .user-history-card .content.data-v-d2d5c69a {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 24rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-user-history .list-item .user-history-card .content > text.data-v-d2d5c69a:first-child {
+  text-overflow: -o-ellipsis-lastline;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.t-hairdres-user-history .list-item .user-history-card .content .oldprice.data-v-d2d5c69a {
+  margin-left: 24rpx;
+}
+.t-hairdres-user-history .list-item .user-history-card image.data-v-d2d5c69a {
+  width: 200rpx;
+  height: 140rpx;
+  border-radius: 10rpx;
+  margin-right: 24rpx;
+}
+

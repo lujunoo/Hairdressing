@@ -1,0 +1,101 @@
+.t-hairdres-user-withdraw .withdraw .price.data-v-22b28bfc {
+  border-bottom: solid 2rpx #eee;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-user-withdraw .withdraw .price text.data-v-22b28bfc {
+  font-size: 48rpx;
+  margin-right: 24rpx;
+}
+.t-hairdres-user-withdraw .withdraw .tishi.data-v-22b28bfc {
+  font-size: 24rpx;
+  color: #666;
+}
+.t-hairdres-user-withdraw .t-hairdres-button.data-v-22b28bfc {
+  margin: 50rpx 95rpx;
+}
+.t-hairdres-user-withdraw .desc.data-v-22b28bfc {
+  display: block;
+  line-height: 1.8;
+  font-size: 24rpx;
+  padding-left: 8rpx;
+}
+.t-hairdres-user-withdraw .card-type.data-v-22b28bfc {
+  margin-bottom: 44rpx;
+}
+.t-hairdres-user-withdraw .card-type image.data-v-22b28bfc {
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 24rpx;
+}
+.t-hairdres-user-withdraw .card-type .type-item.data-v-22b28bfc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-user-withdraw .card-type .type-item .right.data-v-22b28bfc {
+  font-size: 24rpx;
+}
+.t-hairdres-user-withdraw .card-type .type-item .right .name.data-v-22b28bfc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-user-withdraw .card-type .type-item .right .iconfont.data-v-22b28bfc {
+  font-size: 28rpx;
+}
+.t-hairdres-user-withdraw .card-type .type-item .iconfont.data-v-22b28bfc {
+  margin-right: 24rpx;
+  font-size: 32rpx;
+}
+.t-hairdres-user-withdraw .card-type .type-item .iconfont2.data-v-22b28bfc {
+  color: #fc689a;
+}
+.t-hairdres-user-withdraw .card-type .type-item .weixin.data-v-22b28bfc {
+  color: #09bb07;
+  width: 40rpx;
+  height: 40rpx;
+  display: inline-block;
+  -webkit-transform: scale(1.4) translateY(5rpx);
+          transform: scale(1.4) translateY(5rpx);
+  margin-right: 24rpx;
+}
+.t-hairdres-user-withdraw .amount.data-v-22b28bfc {
+  -webkit-column-count: 3;
+          column-count: 3;
+  -webkit-column-gap: 24rpx;
+          column-gap: 24rpx;
+}
+.t-hairdres-user-withdraw .amount text.data-v-22b28bfc {
+  height: 110rpx;
+  text-align: center;
+  line-height: 110rpx;
+  margin-bottom: 24rpx;
+  display: block;
+  background-color: #e5e5e5;
+  border-radius: 10rpx;
+  font-size: 28rpx;
+}
+.t-hairdres-user-withdraw .amount .active.data-v-22b28bfc {
+  color: #FFFFFF;
+  background: #fc689a;
+}
+.t-hairdres-user-withdraw .title.data-v-22b28bfc {
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-bottom: 32rpx;
+}
+

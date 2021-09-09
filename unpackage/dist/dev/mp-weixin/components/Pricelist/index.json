@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "title": "/components/Title/index",
+    "card": "/components/Card/index",
+    "tab-bar": "/components/TabBar/index"
+  }
+}

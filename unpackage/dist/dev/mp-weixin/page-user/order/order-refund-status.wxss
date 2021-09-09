@@ -1,0 +1,68 @@
+.t-hairdres-user-order-status .progress .subtitle.data-v-1e10f2fa {
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-user-order-status .progress .progress-list.data-v-1e10f2fa {
+  border-left: solid 4rpx #fc689a;
+  padding-left: 32rpx;
+  font-size: 24rpx;
+  color: #888;
+  margin-top: 32rpx;
+  margin-left: 16rpx;
+}
+.t-hairdres-user-order-status .progress .progress-list .progress-item.data-v-1e10f2fa {
+  margin-bottom: 32rpx;
+}
+.t-hairdres-user-order-status .progress .progress-list text.data-v-1e10f2fa {
+  display: block;
+}
+.t-hairdres-user-order-status .progress .progress-list .time.data-v-1e10f2fa {
+  margin-top: 16rpx;
+  color: #000;
+}
+.t-hairdres-user-order-status .progress .progress-list .item-title.data-v-1e10f2fa {
+  color: #000;
+  margin-bottom: 8rpx;
+  position: relative;
+}
+.t-hairdres-user-order-status .progress .progress-list .item-title.data-v-1e10f2fa::after {
+  content: "";
+  width: 24rpx;
+  height: 24rpx;
+  background-color: #fc689a;
+  border-radius: 100rpx;
+  position: absolute;
+  top: 0;
+  left: -44rpx;
+}
+.t-hairdres-user-order-status .list-item.data-v-1e10f2fa {
+  font-size: 24rpx;
+  color: #666;
+  line-height: 1;
+}
+.t-hairdres-user-order-status .list-item text.data-v-1e10f2fa {
+  margin-bottom: 32rpx;
+}
+.t-hairdres-user-order-status .list-item text.data-v-1e10f2fa:first-child {
+  display: inline-block;
+  margin-right: 130rpx;
+}
+.t-hairdres-user-order-status .title.data-v-1e10f2fa {
+  padding-top: 8rpx;
+  padding-bottom: 40rpx;
+  margin-bottom: 40rpx;
+  border-bottom: solid 2rpx #eee;
+  font-size: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-order-status .title .iconfont.data-v-1e10f2fa {
+  font-size: 50rpx;
+  color: #fc689a;
+  margin-right: 16rpx;
+}
+

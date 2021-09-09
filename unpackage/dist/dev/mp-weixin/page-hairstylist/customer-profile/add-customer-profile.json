@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "添加顾客档案",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "upload": "/components/Upload/index",
+    "fixed-footer": "/components/fixedFooter/index"
+  }
+}

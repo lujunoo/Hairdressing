@@ -1,0 +1,43 @@
+.t-hairdres-merchant-platform-revenue.data-v-4232f6ff {
+  font-size: 24rpx;
+  padding-bottom: 32rpx;
+}
+.t-hairdres-merchant-platform-revenue .list-item.data-v-4232f6ff {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-merchant-platform-revenue .list-item.data-v-4232f6ff:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border: none;
+}
+.t-hairdres-merchant-platform-revenue .list-item .item.data-v-4232f6ff {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-merchant-platform-revenue .list-item .item .iconfont.data-v-4232f6ff {
+  display: inline-block;
+  color: #888;
+  -webkit-transform: scale(1.3);
+          transform: scale(1.3);
+}
+.t-hairdres-merchant-platform-revenue .list-item .item.data-v-4232f6ff:first-child {
+  font-weight: bold;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-merchant-platform-revenue .list-item .item.data-v-4232f6ff:last-child {
+  color: #888;
+}
+

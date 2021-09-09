@@ -1,0 +1,90 @@
+.t-hairdres-user-hairstyle.data-v-e343b724 {
+  padding-bottom: 100rpx;
+}
+.t-hairdres-user-hairstyle .image-list.data-v-e343b724 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  padding: 24rpx 8rpx 24rpx 16rpx;
+}
+.t-hairdres-user-hairstyle .image-list .image-item.data-v-e343b724 {
+  display: block;
+  width: calc(50% - 24rpx);
+  height: 360rpx;
+  border-radius: 15rpx;
+  margin: 10rpx;
+}
+.t-hairdres-user-hairstyle .add-card-data.data-v-e343b724 {
+  width: 686rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  padding: 0 32rpx;
+}
+.t-hairdres-user-hairstyle .add-card-data text.data-v-e343b724 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: 70rpx;
+  border-radius: 50rpx;
+  background: #fc689a;
+  text-align: center;
+  line-height: 70rpx;
+  color: #FFFFFF;
+  margin: 0 60rpx;
+}
+.t-hairdres-user-hairstyle .add-card-data text .iconfont.data-v-e343b724 {
+  margin: 10rpx;
+}
+.t-hairdres-user-hairstyle .list-item.data-v-e343b724 {
+  font-size: 24rpx;
+  display: block;
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-user-hairstyle .list-item.data-v-e343b724:last-child {
+  margin-bottom: 0;
+  border: none;
+}
+.t-hairdres-user-hairstyle .list-item .button-group.data-v-e343b724 {
+  text-align: right;
+}
+.t-hairdres-user-hairstyle .list-item .button-group text.data-v-e343b724 {
+  color: #ffb1b1;
+  border: solid 2rpx #ffb1b1;
+  display: inline-block;
+  line-height: 1;
+  border-radius: 10rpx;
+  margin-left: 24rpx;
+  padding: 16rpx 40rpx;
+}
+.t-hairdres-user-hairstyle .list-item .button-group text.data-v-e343b724:last-child {
+  background-color: #ef4a51;
+  border-color: #ef4a51;
+  color: #fff;
+}
+.t-hairdres-user-hairstyle .list-item .time.data-v-e343b724 {
+  display: block;
+  text-align: right;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-user-hairstyle .list-item .images.data-v-e343b724 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin: 24rpx -12rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-user-hairstyle .list-item .images image.data-v-e343b724 {
+  border-radius: 10rpx;
+  width: 100%;
+  height: 200rpx;
+  margin: 0 12rpx;
+  display: block;
+}
+

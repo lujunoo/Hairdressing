@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "活动策划",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "fixed-footer": "/components/fixedFooter/index"
+  }
+}

@@ -1,0 +1,91 @@
+.t-hairdres-user-collect .t-hairdres-waterfallsflow.data-v-1bc255c9,
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2.data-v-1bc255c9 {
+  -webkit-column-count: 2;
+          column-count: 2;
+  -webkit-column-gap: 24rpx;
+          column-gap: 24rpx;
+}
+.t-hairdres-user-collect .t-hairdres-waterfallsflow .userinfo.data-v-1bc255c9,
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2 .userinfo.data-v-1bc255c9 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: calc(100% - 64rpx);
+  background: rgba(255, 120, 57, 0.4);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 16rpx 32rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-user-collect .t-hairdres-waterfallsflow .userinfo .left.data-v-1bc255c9,
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2 .userinfo .left.data-v-1bc255c9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-collect .t-hairdres-waterfallsflow .userinfo .cover.data-v-1bc255c9,
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2 .userinfo .cover.data-v-1bc255c9 {
+  width: 40rpx;
+  height: 40rpx;
+  border-radius: 50rpx;
+  overflow: hidden;
+  margin-right: 16rpx;
+}
+.t-hairdres-user-collect .t-hairdres-waterfallsflow .userinfo .cover image.data-v-1bc255c9,
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2 .userinfo .cover image.data-v-1bc255c9 {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.t-hairdres-user-collect .t-hairdres-waterfallsflow .userinfo text.data-v-1bc255c9,
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2 .userinfo text.data-v-1bc255c9 {
+  display: block;
+  font-size: 24rpx;
+}
+.t-hairdres-user-collect .t-hairdres-waterfallsflow .userinfo .iconfont.data-v-1bc255c9,
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2 .userinfo .iconfont.data-v-1bc255c9 {
+  color: #fc689a;
+  font-size: 32rpx;
+}
+.t-hairdres-user-collect .t-hairdres-waterfallsflow .userinfo2.data-v-1bc255c9,
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2 .userinfo2.data-v-1bc255c9 {
+  background: rgba(0, 0, 0, 0.4);
+}
+.t-hairdres-user-collect .t-hairdres-waterfallsflow .userinfo2 text.data-v-1bc255c9,
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2 .userinfo2 text.data-v-1bc255c9 {
+  color: #fff;
+}
+.t-hairdres-user-collect .t-hairdres-waterfallsflow .item.data-v-1bc255c9,
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2 .item.data-v-1bc255c9 {
+  margin-bottom: 24rpx;
+  border-radius: 16rpx;
+  position: relative;
+  overflow: hidden;
+}
+.t-hairdres-user-collect .t-hairdres-waterfallsflow .item image.data-v-1bc255c9,
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2 .item image.data-v-1bc255c9 {
+  width: 100%;
+  display: block;
+}
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2.data-v-1bc255c9 {
+  -webkit-column-count: none;
+          column-count: none;
+  -webkit-column-gap: none;
+          column-gap: none;
+}
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2 .item.data-v-1bc255c9 {
+  height: 360rpx;
+}
+.t-hairdres-user-collect .t-hairdres-waterfallsflow2 .item image.data-v-1bc255c9 {
+  height: 100%;
+}
+

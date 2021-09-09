@@ -1,0 +1,100 @@
+.t-hairdres-index-home .t-home-setmeal.data-v-73cf3aae {
+  padding-bottom: 24rpx;
+}
+.t-hairdres-index-home .t-home-menu.data-v-73cf3aae {
+  padding: 32rpx;
+}
+.t-hairdres-index-home .t-home-menu .classification.data-v-73cf3aae {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-index-home .t-home-menu .classification .class-item.data-v-73cf3aae {
+  width: 218rpx;
+  height: 126rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  background-image: -webkit-linear-gradient(left, #ffe2fa 0%, #edeffe 100%);
+  background-image: linear-gradient(90deg, #ffe2fa 0%, #edeffe 100%);
+  border-radius: 30rpx;
+}
+.t-hairdres-index-home .t-home-menu .classification .class-item text.data-v-73cf3aae {
+  font-size: 32rpx;
+  display: block;
+  margin-left: 16rpx;
+  color: #f98699;
+}
+.t-hairdres-index-home .t-home-menu .classification .class-item image.data-v-73cf3aae {
+  width: 40rpx;
+  height: 32rpx;
+}
+.t-hairdres-index-home .t-home-menu .classification .class-item.data-v-73cf3aae:nth-child(2n) {
+  background-image: -webkit-linear-gradient(left, #fae4d7 0%, #f9f9e7 100%);
+  background-image: linear-gradient(90deg, #fae4d7 0%, #f9f9e7 100%);
+}
+.t-hairdres-index-home .t-home-menu .classification .class-item:nth-child(2n) text.data-v-73cf3aae {
+  color: #ffb28f;
+}
+.t-hairdres-index-home .t-home-menu .classification .class-item.data-v-73cf3aae:last-child {
+  background-image: -webkit-linear-gradient(left, #d9e9ff 0%, #e6fbf2 100%);
+  background-image: linear-gradient(90deg, #d9e9ff 0%, #e6fbf2 100%);
+}
+.t-hairdres-index-home .t-home-menu .classification .class-item:last-child text.data-v-73cf3aae {
+  color: #40dfdd;
+}
+.t-hairdres-index-home .t-home-menu .leaderboard.data-v-73cf3aae {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-index-home .t-home-menu .leaderboard text.data-v-73cf3aae {
+  width: 334rpx;
+  height: 100rpx;
+  display: block;
+  font-size: 32rpx;
+  color: #FFFFFF;
+  background: #f789b0;
+  border-radius: 30rpx;
+  line-height: 100rpx;
+  text-align: center;
+}
+.t-hairdres-index-home .t-home-menu .leaderboard text.data-v-73cf3aae:last-child {
+  background: #aceeff;
+}
+.t-hairdres-index-home .t-home-search.data-v-73cf3aae {
+  padding: 24rpx 32rpx;
+  background: #FFFFFF;
+}
+.t-hairdres-index-home .t-home-search .address.data-v-73cf3aae {
+  line-height: 65rpx;
+  color: #333333;
+  font-size: 32rpx;
+  margin-right: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-index-home .t-home-search .address .drupdown.data-v-73cf3aae {
+  -webkit-transform: translateY(4rpx);
+          transform: translateY(4rpx);
+  font-size: 40rpx;
+  font-family: icon-hairdressing;
+}
+

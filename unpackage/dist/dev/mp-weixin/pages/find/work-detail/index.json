@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "作品详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "banner": "/components/Banner/index",
+    "card": "/components/Card/index",
+    "title": "/components/Title/index",
+    "tab-bar": "/components/TabBar/index",
+    "pricelist": "/components/Pricelist/index",
+    "evaluation": "/components/Evaluation/index",
+    "honor": "/components/Honor/index",
+    "waterfalls-flow": "/components/WaterfallsFlow/index",
+    "shop-entrance": "/components/ShopEntrance/index",
+    "dialog": "/components/Dialog/index"
+  }
+}

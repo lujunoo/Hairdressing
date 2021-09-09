@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "银行卡",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "dialog": "/components/Dialog/index"
+  }
+}

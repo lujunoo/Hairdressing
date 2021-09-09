@@ -1,0 +1,19 @@
+.t-hairdres-merchant-settlement.data-v-dc2f161c {
+  font-size: 24rpx;
+  line-height: 1;
+}
+.t-hairdres-merchant-settlement .list-item.data-v-dc2f161c {
+  margin-bottom: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-merchant-settlement .list-item.data-v-dc2f161c:last-child {
+  margin-bottom: 0;
+}
+.t-hairdres-merchant-settlement .list-item text.data-v-dc2f161c {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+

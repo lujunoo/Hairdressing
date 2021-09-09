@@ -1,0 +1,53 @@
+.t-hairdres-hairstylist .card-item.data-v-cb7c792a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-hairstylist .card-item .desc.data-v-cb7c792a {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.t-hairdres-hairstylist .card-item .desc .name.data-v-cb7c792a {
+  font-size: 28rpx;
+  font-weight: bold;
+  line-height: 1;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-hairstylist .card-item .desc .conut.data-v-cb7c792a {
+  font-size: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-hairstylist .card-item .desc .conut > text.data-v-cb7c792a {
+  line-height: 1;
+  height: 24rpx;
+  margin-right: 32rpx;
+  padding-right: 32rpx;
+  border-right: solid 2rpx #333333;
+}
+.t-hairdres-hairstylist .card-item .desc .conut > text.data-v-cb7c792a:last-child {
+  border: none;
+}
+.t-hairdres-hairstylist .card-item .desc .conut > text:last-child text.data-v-cb7c792a {
+  color: #d964ff;
+}
+.t-hairdres-hairstylist .card-item image.data-v-cb7c792a {
+  width: 150rpx;
+  height: 150rpx;
+  background-color: #f00055;
+  border-radius: 10rpx;
+  margin-right: 32rpx;
+}
+

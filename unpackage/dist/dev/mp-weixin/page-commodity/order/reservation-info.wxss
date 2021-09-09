@@ -1,0 +1,185 @@
+.t-hairdres-order-reservation.data-v-7281eeb2 {
+  font-size: 24rpx;
+}
+.t-hairdres-order-reservation .t-hairdres-button.data-v-7281eeb2 {
+  margin: 0 125rpx 50rpx 125rpx;
+}
+.t-hairdres-order-reservation .clause.data-v-7281eeb2 {
+  text-align: center;
+  margin-bottom: 40rpx;
+}
+.t-hairdres-order-reservation .clause .iconfont.data-v-7281eeb2 {
+  color: #fc689a;
+  font-size: 28rpx;
+  margin-right: 16rpx;
+}
+.t-hairdres-order-reservation .clause .iconfont2.data-v-7281eeb2 {
+  color: #666;
+}
+.t-hairdres-order-reservation .title.data-v-7281eeb2 {
+  font-size: 28rpx;
+  font-weight: bold;
+  width: 190rpx;
+  display: block;
+}
+.t-hairdres-order-reservation .checked .title.data-v-7281eeb2 {
+  margin-bottom: 32rpx;
+}
+.t-hairdres-order-reservation .checked .checked-item.data-v-7281eeb2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 24rpx;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-order-reservation .checked .checked-item .left.data-v-7281eeb2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  position: relative;
+}
+.t-hairdres-order-reservation .checked .checked-item.data-v-7281eeb2:last-child {
+  margin-bottom: 0;
+}
+.t-hairdres-order-reservation .checked .checked-item .iconfont1.data-v-7281eeb2 {
+  font-size: 40rpx;
+}
+.t-hairdres-order-reservation .checked .checked-item .iconfont2.data-v-7281eeb2 {
+  color: #fc689a;
+  font-size: 36rpx;
+  margin: 2rpx;
+}
+.t-hairdres-order-reservation .checked .checked-item .iconfont3.data-v-7281eeb2 {
+  color: #333333;
+  font-size: 38rpx;
+  margin: 0 30rpx 0 26rpx;
+}
+.t-hairdres-order-reservation .checked .checked-item .iconfont4.data-v-7281eeb2 {
+  font-size: 48rpx;
+  color: #09bb07;
+  margin: 0 24rpx;
+}
+.t-hairdres-order-reservation .title2.data-v-7281eeb2 {
+  font-weight: bold;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-order-reservation .list-item.data-v-7281eeb2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-order-reservation .list-item .user.data-v-7281eeb2 {
+  line-height: 60rpx;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: 60rpx;
+  background-color: #fff3e2;
+  border-radius: 10rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 0 24rpx;
+}
+.t-hairdres-order-reservation .price2.data-v-7281eeb2 {
+  font-size: 24rpx;
+  line-height: 1;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-order-reservation .price2 view.data-v-7281eeb2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-order-reservation .price2 view text.data-v-7281eeb2 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.t-hairdres-order-reservation .list-item2.data-v-7281eeb2 {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-order-reservation .project-time.data-v-7281eeb2 {
+  margin-top: 24rpx;
+}
+.t-hairdres-order-reservation .project-item.data-v-7281eeb2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  position: relative;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  background: #ffe4ed;
+  padding: 24rpx;
+  border-radius: 10rpx;
+  margin-top: 24rpx;
+}
+.t-hairdres-order-reservation .project-item .iconfont.data-v-7281eeb2 {
+  color: #fc689a;
+  font-size: 40rpx;
+}
+.t-hairdres-order-reservation .project-item .iconfont2.data-v-7281eeb2 {
+  color: #aaa;
+  -webkit-transform: scale(1.08);
+          transform: scale(1.08);
+}
+.t-hairdres-order-reservation .project-item image.data-v-7281eeb2 {
+  width: 170rpx;
+  height: 120rpx;
+  background-color: #f00055;
+  border-radius: 10rpx;
+  margin-right: 24rpx;
+}
+.t-hairdres-order-reservation .project-item .content.data-v-7281eeb2 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 24rpx;
+  min-height: 120rpx;
+}
+.t-hairdres-order-reservation .project-item .content .info.data-v-7281eeb2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  color: #333333;
+}
+.t-hairdres-order-reservation .project-item .content .info .color-theme.data-v-7281eeb2 {
+  font-size: 28rpx;
+}
+.t-hairdres-order-reservation .project-item .content .info .color-theme text.data-v-7281eeb2 {
+  margin-left: 16rpx;
+  font-size: 24rpx;
+}
+

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "充值",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "pay-password": "/components/PayPassword/index"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="t-hairdres-user-message-detail data-v-49d65026"><card vue-id="f0f2b28e-1" class="data-v-49d65026" bind:__l="__l" vue-slots="{{['default']}}"><title vue-id="{{('f0f2b28e-2')+','+('f0f2b28e-1')}}" title="消息详情" class="data-v-49d65026" bind:__l="__l"></title></card></view>

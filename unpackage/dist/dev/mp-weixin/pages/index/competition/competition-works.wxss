@@ -1,0 +1,249 @@
+
+page {
+	background: #ffcee4;
+}
+
+.t-hairdres-competition .vote.data-v-5edc30be {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background: #FFFFFF;
+  height: 100rpx;
+}
+.t-hairdres-competition .vote text.data-v-5edc30be {
+  margin: 10rpx 125rpx;
+  background: #FC689A;
+  color: #FFFFFF;
+  display: block;
+  font-size: 24rpx;
+  font-weight: bold;
+  text-align: center;
+  line-height: 80rpx;
+  border-radius: 100rpx;
+}
+.t-hairdres-competition .userInfo.data-v-5edc30be {
+  margin: 0 32rpx 32rpx 32rpx;
+  border-radius: 10rpx;
+  overflow: hidden;
+  background: #FFFFFF;
+}
+.t-hairdres-competition .userInfo .author.data-v-5edc30be {
+  padding: 0 32rpx 32rpx 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 24rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-competition .userInfo .author .left.data-v-5edc30be {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-competition .userInfo .author .left image.data-v-5edc30be {
+  width: 50rpx;
+  height: 50rpx;
+  border-radius: 50rpx;
+  margin-right: 8rpx;
+}
+.t-hairdres-competition .userInfo .title.data-v-5edc30be {
+  color: #333333;
+  font-size: 28rpx;
+  font-weight: bold;
+  padding: 0 32rpx 32rpx 32rpx;
+}
+.t-hairdres-competition .userInfo .desc.data-v-5edc30be {
+  font-size: 24rpx;
+  padding: 0 32rpx 32rpx 32rpx;
+}
+.t-hairdres-competition .userInfo .cover.data-v-5edc30be {
+  width: 100%;
+  height: 387rpx;
+  display: block;
+}
+.t-hairdres-competition .userInfo .cover-list.data-v-5edc30be {
+  padding: 32rpx ;
+  height: 122rpx;
+}
+.t-hairdres-competition .userInfo scroll-view.data-v-5edc30be {
+  width: 100%;
+  height: 122rpx;
+  white-space: nowrap;
+}
+.t-hairdres-competition .userInfo scroll-view .image.data-v-5edc30be {
+  width: 160rpx;
+  height: 122rpx;
+  display: inline-block;
+  margin-right: 10rpx;
+}
+.t-hairdres-competition .userInfo scroll-view .image image.data-v-5edc30be {
+  width: 100%;
+  height: 100%;
+  border-radius: 8rpx;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+  -webkit-transform: scale(0.85);
+          transform: scale(0.85);
+}
+.t-hairdres-competition .userInfo scroll-view .image .active.data-v-5edc30be {
+  -webkit-transform: scale(1);
+          transform: scale(1);
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
+}
+.t-hairdres-competition .userDate.data-v-5edc30be {
+  padding: 0 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-competition .userDate .dateItem.data-v-5edc30be {
+  width: 174rpx;
+  height: 114rpx;
+  background: #FFF0B5;
+  border-radius: 10rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  color: #666666;
+  font-size: 24rpx;
+}
+.t-hairdres-competition .userDate .dateItem.data-v-5edc30be:nth-child(2) {
+  background: #FFC2C2;
+}
+.t-hairdres-competition .userDate .dateItem.data-v-5edc30be:last-child {
+  background: #D3FFC2;
+}
+.t-hairdres-competition .userDate .dateItem text.data-v-5edc30be {
+  line-height: 24rpx;
+}
+.t-hairdres-competition .userDate .dateItem text.data-v-5edc30be:first-child {
+  font-size: 32rpx;
+  line-height: 32rpx;
+  margin-bottom: 16rpx;
+  color: #FF0000;
+  font-weight: bold;
+}
+.t-hairdres-competition .countdown.data-v-5edc30be {
+  margin: 32rpx 75rpx;
+}
+.t-hairdres-competition .countdown .title.data-v-5edc30be {
+  background: #FF0000;
+  height: 60rpx;
+  border-radius: 100rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  color: #FFFFFF;
+  font-size: 24rpx;
+}
+.t-hairdres-competition .countdown .title image.data-v-5edc30be {
+  width: 28rpx;
+  height: 28rpx;
+  margin-right: 16rpx;
+}
+.t-hairdres-competition .share.data-v-5edc30be {
+  width: 100rpx;
+  height: 100rpx;
+  background: #FFF760;
+  opacity: 0.88;
+  border-radius: 10rpx;
+  position: fixed;
+  right: 10rpx;
+  top: 520rpx;
+  z-index: 100;
+}
+.t-hairdres-competition .share text.data-v-5edc30be {
+  display: block;
+  text-align: center;
+  font-family: icon-hairdressing;
+}
+.t-hairdres-competition .share text.data-v-5edc30be:first-child {
+  font-size: 60rpx;
+  color: #09bb07;
+}
+.t-hairdres-competition .share text.data-v-5edc30be:last-child {
+  font-size: 18rpx;
+  color: #333333;
+}
+.t-hairdres-competition .datacount.data-v-5edc30be {
+  height: 150rpx;
+  background: #FFB95C;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-competition .datacount .datacount-item.data-v-5edc30be {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 24rpx;
+  color: #FFFFFF;
+  padding-top: 8rpx;
+}
+.t-hairdres-competition .datacount .datacount-item text.data-v-5edc30be {
+  display: block;
+  font-size: 32rpx;
+  font-weight: bold;
+  line-height: 32rpx;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-competition .datacount .datacount-item text.data-v-5edc30be:last-child {
+  font-size: 28rpx;
+  line-height: 28rpx;
+  font-weight: 500;
+}
+.t-hairdres-competition .datacount .datacount-item.data-v-5edc30be:nth-child(2) {
+  border-left: solid 1px #FFFFFF;
+  border-right: solid 1px #FFFFFF;
+}
+

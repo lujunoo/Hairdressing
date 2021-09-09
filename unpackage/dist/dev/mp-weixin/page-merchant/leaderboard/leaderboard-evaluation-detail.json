@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "评价详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "fixed-footer": "/components/fixedFooter/index",
+    "evaluation": "/components/Evaluation/index"
+  }
+}

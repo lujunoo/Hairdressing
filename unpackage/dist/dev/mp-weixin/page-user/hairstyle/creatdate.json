@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "添加发型记录",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "title": "/components/Title/index",
+    "upload": "/components/Upload/index"
+  }
+}

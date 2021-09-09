@@ -1,0 +1,156 @@
+.t-hairdres-platform .fied-btn.data-v-2223a1ae {
+  position: fixed;
+  bottom: 100rpx;
+  right: 10rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-platform .fied-btn .btn.data-v-2223a1ae {
+  text-align: center;
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 100rpx;
+  margin-bottom: 16rpx;
+  opacity: 0.6;
+  background: -webkit-linear-gradient(bottom, #FC689A 0%, #FF9EDE 100%);
+  background: linear-gradient(0deg, #FC689A 0%, #FF9EDE 100%);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-platform .fied-btn .btn text.data-v-2223a1ae {
+  font-size: 24rpx;
+  color: #FFFFFF;
+}
+.t-hairdres-platform .fied-btn .btn .iconfont.data-v-2223a1ae {
+  font-size: 32rpx;
+}
+.t-hairdres-platform .fied-btn .btn .iconfont2.data-v-2223a1ae {
+  -webkit-transform: scale(1.4);
+          transform: scale(1.4);
+}
+.t-hairdres-platform .date-list.data-v-2223a1ae {
+  background: #fffeff;
+  padding: 32rpx 0 32rpx 0;
+}
+.t-hairdres-platform .date-list .discuss.data-v-2223a1ae {
+  margin: 32rpx 32rpx 0 32rpx;
+}
+.t-hairdres-platform .hot-topic.data-v-2223a1ae {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  padding: 0 32rpx;
+}
+.t-hairdres-platform .hot-topic .item.data-v-2223a1ae {
+  width: 50%;
+  margin-bottom: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-platform .hot-topic .item .info.data-v-2223a1ae {
+  max-width: 270rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-platform .hot-topic .item .info .name.data-v-2223a1ae {
+  line-height: 1;
+  font-size: 28rpx;
+  margin-bottom: 10rpx;
+  display: block;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.t-hairdres-platform .hot-topic .item .info .count.data-v-2223a1ae {
+  font-size: 22rpx;
+  line-height: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-platform .hot-topic .item .info .count text.data-v-2223a1ae {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.t-hairdres-platform .hot-topic .item image.data-v-2223a1ae {
+  width: 60rpx;
+  height: 60rpx;
+  display: block;
+  margin-right: 16rpx;
+}
+.t-hairdres-platform .hot-title.data-v-2223a1ae {
+  padding: 16rpx 32rpx 32rpx 32rpx;
+}
+.t-hairdres-platform .hot-title .iconfont.data-v-2223a1ae {
+  color: #fc689a;
+  font-family: icon-hairdressing;
+  margin-right: 8rpx;
+}
+.t-hairdres-platform .hot-title text.data-v-2223a1ae {
+  font-weight: bold;
+  font-size: 32rpx;
+}
+.t-hairdres-platform .menu.data-v-2223a1ae {
+  padding: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-platform .menu .item.data-v-2223a1ae {
+  width: 320rpx;
+  height: 170rpx;
+  border-radius: 10rpx;
+  overflow: hidden;
+  position: relative;
+}
+.t-hairdres-platform .menu .item image.data-v-2223a1ae {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.t-hairdres-platform .menu .item text.data-v-2223a1ae {
+  display: block;
+  font-size: 32rpx;
+  font-weight: bold;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.35);
+  color: #FFFFFF;
+  text-align: center;
+  line-height: 170rpx;
+}
+

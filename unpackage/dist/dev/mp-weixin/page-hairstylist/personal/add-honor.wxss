@@ -1,0 +1,34 @@
+.t-hairdres-user-personal-add-honor.data-v-88b5856c {
+  font-size: 24rpx;
+}
+.t-hairdres-user-personal-add-honor .t-hairdres-button.data-v-88b5856c {
+  width: 480rpx;
+  margin: auto;
+}
+.t-hairdres-user-personal-add-honor .list-item.data-v-88b5856c {
+  border-bottom: solid 2rpx #eee;
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-user-personal-add-honor .list-item.data-v-88b5856c:last-child {
+  border: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.t-hairdres-user-personal-add-honor .list-item .label.data-v-88b5856c {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-user-personal-add-honor .list-item input.data-v-88b5856c {
+  font-size: 24rpx;
+}
+.t-hairdres-user-personal-add-honor .list-item textarea.data-v-88b5856c {
+  width: calc(100% - 32rpx);
+  height: 200rpx;
+  padding: 16rpx;
+  font-size: 24rpx;
+  background-color: #fff3e2;
+  border-radius: 10rpx;
+}
+

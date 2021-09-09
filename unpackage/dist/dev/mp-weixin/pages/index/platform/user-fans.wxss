@@ -1,0 +1,54 @@
+.t-hairdres-user-fans.data-v-1031843c {
+  margin: 32rpx;
+  padding: 32rpx;
+  background: #FFFFFF;
+}
+.t-hairdres-user-fans .item.data-v-1031843c {
+  margin-bottom: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-fans .item.data-v-1031843c:last-child {
+  margin-bottom: 0;
+}
+.t-hairdres-user-fans .item .btn.data-v-1031843c {
+  text-align: center;
+  line-height: 40rpx;
+  font-size: 24rpx;
+  color: #fc699a;
+  width: 120rpx;
+  height: 40rpx;
+  border-radius: 10rpx;
+  border: solid 2rpx #fc699a;
+}
+.t-hairdres-user-fans .item .address.data-v-1031843c {
+  font-size: 24rpx;
+  color: #666666;
+}
+.t-hairdres-user-fans .item .user.data-v-1031843c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-fans .item .user .name.data-v-1031843c {
+  font-weight: bold;
+  font-size: 28rpx;
+}
+.t-hairdres-user-fans .item .user image.data-v-1031843c {
+  border-radius: 100rpx;
+  margin-right: 24rpx;
+  display: block;
+  height: 60rpx;
+  width: 60rpx;
+}
+

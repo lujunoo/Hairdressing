@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "发型记录",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tab-bar": "/components/TabBar/index",
+    "card": "/components/Card/index",
+    "fixed-footer": "/components/fixedFooter/index"
+  }
+}

@@ -1,0 +1,17 @@
+.t-hairdres-user-customer-profile-add-record.data-v-dd444932 {
+  font-size: 24rpx;
+}
+.t-hairdres-user-customer-profile-add-record .profile-add-record.data-v-dd444932 {
+  margin-top: -32rpx;
+}
+.t-hairdres-user-customer-profile-add-record textarea.data-v-dd444932 {
+  width: calc(100% - 32rpx);
+  display: block;
+  height: 200rpx;
+  background-color: #fff3e2;
+  border-radius: 10rpx;
+  border: dashed 4rpx #f95abf;
+  font-size: 24rpx;
+  padding: 16rpx;
+}
+

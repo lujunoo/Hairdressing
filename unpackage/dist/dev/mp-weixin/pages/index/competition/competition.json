@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "IHair Do 首届优秀发型师甄选大赛",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "banner": "/components/Banner/index",
+    "search": "/components/Search/index",
+    "pull-down-refresh": "/components/PullDownRefresh/index"
+  }
+}

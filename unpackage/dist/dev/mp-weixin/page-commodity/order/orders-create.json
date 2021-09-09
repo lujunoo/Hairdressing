@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "确认订单",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "title": "/components/Title/index",
+    "fixed-footer": "/components/fixedFooter/index",
+    "pay-password": "/components/PayPassword/index"
+  }
+}

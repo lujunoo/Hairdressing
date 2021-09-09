@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "用户主页",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "user-discuss": "/components/UserDiscuss/index",
+    "pull-down-refresh": "/components/PullDownRefresh/index",
+    "title": "/components/Title/index"
+  }
+}

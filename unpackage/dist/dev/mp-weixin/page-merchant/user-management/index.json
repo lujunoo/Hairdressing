@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "发型师管理",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "tab-bar": "/components/TabBar/index"
+  }
+}

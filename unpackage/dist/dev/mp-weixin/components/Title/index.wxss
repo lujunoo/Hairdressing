@@ -1,0 +1,48 @@
+.t-hairdres-title.data-v-67822a60 {
+  padding-bottom: 32rpx;
+  font-size: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-title .option.data-v-67822a60 {
+  font-size: 24rpx;
+  color: #999999;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-title .option .iconfont.data-v-67822a60 {
+  font-size: 28rpx;
+  margin-bottom: -5rpx;
+  font-family: icon-hairdressing;
+  font-weight: bold;
+}
+.t-hairdres-title .title.data-v-67822a60 {
+  font-weight: bold;
+  display: block;
+  position: relative;
+}
+.t-hairdres-title .title.data-v-67822a60::after {
+  content: "";
+  width: 10rpx;
+  height: 15rpx;
+  background-color: #fc689a;
+  border-radius: 3rpx;
+  position: absolute;
+  bottom: 8rpx;
+  right: -20rpx;
+}
+.t-hairdres-title .showred.data-v-67822a60::after {
+  background-color: rgba(0, 0, 0, 0);
+}
+

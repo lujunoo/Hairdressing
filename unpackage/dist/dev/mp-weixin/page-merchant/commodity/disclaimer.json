@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "免责声明",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index"
+  }
+}

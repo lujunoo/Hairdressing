@@ -1,0 +1,83 @@
+.t-hairdres-dialog.data-v-3d73e6a6 {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  z-index: 999;
+}
+.t-hairdres-dialog .mask.data-v-3d73e6a6 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.4);
+}
+.t-hairdres-dialog .t-dialog-body.data-v-3d73e6a6 {
+  width: auto;
+  height: auto;
+  min-height: 330rpx;
+  min-width: 500rpx;
+  max-height: 90%;
+  border-radius: 10rpx;
+  background: #FFFFFF;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-dialog .t-dialog-body .header .title.data-v-3d73e6a6 {
+  font-size: 28rpx;
+  font-weight: bold;
+  padding: 40rpx 24rpx;
+  text-align: center;
+}
+.t-hairdres-dialog .t-dialog-body .body.data-v-3d73e6a6 {
+  max-height: 90%;
+  overflow-y: auto;
+}
+.t-hairdres-dialog .t-dialog-body .desc.data-v-3d73e6a6 {
+  font-size: 24rpx;
+  padding: 0 40rpx;
+  line-height: 2;
+}
+.t-hairdres-dialog .t-dialog-body .footer .footer-button.data-v-3d73e6a6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  padding: 40rpx 32rpx;
+}
+.t-hairdres-dialog .t-dialog-body .footer .footer-button .button.data-v-3d73e6a6 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: block;
+  font-size: 24rpx;
+  color: #FFFFFF;
+  height: 60rpx;
+  border: none;
+  line-height: 60rpx;
+  background: #FFBABA;
+  border-radius: 100rpx;
+  text-align: center;
+  margin: 0 24rpx;
+}
+.t-hairdres-dialog .t-dialog-body .footer .footer-button .submit.data-v-3d73e6a6 {
+  background: #FC689A;
+}
+

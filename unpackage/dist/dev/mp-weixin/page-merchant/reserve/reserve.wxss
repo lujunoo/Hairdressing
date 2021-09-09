@@ -1,0 +1,92 @@
+.t-hairdres-merchant-reserve .break-time-calendar-header.data-v-ad2a59fc {
+  padding: 32rpx;
+  border-bottom: solid 1px #aaa;
+  line-height: 1;
+}
+.t-hairdres-merchant-reserve .title.data-v-ad2a59fc {
+  text-align: center;
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-merchant-reserve .title2.data-v-ad2a59fc {
+  text-align: left;
+}
+.t-hairdres-merchant-reserve .checkbox-label.data-v-ad2a59fc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 28rpx;
+  margin-top: 32rpx;
+  margin-bottom: 100rpx;
+}
+.t-hairdres-merchant-reserve .checkbox-label .label-item.data-v-ad2a59fc {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.t-hairdres-merchant-reserve .checkbox-label .label-item .iconfont.data-v-ad2a59fc {
+  margin-right: 16rpx;
+}
+.t-hairdres-merchant-reserve .checkbox-label .label-item .iconfont2.data-v-ad2a59fc {
+  color: #fc689a;
+}
+.t-hairdres-merchant-reserve .block1.data-v-ad2a59fc,
+.t-hairdres-merchant-reserve .block2.data-v-ad2a59fc,
+.t-hairdres-merchant-reserve .block3.data-v-ad2a59fc,
+.t-hairdres-merchant-reserve .block4.data-v-ad2a59fc {
+  display: inline-block;
+  background: #fc689a;
+  border: none;
+}
+.t-hairdres-merchant-reserve .block2.data-v-ad2a59fc {
+  background: #ffb400;
+}
+.t-hairdres-merchant-reserve .block4.data-v-ad2a59fc {
+  background: #efd1d1;
+}
+.t-hairdres-merchant-reserve .button.data-v-ad2a59fc {
+  height: 80rpx;
+  line-height: 80rpx;
+  color: #FFFFFF;
+  font-size: 28rpx;
+  font-weight: bold;
+  text-align: center;
+  background-color: #fc689a;
+  border-radius: 20rpx;
+}
+.t-hairdres-merchant-reserve .desc.data-v-ad2a59fc {
+  line-height: 1;
+}
+.t-hairdres-merchant-reserve .desc .block1.data-v-ad2a59fc,
+.t-hairdres-merchant-reserve .desc .block2.data-v-ad2a59fc,
+.t-hairdres-merchant-reserve .desc .block3.data-v-ad2a59fc,
+.t-hairdres-merchant-reserve .desc .block4.data-v-ad2a59fc {
+  width: 50rpx;
+  height: 20rpx;
+  margin-right: 16rpx;
+}
+.t-hairdres-merchant-reserve .desc .block3.data-v-ad2a59fc {
+  width: 46rpx;
+  height: 18rpx;
+  border: solid 2rpx #aaa;
+  background: #fff;
+}
+.t-hairdres-merchant-reserve .desc .desc-item.data-v-ad2a59fc {
+  font-size: 24rpx;
+  display: block;
+  color: #888;
+  margin-bottom: 24rpx;
+  position: relative;
+}
+.t-hairdres-merchant-reserve .desc .subtitle.data-v-ad2a59fc {
+  color: #333333;
+  padding-left: 0rpx;
+  padding-top: 32rpx;
+  margin-bottom: 32rpx;
+  display: block;
+  font-size: 28rpx;
+}
+

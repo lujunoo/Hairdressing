@@ -1,0 +1,91 @@
+.t-hairdres-merchant-add-talent.data-v-34bdf576 {
+  font-size: 24rpx;
+}
+.t-hairdres-merchant-add-talent .form-data.data-v-34bdf576 {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: ;
+          flex-direction: ;
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-merchant-add-talent .form-data .label.data-v-34bdf576 {
+  font-weight: bold;
+  width: 120rpx;
+}
+.t-hairdres-merchant-add-talent .form-data input.data-v-34bdf576 {
+  font-size: 24rpx;
+  text-align: left;
+}
+.t-hairdres-merchant-add-talent .form-data textarea.data-v-34bdf576 {
+  font-size: 24rpx;
+  padding: 16rpx;
+  width: calc(100% - 32rpx);
+  height: 200rpx;
+  background-color: #fff3e2;
+  border-radius: 10rpx;
+  border: dashed 4rpx #fc689a;
+  margin-top: 24rpx;
+}
+.t-hairdres-merchant-add-talent .form-data .color-red.data-v-34bdf576 {
+  margin-left: 24rpx;
+}
+.t-hairdres-merchant-add-talent .form-data .label-item.data-v-34bdf576 {
+  border-radius: 10rpx;
+  padding: 8rpx 16rpx;
+  line-height: 1;
+  margin-right: 16rpx;
+  margin-top: 16rpx;
+  display: inline-block;
+  color: #555;
+  border: solid 2rpx #888;
+}
+.t-hairdres-merchant-add-talent .form-data .acitve.data-v-34bdf576 {
+  color: #fff;
+  background: #fc689a;
+  border-color: #fc689a;
+}
+.t-hairdres-merchant-add-talent .form-data.data-v-34bdf576:last-child {
+  margin-bottom: 0;
+  border: none;
+}
+.t-hairdres-merchant-add-talent .direction.data-v-34bdf576 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-merchant-add-talent .direction .right.data-v-34bdf576 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+          justify-content: flex-end;
+}
+.t-hairdres-merchant-add-talent .direction .right .border.data-v-34bdf576 {
+  margin: 0 16rpx;
+  width: 30rpx;
+  height: 2rpx;
+  background: #eee;
+}
+.t-hairdres-merchant-add-talent .direction .right input.data-v-34bdf576 {
+  height: 50rpx;
+  text-align: center;
+  width: 140rpx;
+  border-radius: 10rpx;
+  border: solid 2rpx #eee;
+}
+

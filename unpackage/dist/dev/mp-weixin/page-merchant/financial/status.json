@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "支付进度",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index"
+  }
+}

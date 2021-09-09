@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "回答详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "fixed-footer": "/components/fixedFooter/index"
+  }
+}

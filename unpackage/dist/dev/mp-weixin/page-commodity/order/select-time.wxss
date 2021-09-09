@@ -1,0 +1,158 @@
+.t-hairdres-select-time .title.data-v-7899dc2b {
+  text-align: center;
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-select-time .block1.data-v-7899dc2b,
+.t-hairdres-select-time .block2.data-v-7899dc2b,
+.t-hairdres-select-time .block3.data-v-7899dc2b,
+.t-hairdres-select-time .block4.data-v-7899dc2b {
+  display: inline-block;
+  background: #fc689a;
+  border: none;
+}
+.t-hairdres-select-time .block2.data-v-7899dc2b {
+  background: #ffb400;
+}
+.t-hairdres-select-time .block3.data-v-7899dc2b {
+  background: #ffd6e4;
+  font-size: 20rpx;
+  color: #333333;
+  text-align: center;
+}
+.t-hairdres-select-time .block4.data-v-7899dc2b {
+  background: #efd1d1;
+}
+.t-hairdres-select-time .button.data-v-7899dc2b {
+  height: 80rpx;
+  line-height: 80rpx;
+  color: #FFFFFF;
+  font-size: 28rpx;
+  font-weight: bold;
+  text-align: center;
+  background-color: #fc689a;
+  border-radius: 20rpx;
+}
+.t-hairdres-select-time .desc.data-v-7899dc2b {
+  margin-bottom: 100rpx;
+  line-height: 1;
+}
+.t-hairdres-select-time .desc .block1.data-v-7899dc2b,
+.t-hairdres-select-time .desc .block2.data-v-7899dc2b,
+.t-hairdres-select-time .desc .block3.data-v-7899dc2b,
+.t-hairdres-select-time .desc .block4.data-v-7899dc2b {
+  width: 50rpx;
+  height: 20rpx;
+  margin-right: 16rpx;
+}
+.t-hairdres-select-time .desc .desc-item.data-v-7899dc2b {
+  font-size: 24rpx;
+  display: block;
+  color: #888;
+  margin-bottom: 24rpx;
+  position: relative;
+}
+.t-hairdres-select-time .desc .desc-item.data-v-7899dc2b:last-child {
+  padding-left: 275rpx;
+  color: #222;
+}
+.t-hairdres-select-time .desc .subtitle.data-v-7899dc2b {
+  color: #333333;
+  padding-left: 0rpx;
+  padding-top: 32rpx;
+  margin-bottom: 32rpx;
+  display: block;
+  font-size: 28rpx;
+}
+.t-hairdres-select-time .table.data-v-7899dc2b {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-top: solid 2rpx #eee;
+  border-left: solid 2rpx #eee;
+}
+.t-hairdres-select-time .table .table-row.data-v-7899dc2b {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  font-size: 24rpx;
+}
+.t-hairdres-select-time .table .table-row > text.data-v-7899dc2b {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  border-bottom: solid 2rpx #eee;
+  border-right: solid 2rpx #eee;
+  text-align: center;
+  height: 40rpx;
+  display: block;
+}
+.t-hairdres-select-time .table .table-row .item-title.data-v-7899dc2b {
+  text-align: center;
+  line-height: 60rpx;
+  border-bottom: solid 2rpx #eee;
+  border-right: solid 2rpx #eee;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  height: 60rpx;
+}
+.t-hairdres-select-time .table .table-row .item-title text.data-v-7899dc2b {
+  display: block;
+  line-height: 0.9;
+}
+.t-hairdres-select-time .table .table-row .item-title text.data-v-7899dc2b:last-child {
+  -webkit-transform: scale(0.8) rotateX(40deg);
+          transform: scale(0.8) rotateX(40deg);
+}
+.t-hairdres-select-time .title-date.data-v-7899dc2b {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin: 32rpx 0;
+}
+.t-hairdres-select-time .title-date .iconfont.data-v-7899dc2b {
+  width: 40rpx;
+  height: 40rpx;
+  background-color: #f7a0c7;
+  border-radius: 100rpx;
+  color: #FFFFFF;
+  text-align: center;
+  line-height: 40rpx;
+}
+.t-hairdres-select-time .title-date text.data-v-7899dc2b:first-child {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.t-hairdres-select-time .title-date text.data-v-7899dc2b:nth-child(2) {
+  line-height: 1;
+  padding: 18rpx 42rpx;
+  font-size: 28rpx;
+  color: #FFFFFF;
+  background-color: #f7a0c7;
+  border-radius: 20rpx;
+}
+

@@ -1,0 +1,366 @@
+.t-hairdres-find-detail .card-title.data-v-f128f29a {
+  margin-top: -32rpx;
+}
+.t-hairdres-find-detail .hairstylistDialog.data-v-f128f29a {
+  width: 524rpx;
+}
+.t-hairdres-find-detail .hairstylistDialog .list-item.data-v-f128f29a {
+  font-size: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding: 24rpx 32rpx 0 32rpx;
+}
+.t-hairdres-find-detail .hairstylistDialog .list-item .shopInfo.data-v-f128f29a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-find-detail .hairstylistDialog .list-item .shopInfo image.data-v-f128f29a {
+  display: block;
+  width: 50rpx;
+  height: 50rpx;
+  background-color: #fc689a;
+  border-radius: 10rpx;
+}
+.t-hairdres-find-detail .hairstylistDialog .list-item .shopInfo view.data-v-f128f29a {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin-left: 16rpx;
+}
+.t-hairdres-find-detail .hairstylistDialog .list-item .shopInfo view text.data-v-f128f29a {
+  font-size: 18rpx;
+  display: block;
+}
+.t-hairdres-find-detail .hairstylistDialog .list-item .shopInfo view text.data-v-f128f29a:first-child {
+  font-size: 24rpx;
+  font-weight: bold;
+}
+.t-hairdres-find-detail .hairstylistDialog .list-item .code.data-v-f128f29a {
+  width: 135rpx;
+  height: 135rpx;
+}
+.t-hairdres-find-detail .hairstylistDialog .list-item .code image.data-v-f128f29a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  margin-bottom: 8rpx;
+}
+.t-hairdres-find-detail .hairstylistDialog .list-item .code text.data-v-f128f29a {
+  display: block;
+  text-align: center;
+  font-size: 18rpx;
+  color: #666666;
+}
+.t-hairdres-find-detail .hairstylistDialog .list-item .user-price.data-v-f128f29a {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-find-detail .hairstylistDialog .list-item .user-price text.data-v-f128f29a {
+  margin-bottom: 16rpx;
+}
+.t-hairdres-find-detail .hairstylistDialog .list-item .name.data-v-f128f29a {
+  font-weight: bold;
+  font-size: 28rpx;
+}
+.t-hairdres-find-detail .repeat-customer.data-v-f128f29a {
+  font-size: 24rpx;
+  line-height: 1;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-customers.data-v-f128f29a {
+  margin-top: 32rpx;
+  padding-top: 32rpx;
+  border-top: solid 2rpx #eee;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-customers .Introduction .Introduction-item.data-v-f128f29a {
+  margin-top: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  line-height: 1.5;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-customers .Introduction .Introduction-item text.data-v-f128f29a {
+  -webkit-box-flex: 6.5;
+  -webkit-flex: 6.5;
+          flex: 6.5;
+  font-size: 24rpx;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-customers .Introduction .Introduction-item text.data-v-f128f29a:first-child {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-weight: bold;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-customers .desc.data-v-f128f29a {
+  padding: 32rpx 0 24rpx 0;
+  border-bottom: solid 2rpx #E5E5E5;
+  font-size: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: start;
+          justify-content: start;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-customers .desc .subtitle.data-v-f128f29a {
+  width: 100rpx;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-customers .desc .list.data-v-f128f29a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-customers .desc .list .item.data-v-f128f29a {
+  line-height: 24rpx;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-customers .desc .list .item text.data-v-f128f29a {
+  color: #FF9000;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-customers .title.data-v-f128f29a {
+  font-size: 28rpx;
+  font-weight: bold;
+  color: #033333;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-item.data-v-f128f29a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-item .userInfo.data-v-f128f29a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-item .userInfo .head.data-v-f128f29a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-item .userInfo .head text.data-v-f128f29a {
+  display: block;
+  margin-left: 16rpx;
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-item .userInfo .head text.data-v-f128f29a:last-child {
+  font-size: 24rpx;
+  font-weight: 500;
+  margin-top: 20rpx;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-item .userInfo image.data-v-f128f29a {
+  width: 70rpx;
+  height: 70rpx;
+  background-color: #fc68e9;
+  border-radius: 5rpx;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-item .userInfo .create-card.data-v-f128f29a {
+  height: 32rpx;
+  color: #FFFFFF;
+  padding: 10rpx 16rpx 4rpx 16rpx;
+  line-height: 1;
+  border-radius: 10rpx;
+  background: #ffbd55;
+}
+.t-hairdres-find-detail .repeat-customer .repeat-item view.data-v-f128f29a {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.t-hairdres-find-detail .loading-more.data-v-f128f29a {
+  display: block;
+  padding: 16rpx 0 8rpx 0;
+  text-align: center;
+  font-size: 28rpx;
+  color: #999999;
+}
+.t-hairdres-find-detail .loading-more .iconfont.data-v-f128f29a {
+  margin-left: 8rpx;
+}
+.t-hairdres-find-detail .honor .card-title.data-v-f128f29a {
+  background: #FFFFFF;
+  padding-left: 32rpx;
+  padding-right: 32rpx;
+  margin: 32rpx 32rpx -56rpx 32rpx;
+}
+.t-hairdres-find-detail .user-project .list-item.data-v-f128f29a {
+  padding: 32rpx 0;
+  border-bottom: solid 2rpx #eee;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-find-detail .user-project .list-item.data-v-f128f29a:last-child {
+  border: none;
+  padding-bottom: 0;
+}
+.t-hairdres-find-detail .user-project .list-item.data-v-f128f29a:nth-child(2) {
+  margin-top: -32rpx;
+}
+.t-hairdres-find-detail .user-project .list-item image.data-v-f128f29a {
+  display: block;
+  width: 200rpx;
+  height: 140rpx;
+  border-radius: 10rpx;
+  margin-right: 24rpx;
+}
+.t-hairdres-find-detail .user-project .list-item .desc.data-v-f128f29a {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  max-width: 420rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-find-detail .user-project .list-item .desc .button.data-v-f128f29a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 24rpx;
+  color: #FFFFFF;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-find-detail .user-project .list-item .desc .button text.data-v-f128f29a {
+  padding: 6rpx 8rpx;
+  line-height: 1;
+  background: #ffb400;
+  border-radius: 6rpx;
+}
+.t-hairdres-find-detail .user-project .list-item .desc .button .btn.data-v-f128f29a {
+  background: #fc6868;
+  padding: 12rpx 16rpx;
+}
+.t-hairdres-find-detail .user-project .list-item .desc .count.data-v-f128f29a {
+  font-size: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-find-detail .user-project .list-item .desc .count .price .color-theme.data-v-f128f29a {
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-find-detail .user-project .list-item .desc .count .price text.data-v-f128f29a:last-child {
+  color: #999999;
+  margin-left: 32rpx;
+  position: relative;
+}
+.t-hairdres-find-detail .user-project .list-item .desc .count .price text.data-v-f128f29a:last-child::after {
+  content: '';
+  width: 100%;
+  height: 2rpx;
+  background: #999999;
+  position: absolute;
+  top: 48%;
+  left: 0;
+}
+.t-hairdres-find-detail .user-project .list-item .desc .title.data-v-f128f29a {
+  width: 100%;
+  font-size: 28rpx;
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.t-hairdres-find-detail .shop-info.data-v-f128f29a {
+  background: #FFFFFF;
+  padding: 32rpx;
+}
+.t-hairdres-find-detail .shop-info .shop-headr.data-v-f128f29a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-find-detail .shop-info .shop-headr .desc.data-v-f128f29a {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-find-detail .shop-info .shop-headr .desc .title.data-v-f128f29a {
+  line-height: 1;
+  font-size: 28rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-weight: bold;
+}
+.t-hairdres-find-detail .shop-info .shop-headr .desc .title .icon text.data-v-f128f29a {
+  font-size: 30rpx;
+  margin-left: 32rpx;
+}
+.t-hairdres-find-detail .shop-info .shop-headr .desc .title .icon text.data-v-f128f29a:first-child {
+  font-size: 40rpx;
+}
+.t-hairdres-find-detail .shop-info .shop-headr .desc .bottom.data-v-f128f29a {
+  font-size: 24rpx;
+}
+.t-hairdres-find-detail .shop-info .shop-headr .desc .count.data-v-f128f29a {
+  font-size: 24rpx;
+  margin: 24rpx 0;
+}
+

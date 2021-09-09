@@ -1,0 +1,91 @@
+.t-hairdres-user-order.data-v-55f18432 {
+  font-size: 24rpx;
+}
+.t-hairdres-user-order .commodity.data-v-55f18432 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-user-order .commodity image.data-v-55f18432 {
+  width: 200rpx;
+  height: 140rpx;
+  border-radius: 10rpx;
+}
+.t-hairdres-user-order .commodity .info.data-v-55f18432 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin-left: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  color: #666666;
+}
+.t-hairdres-user-order .bottom.data-v-55f18432 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-top: 32rpx;
+  margin-bottom: -12rpx;
+  color: #666;
+}
+.t-hairdres-user-order .bottom .button.data-v-55f18432 {
+  padding: 16rpx 32rpx;
+  color: #fc6868;
+  border: solid 2rpx #fc6868;
+  line-height: 1;
+  display: block;
+  -webkit-transform: translateY(-20rpx);
+          transform: translateY(-20rpx);
+}
+.t-hairdres-user-order .shop-info.data-v-55f18432 {
+  padding-bottom: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-bottom: solid 2rpx #eee;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-user-order .shop-info image.data-v-55f18432 {
+  margin-right: 16rpx;
+  width: 50rpx;
+  height: 50rpx;
+  border-radius: 10rpx;
+}
+.t-hairdres-user-order .shop-info .color-theme.data-v-55f18432 {
+  margin-left: 16rpx;
+}
+.t-hairdres-user-order .shop-info .iconfont.data-v-55f18432 {
+  font-size: 32rpx;
+  -webkit-transform: translate(-8rpx, 3rpx);
+          transform: translate(-8rpx, 3rpx);
+}
+.t-hairdres-user-order .shop-info .name.data-v-55f18432 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 28rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+

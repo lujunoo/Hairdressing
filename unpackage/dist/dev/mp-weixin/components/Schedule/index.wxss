@@ -1,0 +1,61 @@
+.t-hairdres-schedule.data-v-ede13f16 {
+  font-size: 24rpx;
+  border-left: solid 2rpx #aaa;
+}
+.t-hairdres-schedule .table-heade.data-v-ede13f16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-bottom: solid 2rpx #aaa;
+}
+.t-hairdres-schedule .table-heade .heade-th.data-v-ede13f16 {
+  width: 80rpx;
+  height: 60rpx;
+  border-right: solid 2rpx #aaa;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.t-hairdres-schedule .table-heade .heade-th text.data-v-ede13f16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-schedule .table-body.data-v-ede13f16 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-schedule .table-body .body-tr.data-v-ede13f16 {
+  display: inherit;
+  border-bottom: 1rpx solid #aaa;
+}
+.t-hairdres-schedule .table-body .body-tr text.data-v-ede13f16 {
+  width: 80rpx;
+  display: block;
+  padding: 16rpx 0;
+  text-align: center;
+  border-right: 1rpx solid #aaa;
+}
+

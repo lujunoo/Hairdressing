@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "商家-作品详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "banner": "/components/Banner/index",
+    "card": "/components/Card/index",
+    "title": "/components/Title/index",
+    "pricelist": "/components/Pricelist/index",
+    "evaluation": "/components/Evaluation/index",
+    "problem": "/page-merchant/components/Problem/index",
+    "picture-collection": "/components/PictureCollection/index",
+    "honor": "/components/Honor/index",
+    "waterfalls-flow": "/components/WaterfallsFlow/index",
+    "shop-entrance": "/components/ShopEntrance/index"
+  }
+}

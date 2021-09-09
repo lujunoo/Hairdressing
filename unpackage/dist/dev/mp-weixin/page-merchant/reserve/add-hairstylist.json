@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "添加可预约发型师",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "fixed-footer": "/components/fixedFooter/index"
+  }
+}

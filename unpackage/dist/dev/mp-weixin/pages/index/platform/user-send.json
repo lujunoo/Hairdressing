@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "用户发帖",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index"
+  }
+}

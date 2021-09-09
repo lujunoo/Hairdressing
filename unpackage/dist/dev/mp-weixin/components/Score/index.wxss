@@ -1,0 +1,28 @@
+.flexScore.data-v-a668f2ec {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-score.data-v-a668f2ec {
+  line-height: 1;
+}
+.t-hairdres-score .number.data-v-a668f2ec {
+  line-height: 1;
+}
+.t-hairdres-score .iconfont.data-v-a668f2ec {
+  font-size: 24rpx;
+  color: #ea9518;
+}
+.t-hairdres-score .iconfont2.data-v-a668f2ec {
+  color: #ccc;
+}
+.t-hairdres-score .score.data-v-a668f2ec {
+  font-size: 24rpx;
+  color: #666666;
+  display: inline-block;
+  margin-left: 16rpx;
+}
+

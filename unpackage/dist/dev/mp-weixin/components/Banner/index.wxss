@@ -1,0 +1,16 @@
+.t-hairdres-banner.data-v-19a15b8a {
+  background: #f3f5f9;
+}
+.t-hairdres-banner .swiper.data-v-19a15b8a {
+  width: 100%;
+  height: 100%;
+}
+.t-hairdres-banner .swiper .swiper-item.data-v-19a15b8a {
+  width: 100%;
+  height: 100%;
+}
+.t-hairdres-banner .swiper .swiper-item .swiper-item-image.data-v-19a15b8a {
+  width: 100%;
+  height: 100%;
+}
+

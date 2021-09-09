@@ -1,0 +1,154 @@
+.t-hairdres-appointment .title.data-v-ead531b8 {
+  text-align: center;
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-appointment .block1.data-v-ead531b8,
+.t-hairdres-appointment .block2.data-v-ead531b8,
+.t-hairdres-appointment .block3.data-v-ead531b8,
+.t-hairdres-appointment .block4.data-v-ead531b8 {
+  display: inline-block;
+  background: #fc689a;
+  border: none;
+}
+.t-hairdres-appointment .block2.data-v-ead531b8 {
+  background: #ffb400;
+}
+.t-hairdres-appointment .block4.data-v-ead531b8 {
+  background: #efd1d1;
+}
+.t-hairdres-appointment .button.data-v-ead531b8 {
+  height: 80rpx;
+  line-height: 80rpx;
+  color: #FFFFFF;
+  font-size: 28rpx;
+  font-weight: bold;
+  text-align: center;
+  background-color: #fc689a;
+  border-radius: 20rpx;
+}
+.t-hairdres-appointment .desc.data-v-ead531b8 {
+  margin-bottom: 100rpx;
+  line-height: 1;
+}
+.t-hairdres-appointment .desc .block1.data-v-ead531b8,
+.t-hairdres-appointment .desc .block2.data-v-ead531b8,
+.t-hairdres-appointment .desc .block3.data-v-ead531b8,
+.t-hairdres-appointment .desc .block4.data-v-ead531b8 {
+  width: 50rpx;
+  height: 20rpx;
+  margin-right: 16rpx;
+}
+.t-hairdres-appointment .desc .block3.data-v-ead531b8 {
+  width: 46rpx;
+  height: 18rpx;
+  border: solid 2rpx #aaa;
+  background: #fff;
+}
+.t-hairdres-appointment .desc .desc-item.data-v-ead531b8 {
+  font-size: 24rpx;
+  display: block;
+  color: #888;
+  margin-bottom: 24rpx;
+  position: relative;
+}
+.t-hairdres-appointment .desc .subtitle.data-v-ead531b8 {
+  color: #333333;
+  padding-left: 0rpx;
+  padding-top: 32rpx;
+  margin-bottom: 32rpx;
+  display: block;
+  font-size: 28rpx;
+}
+.t-hairdres-appointment .table.data-v-ead531b8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-top: solid 2rpx #eee;
+  border-left: solid 2rpx #eee;
+}
+.t-hairdres-appointment .table .table-row.data-v-ead531b8 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  font-size: 24rpx;
+}
+.t-hairdres-appointment .table .table-row > text.data-v-ead531b8 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  border-bottom: solid 2rpx #eee;
+  border-right: solid 2rpx #eee;
+  text-align: center;
+  height: 40rpx;
+  display: block;
+}
+.t-hairdres-appointment .table .table-row .item-title.data-v-ead531b8 {
+  text-align: center;
+  line-height: 60rpx;
+  border-bottom: solid 2rpx #eee;
+  border-right: solid 2rpx #eee;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  height: 60rpx;
+}
+.t-hairdres-appointment .table .table-row .item-title text.data-v-ead531b8 {
+  display: block;
+  line-height: 0.9;
+}
+.t-hairdres-appointment .table .table-row .item-title text.data-v-ead531b8:last-child {
+  -webkit-transform: scale(0.8) rotateX(40deg);
+          transform: scale(0.8) rotateX(40deg);
+}
+.t-hairdres-appointment .title-date.data-v-ead531b8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin: 32rpx 0;
+}
+.t-hairdres-appointment .title-date .iconfont.data-v-ead531b8 {
+  width: 40rpx;
+  height: 40rpx;
+  background-color: #f7a0c7;
+  border-radius: 100rpx;
+  color: #FFFFFF;
+  text-align: center;
+  line-height: 40rpx;
+}
+.t-hairdres-appointment .title-date text.data-v-ead531b8:first-child {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.t-hairdres-appointment .title-date text.data-v-ead531b8:nth-child(2) {
+  line-height: 1;
+  padding: 18rpx 42rpx;
+  font-size: 28rpx;
+  color: #FFFFFF;
+  background-color: #f7a0c7;
+  border-radius: 20rpx;
+}
+

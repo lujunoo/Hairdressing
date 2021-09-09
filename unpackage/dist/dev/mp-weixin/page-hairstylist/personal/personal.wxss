@@ -1,0 +1,122 @@
+.t-hairdres-hairstylist-personal.data-v-3ecfdce4 {
+  padding-bottom: 100rpx;
+  font-size: 24rpx;
+}
+.t-hairdres-hairstylist-personal .t-hairdres-button.data-v-3ecfdce4 {
+  width: 480rpx;
+}
+.t-hairdres-hairstylist-personal .honor-list.data-v-3ecfdce4 {
+  margin-bottom: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-hairstylist-personal .honor-list.data-v-3ecfdce4:last-child {
+  margin-bottom: 0;
+}
+.t-hairdres-hairstylist-personal .honor-list image.data-v-3ecfdce4 {
+  width: 190rpx;
+  height: 134rpx;
+  border-radius: 10rpx;
+}
+.t-hairdres-hairstylist-personal .honor-list .string.data-v-3ecfdce4 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 134rpx;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-left: 24rpx;
+}
+.t-hairdres-hairstylist-personal .honor-list .string text.data-v-3ecfdce4 {
+  color: #666;
+  text-overflow: -o-ellipsis-lastline;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.t-hairdres-hairstylist-personal .honor-list .string text.data-v-3ecfdce4:first-child {
+  font-size: 28rpx;
+  color: #000;
+}
+.t-hairdres-hairstylist-personal .title.data-v-3ecfdce4 {
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-bottom: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-hairstylist-personal .title .more.data-v-3ecfdce4 {
+  font-weight: 500;
+  font-size: 24rpx;
+  color: #fc689a;
+}
+.t-hairdres-hairstylist-personal .list-item.data-v-3ecfdce4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-hairstylist-personal .list-item.data-v-3ecfdce4:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border: none;
+}
+.t-hairdres-hairstylist-personal .list-item textarea.data-v-3ecfdce4 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  width: calc(100% - 32rpx);
+  height: 200rpx;
+  background-color: #fff3e2;
+  border-radius: 10rpx;
+  font-size: 24rpx;
+  padding: 16rpx;
+}
+.t-hairdres-hairstylist-personal .list-item .label.data-v-3ecfdce4 {
+  width: 140rpx;
+}
+.t-hairdres-hairstylist-personal .list-item .info.data-v-3ecfdce4 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-hairstylist-personal .list-item .info input.data-v-3ecfdce4 {
+  font-size: 24rpx;
+}
+

@@ -1,0 +1,59 @@
+.t-hairdres-merchant-register.data-v-558bddfc {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.t-hairdres-merchant-register .t-hairdres-button.data-v-558bddfc {
+  width: 500rpx;
+}
+.t-hairdres-merchant-register .content.data-v-558bddfc {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.t-hairdres-merchant-register .content .name.data-v-558bddfc {
+  color: #f95ac0;
+  font-size: 28rpx;
+  font-weight: bold;
+  display: block;
+  line-height: 1;
+  margin-top: 32rpx;
+}
+.t-hairdres-merchant-register .content .form-input.data-v-558bddfc {
+  padding: 80rpx 0;
+}
+.t-hairdres-merchant-register .content .form-input input.data-v-558bddfc {
+  width: 500rpx;
+  padding: 40rpx 0 24rpx 0;
+  border-bottom: solid 2rpx #eee;
+  color: #eee;
+  font-size: 24rpx;
+}
+.t-hairdres-merchant-register .content image.data-v-558bddfc {
+  width: 200rpx;
+  height: 200rpx;
+}
+.t-hairdres-merchant-register .bg.data-v-558bddfc {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+

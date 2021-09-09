@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "发型师排行榜",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "search-box": "/components/Search/index",
+    "tab-filter": "/components/Filter/index",
+    "hairstylist": "/components/Hairstylist/index",
+    "pull-down-refresh": "/components/PullDownRefresh/index"
+  }
+}

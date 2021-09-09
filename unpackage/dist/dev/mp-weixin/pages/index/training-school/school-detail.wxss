@@ -1,0 +1,201 @@
+.t-hairdres-school-detail .card-title.data-v-0c29f6c8 {
+  margin-bottom: -24rpx;
+}
+.t-hairdres-school-detail .header.data-v-0c29f6c8 {
+  padding: 24rpx 32rpx 0 32rpx;
+  background: #FFFFFF;
+}
+.t-hairdres-school-detail .courses.data-v-0c29f6c8 {
+  margin: 32rpx;
+  padding-top: 0;
+}
+.t-hairdres-school-detail .courses .title.data-v-0c29f6c8 {
+  margin-bottom: -24rpx;
+}
+.t-hairdres-school-detail .courses .list.data-v-0c29f6c8 {
+  padding-top: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.t-hairdres-school-detail .courses .list .list-item.data-v-0c29f6c8 {
+  width: calc(50% - 20rpx);
+  height: 420rpx;
+  overflow: hidden;
+  border-radius: 10rpx;
+  border: solid 3rpx #fc699a;
+  margin-bottom: 32rpx;
+  position: relative;
+}
+.t-hairdres-school-detail .courses .list .list-item.data-v-0c29f6c8:nth-child(2n) {
+  margin-left: 16rpx;
+}
+.t-hairdres-school-detail .courses .list .list-item.data-v-0c29f6c8:nth-child(2n+1) {
+  margin-right: 16rpx;
+}
+.t-hairdres-school-detail .courses .list .list-item .info.data-v-0c29f6c8 {
+  width: calc(100% - 30rpx);
+  padding: 24rpx 16rpx;
+  background: #FFFFFF;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-school-detail .courses .list .list-item .info text.data-v-0c29f6c8 {
+  font-size: 24rpx;
+  line-height: 24rpx;
+}
+.t-hairdres-school-detail .courses .list .list-item .info text.data-v-0c29f6c8:last-child {
+  font-weight: bold;
+  color: #ff0000;
+  margin-top: 24rpx;
+}
+.t-hairdres-school-detail .courses .list .list-item .info text:last-child text.data-v-0c29f6c8 {
+  font-weight: 500;
+  color: #666666;
+  margin-left: 32rpx;
+  position: relative;
+}
+.t-hairdres-school-detail .courses .list .list-item .info text:last-child text.data-v-0c29f6c8::after {
+  content: "";
+  width: 100%;
+  height: 2rpx;
+  background: #666;
+  position: absolute;
+  top: 50%;
+  left: 0;
+}
+.t-hairdres-school-detail .courses .list .list-item .cover.data-v-0c29f6c8 {
+  width: 100%;
+  height: 300rpx;
+  overflow: hidden;
+}
+.t-hairdres-school-detail .courses .list .list-item .cover image.data-v-0c29f6c8 {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.t-hairdres-school-detail .trainer.data-v-0c29f6c8 {
+  margin: 32rpx;
+  padding-top: 0;
+}
+.t-hairdres-school-detail .trainer .item.data-v-0c29f6c8 {
+  padding: 24rpx 0;
+  border-bottom: solid 2rpx #e5e5e5;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-school-detail .trainer .item.data-v-0c29f6c8:last-child {
+  border: none;
+  padding-bottom: 0;
+}
+.t-hairdres-school-detail .trainer .item .info.data-v-0c29f6c8 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-school-detail .trainer .item .info text.data-v-0c29f6c8 {
+  font-size: 24rpx;
+}
+.t-hairdres-school-detail .trainer .item .info text.data-v-0c29f6c8:first-child {
+  line-height: 28rpx;
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-school-detail .trainer .item .cover.data-v-0c29f6c8 {
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 10rpx;
+  overflow: hidden;
+  margin-right: 32rpx;
+}
+.t-hairdres-school-detail .trainer .item .cover image.data-v-0c29f6c8 {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.t-hairdres-school-detail .environment.data-v-0c29f6c8 {
+  margin: 32rpx;
+  padding-top: 0;
+}
+.t-hairdres-school-detail .environment .card-title.data-v-0c29f6c8 {
+  margin-bottom: 0rpx;
+}
+.t-hairdres-school-detail .address.data-v-0c29f6c8 {
+  padding: 32rpx 0;
+  border-top: solid 1px #e5e5e5;
+  margin-top: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-school-detail .address .iconfont.data-v-0c29f6c8 {
+  font-family: icon-hairdressing;
+  color: #fc689a;
+  display: block;
+  margin: 4rpx 12rpx 0 0;
+}
+.t-hairdres-school-detail .address .distance.data-v-0c29f6c8 {
+  font-size: 28rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-school-detail .address .distance text.data-v-0c29f6c8:last-child {
+  margin-top: 16rpx;
+  font-size: 24rpx;
+  color: #666666;
+}
+.t-hairdres-school-detail .banner.data-v-0c29f6c8 {
+  border-radius: 24rpx;
+  overflow: hidden;
+}
+.t-hairdres-school-detail .title.data-v-0c29f6c8 {
+  padding: 32rpx 0;
+  font-size: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-school-detail .title text.data-v-0c29f6c8 {
+  display: block;
+  position: relative;
+}
+.t-hairdres-school-detail .title text.data-v-0c29f6c8::after {
+  content: "";
+  width: 10rpx;
+  height: 15rpx;
+  background-color: #fc689a;
+  border-radius: 3rpx;
+  position: absolute;
+  bottom: 8rpx;
+  right: -20rpx;
+}
+.t-hairdres-school-detail .desc.data-v-0c29f6c8 {
+  display: block;
+  font-size: 24rpx;
+  margin-top: 16rpx;
+}
+

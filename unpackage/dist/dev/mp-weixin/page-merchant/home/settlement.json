@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "券详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index"
+  }
+}

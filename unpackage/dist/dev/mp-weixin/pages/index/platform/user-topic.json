@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "用户话题动态",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index"
+  }
+}

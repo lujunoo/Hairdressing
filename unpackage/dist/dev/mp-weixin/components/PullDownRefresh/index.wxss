@@ -1,0 +1,9 @@
+.t-hairdres-pulldownrefresh.data-v-d59b34e8 {
+  padding: 32rpx 0;
+  text-align: center;
+}
+.t-hairdres-pulldownrefresh text.data-v-d59b34e8 {
+  font-size: 24rpx;
+  color: #666666;
+}
+

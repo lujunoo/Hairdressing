@@ -1,0 +1,165 @@
+
+page {
+	background: #ffcee4;
+}
+
+.t-hairdres-competition .form-data.data-v-15ca19b0 {
+  margin: 32rpx;
+  padding: 32rpx;
+  background: #FFFFFF;
+  border-radius: 8rpx;
+}
+.t-hairdres-competition .form-data .upload.data-v-15ca19b0 {
+  margin: 32rpx 0 24rpx 0;
+}
+.t-hairdres-competition .form-data .manual.data-v-15ca19b0 {
+  text-align: center;
+  font-size: 24rpx;
+  padding: 16rpx 0;
+}
+.t-hairdres-competition .form-data .manual .iconfont.data-v-15ca19b0 {
+  font-family: icon-hairdressing;
+  margin-right: -12rpx;
+  color: #FC689A;
+  padding: 20rpx;
+}
+.t-hairdres-competition .form-data .manual text.data-v-15ca19b0:last-child {
+  color: #FC689A;
+}
+.t-hairdres-competition .form-data .button.data-v-15ca19b0 {
+  height: 80rpx;
+  background: #FC689A;
+  color: #FFFFFF;
+  font-size: 28rpx;
+  font-weight: bold;
+  text-align: center;
+  line-height: 80rpx;
+  border-radius: 100rpx;
+  margin: 32rpx 70rpx;
+}
+.t-hairdres-competition .form-data .textarea.data-v-15ca19b0,
+.t-hairdres-competition .form-data .input.data-v-15ca19b0 {
+  height: 60rpx;
+  background: #fff3e2;
+  border: dashed 2rpx #f95abf;
+  font-size: 28rpx;
+  padding: 0 16rpx;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-competition .form-data .textarea.data-v-15ca19b0 {
+  width: 94.5%;
+  height: auto;
+  padding: 16rpx;
+  min-height: 200rpx;
+}
+.t-hairdres-competition .form-data .title2.data-v-15ca19b0 {
+  font-size: 24rpx;
+  margin-top: -16rpx;
+}
+.t-hairdres-competition .form-data .title.data-v-15ca19b0 {
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-competition .tabBar.data-v-15ca19b0 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 100rpx;
+  width: 100%;
+  background: #FDB685;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-competition .tabBar text.data-v-15ca19b0 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+  line-height: 100rpx;
+  color: #FFFFFF;
+  font-size: 28rpx;
+}
+.t-hairdres-competition .tabBar text.data-v-15ca19b0:nth-child(4) {
+  background: #F95ABF;
+}
+.t-hairdres-competition .countdown.data-v-15ca19b0 {
+  margin: 32rpx 75rpx;
+}
+.t-hairdres-competition .countdown .title.data-v-15ca19b0 {
+  background: #FF0000;
+  height: 60rpx;
+  border-radius: 100rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  color: #FFFFFF;
+  font-size: 24rpx;
+}
+.t-hairdres-competition .countdown .title image.data-v-15ca19b0 {
+  width: 28rpx;
+  height: 28rpx;
+  margin-right: 16rpx;
+}
+.t-hairdres-competition .datacount.data-v-15ca19b0 {
+  height: 150rpx;
+  background: #FFB95C;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-competition .datacount .datacount-item.data-v-15ca19b0 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 24rpx;
+  color: #FFFFFF;
+  padding-top: 8rpx;
+}
+.t-hairdres-competition .datacount .datacount-item text.data-v-15ca19b0 {
+  display: block;
+  font-size: 32rpx;
+  font-weight: bold;
+  line-height: 32rpx;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-competition .datacount .datacount-item text.data-v-15ca19b0:last-child {
+  font-size: 28rpx;
+  line-height: 28rpx;
+  font-weight: 500;
+}
+.t-hairdres-competition .datacount .datacount-item.data-v-15ca19b0:nth-child(2) {
+  border-left: solid 1px #FFFFFF;
+  border-right: solid 1px #FFFFFF;
+}
+

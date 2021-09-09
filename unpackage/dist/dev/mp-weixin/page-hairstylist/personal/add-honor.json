@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "荣誉墙",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "upload": "/components/Upload/index"
+  }
+}

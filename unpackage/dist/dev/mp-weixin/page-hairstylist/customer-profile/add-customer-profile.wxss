@@ -1,0 +1,152 @@
+.t-hairdres-user-add-customer-profile.data-v-65969bd0 {
+  padding-bottom: 100rpx;
+}
+.t-hairdres-user-add-customer-profile .record-list.data-v-65969bd0 {
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+  font-size: 24rpx;
+}
+.t-hairdres-user-add-customer-profile .record-list.data-v-65969bd0:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border: none;
+}
+.t-hairdres-user-add-customer-profile .record-list .button.data-v-65969bd0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+          justify-content: flex-end;
+}
+.t-hairdres-user-add-customer-profile .record-list .button text.data-v-65969bd0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border: solid 2rpx #ffa8a8;
+  line-height: 1;
+  color: #ffa8a8;
+  padding: 16rpx 40rpx;
+  margin-left: 50rpx;
+  border-radius: 100rpx;
+}
+.t-hairdres-user-add-customer-profile .record-list .button text.data-v-65969bd0:last-child {
+  border: solid 2rpx #db6bff;
+  color: #db6bff;
+}
+.t-hairdres-user-add-customer-profile .record-list .image.data-v-65969bd0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin: 0 -10rpx 32rpx -10rpx;
+}
+.t-hairdres-user-add-customer-profile .record-list .image image.data-v-65969bd0 {
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 10rpx;
+  margin: 0 8rpx;
+}
+.t-hairdres-user-add-customer-profile .record-list .time.data-v-65969bd0 {
+  margin-bottom: 24rpx;
+  display: block;
+  text-align: right;
+}
+.t-hairdres-user-add-customer-profile .record-list .desc.data-v-65969bd0 {
+  display: block;
+  line-height: 1.8;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-user-add-customer-profile .t-hairdres-button.data-v-65969bd0 {
+  width: 480rpx;
+}
+.t-hairdres-user-add-customer-profile textarea.data-v-65969bd0 {
+  width: calc(100% - 48rpx);
+  font-size: 28rpx;
+  height: 200rpx;
+  padding: 24rpx;
+  background-color: #eeeeee;
+  border-radius: 10rpx;
+}
+.t-hairdres-user-add-customer-profile .rule.data-v-65969bd0 {
+  text-align: center;
+  font-size: 24rpx;
+}
+.t-hairdres-user-add-customer-profile .rule .t-hairdres-button.data-v-65969bd0 {
+  margin: 50rpx 125rpx;
+}
+.t-hairdres-user-add-customer-profile .rule .iconfont2.data-v-65969bd0 {
+  color: #fc689a;
+}
+.t-hairdres-user-add-customer-profile .title.data-v-65969bd0 {
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-user-add-customer-profile .title2.data-v-65969bd0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-user-add-customer-profile .title2 text.data-v-65969bd0:last-child {
+  font-weight: 500;
+  color: #db6bff;
+}
+.t-hairdres-user-add-customer-profile .form--item.data-v-65969bd0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 32rpx;
+  font-size: 24rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-user-add-customer-profile .form--item.data-v-65969bd0:last-child {
+  margin-bottom: 0;
+  padding-bottom: 16rpx;
+  border: none;
+}
+.t-hairdres-user-add-customer-profile .form--item .label.data-v-65969bd0 {
+  width: 140rpx;
+}
+.t-hairdres-user-add-customer-profile .form--item .right.data-v-65969bd0 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-add-customer-profile .form--item .right .grap.data-v-65969bd0 {
+  color: #aaa;
+}
+.t-hairdres-user-add-customer-profile .form--item .right input.data-v-65969bd0 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 24rpx;
+}
+.t-hairdres-user-add-customer-profile .form--item .right image.data-v-65969bd0 {
+  display: block;
+  width: 60rpx;
+  height: 60rpx;
+  border-radius: 100rpx;
+}
+

@@ -3,12 +3,12 @@
 	<view class="t-hairdres-index-home">
 		<!-- 搜索组件 -->
 		<view class="t-home-search">
-			<searchBox color="#ffd9e6">
-				<view @click="getLocation" class="address">重庆&nbsp;江北<text class="drupdown">&#xe731;</text></view>
+			<searchBox @onConfirm="onConfirm" color="#ffd9e6">
+				<view class="address">{{getLocation.district || '定位中...'}}<text class="drupdown">&#xe731;</text></view>
 			</searchBox>
 		</view>
 		<!-- banner -->
-		<banner :images="bannerList"/>
+		<banner :list="bannerList"/>
 		<!-- 菜单 -->
 		<view class="t-home-menu">
 			<view class="leaderboard">
@@ -33,18 +33,23 @@
 		<!-- tabBar -->
 		<tabBar :tabList="tabList"/>
 		<!-- 套餐列表 -->
-		<setmeal @onClick="toDetail(item)" v-for="(item, index) in 10" :key="index"/>
+		<setmeal @onClick="toDetail(item)" :data="item" v-for="(item, index) in shopList" :key="index"/>
 		<!-- 加载状态 -->
 		<pull-down-refresh :status="loading"/>
 	</view>
 </template>
 
 <script>
+	import moment from 'moment'
+	import { mapGetters } from 'vuex'
 	import searchBox from '@/components/Search'
 	import Banner from '@/components/Banner'
 	import TabBar from '@/components/TabBar'
 	import Setmeal from '@/components/Setmeal'
 	import PullDownRefresh from '@/components/PullDownRefresh'
+	import { authorize } from '@/api/users'
+	import { banners } from '@/api/global'
+	import { shopList } from '@/api/merchant'
 	export default {
 		components: {
 			searchBox,
@@ -56,17 +61,48 @@
 		data() {
 			return {
 				loading: 0,
-				bannerList: [
-					'https://cdn.pixabay.com/photo/2021/07/07/22/29/badlands-national-park-6395444_960_720.jpg',
-					'https://cdn.pixabay.com/photo/2020/05/30/07/15/mountains-5237939_960_720.jpg'
-				],
-				tabList: ['推荐', '洗吹', '烫发', '染发', '剪发', '护理', '染发', '剪发', '护理']
+				bannerList: [],
+				tabList: ['推荐', '洗吹', '烫发', '染发', '剪发', '护理', '染发', '剪发', '护理'],
+				parameter: {
+					page: 1,
+					shop_name: '',
+					state: 0,
+				},
+				shopList: []
 			};
+		},
+		computed: {
+			...mapGetters(['tokenExpire', 'getLocation'])
 		},
 		onReachBottom () {
 			this.loadingData()
 		},
+		created () {
+			if (this.tokenExpire < moment().valueOf()) {
+				authorize().then(res => {
+					this.getBanners()
+					this.getShopList()
+				})
+			} else {
+				this.getBanners()
+				this.getShopList()
+			}
+		},
 		methods: {
+			getShopList () {
+				shopList(this.parameter).then(result => {
+					this.shopList.push(...result)
+				})
+			},
+			getBanners () {
+				banners({ type: 1 }).then(({ data }) => {
+					this.bannerList = data
+				})
+			},
+			onConfirm (content) {
+				this.parameter.shop_name = content
+				this.getShopList()
+			},
 			toDetail() {
 				uni.navigateTo({
 					url:'../../../page-merchant/leaderboard/leaderboard-detail'
@@ -80,14 +116,6 @@
 				setTimeout(() => {
 					this.loading = 0
 				}, 1000)
-			},
-			getLocation () {
-				uni.getLocation({
-					geocode: true,
-					success(data) {
-						console.log(data)
-					}
-				})
 			},
 			toRouter (name) {
 				if (name === 1) {

@@ -1,0 +1,71 @@
+.t-hairdres-merchant-reserve-hairstylist.data-v-42c613fa {
+  padding-bottom: 100rpx;
+}
+.t-hairdres-merchant-reserve-hairstylist .t-hairdres-button.data-v-42c613fa {
+  width: 580rpx;
+}
+.t-hairdres-merchant-reserve-hairstylist .select-user-item.data-v-42c613fa {
+  margin: 24rpx 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  position: relative;
+}
+.t-hairdres-merchant-reserve-hairstylist .select-user-item .button.data-v-42c613fa {
+  position: absolute;
+  bottom: 32rpx;
+  right: 32rpx;
+  width: 122rpx;
+  height: 50rpx;
+  background-image: -webkit-linear-gradient(left, #fc689a 0%, #ff9bfe 100%);
+  background-image: linear-gradient(90deg, #fc689a 0%, #ff9bfe 100%);
+  border-radius: 20rpx;
+  color: #FFFFFF;
+  font-size: 24rpx;
+  text-align: center;
+  line-height: 50rpx;
+}
+.t-hairdres-merchant-reserve-hairstylist .select-user-item image.data-v-42c613fa {
+  width: 150rpx;
+  height: 150rpx;
+  background-color: #f00055;
+  border-radius: 10rpx;
+  margin-right: 32rpx;
+}
+.t-hairdres-merchant-reserve-hairstylist .select-user-item .content.data-v-42c613fa {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  font-size: 24rpx;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-merchant-reserve-hairstylist .select-user-item .content .info.data-v-42c613fa {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-merchant-reserve-hairstylist .select-user-item .content .info .iconfont.data-v-42c613fa {
+  font-size: 32rpx;
+  color: #fc689a;
+}
+.t-hairdres-merchant-reserve-hairstylist .select-user-item .content .info .name.data-v-42c613fa {
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-right: 16rpx;
+}
+

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "查看券码",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "title": "/components/Title/index",
+    "fixed-footer": "/components/fixedFooter/index"
+  }
+}

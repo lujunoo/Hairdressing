@@ -1,0 +1,14 @@
+.t-hairdres-user-hairstyle-creatdate.data-v-87cb5a5a {
+  font-size: 24rpx;
+}
+.t-hairdres-user-hairstyle-creatdate textarea.data-v-87cb5a5a {
+  width: calc(100% - 32rpx);
+  display: block;
+  height: 200rpx;
+  background-color: #fff3e2;
+  border-radius: 10rpx;
+  border: dashed 4rpx #f95abf;
+  font-size: 24rpx;
+  padding: 16rpx;
+}
+

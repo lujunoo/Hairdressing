@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "比赛规则",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "banner": "/components/Banner/index"
+  }
+}

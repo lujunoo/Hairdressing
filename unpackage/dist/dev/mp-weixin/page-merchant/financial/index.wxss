@@ -1,0 +1,107 @@
+.t-hairdres-merchant-financial.data-v-3663e236 {
+  font-size: 24rpx;
+  color: #666666;
+  padding-bottom: 32rpx;
+}
+.t-hairdres-merchant-financial .list-item.data-v-3663e236 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  border-bottom: solid 2rpx #eee;
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  color: #000;
+}
+.t-hairdres-merchant-financial .list-item .iconfont.data-v-3663e236 {
+  display: inline-block;
+  margin-left: 16rpx;
+  -webkit-transform: scale(1.4);
+          transform: scale(1.4);
+}
+.t-hairdres-merchant-financial .list-item.data-v-3663e236:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border: none;
+}
+.t-hairdres-merchant-financial .count.data-v-3663e236 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-merchant-financial .count .item.data-v-3663e236 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-merchant-financial .count .item text.data-v-3663e236:first-child {
+  font-weight: bold;
+  font-size: 36rpx;
+}
+.t-hairdres-merchant-financial .border.data-v-3663e236 {
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-merchant-financial .card.data-v-3663e236 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-merchant-financial .card .bind.data-v-3663e236 {
+  margin-bottom: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-merchant-financial .title.data-v-3663e236 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-merchant-financial .title.data-v-3663e236:last-child {
+  margin-bottom: 0;
+}
+.t-hairdres-merchant-financial .title > text.data-v-3663e236 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.t-hairdres-merchant-financial .title > text.data-v-3663e236:first-child {
+  color: #000;
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-merchant-financial .title > text.data-v-3663e236:last-child {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+.t-hairdres-merchant-financial .title .card.data-v-3663e236 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+}
+

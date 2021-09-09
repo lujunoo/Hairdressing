@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "设置休息日期",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "uni-calendar": "/components/uni-calendar/uni-calendar"
+  }
+}

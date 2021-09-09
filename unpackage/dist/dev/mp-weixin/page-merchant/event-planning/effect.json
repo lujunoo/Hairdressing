@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "立减效果",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "uni-ec-canvas": "/page-merchant/components/uni-ec-canvas/uni-ec-canvas"
+  }
+}

@@ -1,0 +1,32 @@
+.t-hairdres-creat-article.data-v-139c5e6c {
+  margin: 32rpx;
+  padding: 32rpx;
+  border-radius: 10rpx;
+  background: #FFFFFF;
+}
+.t-hairdres-creat-article .form-data .form-item .iconfont.data-v-139c5e6c {
+  font-size: 40rpx;
+}
+.t-hairdres-creat-article .form-data .form-item .label-list text.data-v-139c5e6c {
+  margin: 0 16rpx 16px 0;
+  display: inline-block;
+  border-radius: 8rpx;
+  padding: 8rpx 16rpx;
+  background: #e5e5e5;
+  color: #FFFFFF;
+  font-size: 24rpx;
+}
+.t-hairdres-creat-article .form-data .form-item .label-list .active.data-v-139c5e6c {
+  background: #fc689a;
+}
+.t-hairdres-creat-article .form-data .form-item button.data-v-139c5e6c {
+  width: 500rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  color: #FFFFFF;
+  background-color: #fc689a;
+  border-radius: 40rpx;
+  font-size: 24rpx;
+  font-weight: bold;
+}
+

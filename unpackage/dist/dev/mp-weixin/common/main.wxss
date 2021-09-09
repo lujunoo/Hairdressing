@@ -1,0 +1,115 @@
+
+page {
+	background-color: #f3f5f7;
+}
+
+@font-face {
+  font-family: 'icon-hairdressing';  /* Project id 2656256 */
+  src: url('//at.alicdn.com/t/font_2656256_vtfy9rb4ug9.woff2?t=1629125273200') format('woff2'),
+       url('//at.alicdn.com/t/font_2656256_vtfy9rb4ug9.woff?t=1629125273200') format('woff'),
+       url('//at.alicdn.com/t/font_2656256_vtfy9rb4ug9.ttf?t=1629125273200') format('truetype');
+}
+.iconfont {
+  font-family: 'icon-hairdressing';
+}
+.color-theme {
+  color: #fc689a;
+}
+.color-red {
+  color: #ff4e4e;
+}
+.color-yellow {
+  color: #ffb400;
+}
+.color-purple {
+  color: #d964ff;
+}
+.oldprice {
+  color: #999999;
+  position: relative;
+}
+.oldprice::after {
+  content: '';
+  width: 100%;
+  height: 2rpx;
+  background: #999999;
+  top: 50%;
+  left: 0;
+  position: absolute;
+}
+.t-hairdres-button {
+  height: 80rpx;
+  line-height: 80rpx;
+  font-size: 28rpx;
+  color: #FFFFFF;
+  text-align: center;
+  display: block;
+  background: #fc689a;
+  margin: 32rpx;
+  border-radius: 100rpx;
+}
+.form-data .form-item {
+  margin-bottom: 32rpx;
+}
+.form-data .form-item .label {
+  font-weight: bold;
+  font-size: 28rpx;
+  margin-bottom: 24rpx;
+}
+.form-data .form-item .form-input {
+  background-color: #fff3e2;
+  font-size: 24rpx;
+  border-radius: 10rpx;
+  min-height: 70rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 0 24rpx;
+  margin-top: 24rpx;
+}
+.form-data .form-item .form-input .placeholder {
+  color: #999999;
+}
+.form-data .form-item .form-input .select .iconfont {
+  display: inline-block;
+  font-size: 32rpx;
+  -webkit-transform: translateY(5rpx);
+          transform: translateY(5rpx);
+}
+.form-data .form-item .input {
+  min-height: 30rpx;
+  line-height: 30rpx;
+  padding: 16rpx;
+  background-color: #fff3e2;
+  border-radius: 10rpx;
+  border: dotted 4rpx #f95abf;
+  font-size: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-top: 24rpx;
+}
+.form-data .form-item .input textarea {
+  width: 100%;
+  font-size: 24rpx;
+}
+.form-data .form-item button {
+  height: 80rpx;
+  font-size: 28rpx;
+  background: #fc689a;
+  color: #FFFFFF;
+  line-height: 80rpx;
+}
+.form-data .form-item:last-child {
+  margin-bottom: 0;
+}
+

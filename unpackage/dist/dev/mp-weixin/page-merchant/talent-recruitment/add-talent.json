@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "发布招聘",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index"
+  }
+}

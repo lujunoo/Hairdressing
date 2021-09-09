@@ -1,0 +1,98 @@
+.t-hairdres-merchant-activity-detail.data-v-32d417e7 {
+  padding-bottom: 100rpx;
+  font-size: 24rpx;
+  line-height: 1;
+}
+.t-hairdres-merchant-activity-detail .t-hairdres-button.data-v-32d417e7 {
+  width: 580rpx;
+}
+.t-hairdres-merchant-activity-detail .list-item .button-group.data-v-32d417e7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-merchant-activity-detail .list-item .button-group .left.data-v-32d417e7 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+          justify-content: flex-end;
+}
+.t-hairdres-merchant-activity-detail .list-item .button-group .button.data-v-32d417e7 {
+  border-radius: 22rpx;
+  padding: 12rpx 16rpx;
+  color: #ffaaaa;
+  border: solid 2rpx #ffaaaa;
+  margin-left: 24rpx;
+}
+.t-hairdres-merchant-activity-detail .list-item .button-group .button.data-v-32d417e7:last-child {
+  color: #fc6968;
+  border-color: #fc6968;
+}
+.t-hairdres-merchant-activity-detail .list-item .info.data-v-32d417e7 {
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-merchant-activity-detail .list-item .info image.data-v-32d417e7 {
+  width: 170rpx;
+  height: 120rpx;
+  border-radius: 10rpx;
+  margin-right: 32rpx;
+}
+.t-hairdres-merchant-activity-detail .list-item .info .left.data-v-32d417e7 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  min-height: 120rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  color: #666;
+}
+.t-hairdres-merchant-activity-detail .list-item .info .left .title.data-v-32d417e7 {
+  font-weight: bold;
+  color: #000;
+}
+.t-hairdres-merchant-activity-detail .list-item .info .left .price.data-v-32d417e7 {
+  color: #fc6968;
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-merchant-activity-detail .list-item .info .left .price .oldprice.data-v-32d417e7 {
+  font-weight: 500;
+  font-size: 24rpx;
+  margin-left: 24rpx;
+}
+.t-hairdres-merchant-activity-detail .list-item .info .left .column.data-v-32d417e7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+

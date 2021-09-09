@@ -1,0 +1,26 @@
+.t-hairdres-merchant-combo-detail.data-v-8dd499a6 {
+  font-size: 24rpx;
+  padding-bottom: 32rpx;
+}
+.t-hairdres-merchant-combo-detail .list-item.data-v-8dd499a6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-merchant-combo-detail .list-item.data-v-8dd499a6:last-child {
+  margin-bottom: 0;
+  border: none;
+}
+.t-hairdres-merchant-combo-detail .list-item text.data-v-8dd499a6 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.t-hairdres-merchant-combo-detail .list-item text.data-v-8dd499a6:last-child {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+  color: #888;
+}
+

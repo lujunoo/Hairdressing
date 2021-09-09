@@ -1,0 +1,27 @@
+.t-hairdres-user-selecte-label .add.data-v-5f65e0f6 {
+  font-size: 24rpx;
+  color: #fc689a;
+  line-height: 50rpx;
+  display: block;
+  width: 98rpx;
+  height: 50rpx;
+  border-radius: 10rpx;
+  text-align: center;
+  border: solid 1px #fc689a;
+}
+.t-hairdres-user-selecte-label .label.data-v-5f65e0f6 {
+  padding: 16rpx 24rpx;
+  display: inline-block;
+  border-radius: 10rpx;
+  font-size: 24rpx;
+  line-height: 1;
+  color: #555;
+  background: #e5e5e5;
+  margin-right: 16rpx;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-user-selecte-label .active.data-v-5f65e0f6 {
+  background: #fc689a;
+  color: #FFFFFF;
+}
+

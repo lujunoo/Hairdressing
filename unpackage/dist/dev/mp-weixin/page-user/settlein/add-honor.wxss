@@ -1,0 +1,24 @@
+.t-hairdres-user-creat-honor.data-v-48635033 {
+  font-size: 24rpx;
+}
+.t-hairdres-user-creat-honor .title.data-v-48635033 {
+  font-weight: bold;
+  font-size: 28rpx;
+}
+.t-hairdres-user-creat-honor .list-item-upload.data-v-48635033 {
+  margin-top: 24rpx;
+}
+.t-hairdres-user-creat-honor input.data-v-48635033,
+.t-hairdres-user-creat-honor textarea.data-v-48635033 {
+  padding: 16rpx;
+  font-size: 24rpx;
+  background-color: #fff3e2;
+  border-radius: 10rpx;
+  border: dashed 4rpx #f95abf;
+  margin: 24rpx 0;
+}
+.t-hairdres-user-creat-honor textarea.data-v-48635033 {
+  width: calc(100% - 32rpx);
+  min-height: 200rpx;
+}
+

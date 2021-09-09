@@ -1,0 +1,12 @@
+.t-hairdres-clause .desc.data-v-55d5285c {
+  font-size: 24rpx;
+  margin-top: 56rpx;
+  margin-bottom: 24rpx;
+  line-height: 2;
+}
+.t-hairdres-clause .title.data-v-55d5285c {
+  font-size: 32rpx;
+  font-weight: bold;
+  text-align: center;
+}
+

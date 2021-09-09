@@ -1,0 +1,14 @@
+.t-hairdres-find .find-filter.data-v-51c7ca10 {
+  padding: 32rpx 32rpx 16rpx 32rpx;
+}
+.t-hairdres-find .find-filter text.data-v-51c7ca10 {
+  font-size: 24rpx;
+  color: #ff8eb4;
+  border: solid 2rpx #ff8eb4;
+  border-radius: 10rpx;
+  line-height: 1;
+  display: inline-block;
+  padding: 16rpx 24rpx;
+  margin: 0 16rpx 16rpx 0;
+}
+

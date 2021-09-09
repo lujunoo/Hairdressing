@@ -1,0 +1,132 @@
+.t-hairdres-merchant-commodity.data-v-922766ee {
+  font-size: 24rpx;
+  line-height: 1;
+}
+.t-hairdres-merchant-commodity .history-body.data-v-922766ee {
+  padding: 32rpx;
+}
+.t-hairdres-merchant-commodity .history-body .dialog-item.data-v-922766ee {
+  color: #666;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-merchant-commodity .history-body .dialog-item text.data-v-922766ee {
+  display: block;
+  padding-left: 24rpx;
+}
+.t-hairdres-merchant-commodity .history-body .dialog-item text.data-v-922766ee:first-child {
+  margin-bottom: 16rpx;
+  position: relative;
+}
+.t-hairdres-merchant-commodity .history-body .dialog-item text.data-v-922766ee:first-child::after {
+  content: "";
+  width: 10rpx;
+  height: 10rpx;
+  border-radius: 10rpx;
+  background: #fc6968;
+  position: absolute;
+  top: 10rpx;
+  left: 0;
+}
+.t-hairdres-merchant-commodity .list-item .title.data-v-922766ee {
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-merchant-commodity .list-item .title text.data-v-922766ee {
+  font-size: 28rpx;
+  margin-right: 60rpx;
+}
+.t-hairdres-merchant-commodity .list-item .content.data-v-922766ee {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-merchant-commodity .list-item .content image.data-v-922766ee {
+  width: 200rpx;
+  height: 140rpx;
+  background-color: #a4224d;
+  border-radius: 10rpx;
+}
+.t-hairdres-merchant-commodity .list-item .content .right.data-v-922766ee {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin-left: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  color: #666666;
+}
+.t-hairdres-merchant-commodity .list-item .content .right > text.data-v-922766ee:first-child {
+  font-weight: bold;
+}
+.t-hairdres-merchant-commodity .list-item .content .right > text .price.data-v-922766ee {
+  margin-right: 32rpx;
+}
+.t-hairdres-merchant-commodity .list-item .button-group.data-v-922766ee {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-top: 32rpx;
+}
+.t-hairdres-merchant-commodity .list-item .button-group text.data-v-922766ee {
+  color: #fc6968;
+  border: solid 2rpx #fc6968;
+  border-radius: 20rpx;
+  padding: 12rpx 36rpx;
+  opacity: 0.6;
+}
+.t-hairdres-merchant-commodity .list-item .button-group text.data-v-922766ee:last-child {
+  opacity: 1;
+}
+.t-hairdres-merchant-commodity .commodity-header.data-v-922766ee {
+  background: #fff;
+  padding: 32rpx;
+}
+.t-hairdres-merchant-commodity .header-label.data-v-922766ee {
+  margin-top: 32rpx;
+}
+.t-hairdres-merchant-commodity .header-label text.data-v-922766ee {
+  display: inline-block;
+  color: #666666;
+  border: solid 2rpx #666666;
+  border-radius: 100rpx;
+  padding: 6rpx 16rpx;
+  margin-right: 16rpx;
+}
+.t-hairdres-merchant-commodity .header-label .active.data-v-922766ee {
+  background: #fc689a;
+  border: solid 2rpx #fc689a;
+  color: #fff;
+}
+.t-hairdres-merchant-commodity .search-box.data-v-922766ee {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-merchant-commodity .search-box .search-input.data-v-922766ee {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.t-hairdres-merchant-commodity .search-box .button.data-v-922766ee {
+  width: 150rpx;
+  text-align: center;
+  color: #fc6968;
+  height: 56rpx;
+  line-height: 56rpx;
+  border: solid 4rpx #fc6968;
+  border-radius: 20rpx;
+  margin-left: 180rpx;
+}
+

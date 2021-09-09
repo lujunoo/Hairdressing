@@ -1,0 +1,127 @@
+.t-hairdres-merchant-reserve-add-hairstylist.data-v-c2a1b864 {
+  font-size: 24rpx;
+  padding-bottom: 100rpx;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .title.data-v-c2a1b864 {
+  font-size: 28rpx;
+  font-weight: bold;
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .t-hairdres-button.data-v-c2a1b864 {
+  width: 580rpx;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .hairstylist-list.data-v-c2a1b864 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin: 0 -8rpx;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .hairstylist-list .item.data-v-c2a1b864 {
+  width: calc(33% - 39rpx);
+  margin: 8rpx;
+  height: 250rpx;
+  padding: 10rpx;
+  border-radius: 10rpx;
+  border: solid 6rpx #bfbfbf;
+  overflow: hidden;
+  margin-bottom: 24rpx;
+  text-align: center;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .hairstylist-list .item text.data-v-c2a1b864 {
+  margin-top: 18rpx;
+  display: block;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .hairstylist-list .item image.data-v-c2a1b864 {
+  border-radius: 10rpx;
+  width: 100%;
+  height: 190rpx;
+  display: block;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .hairstylist-list .active.data-v-c2a1b864 {
+  border-color: #fc689a;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .hairstylist-list .active text.data-v-c2a1b864 {
+  color: #fc689a;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .project-list .list-item.data-v-c2a1b864 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  position: relative;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 24rpx;
+  padding-bottom: 24rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .project-list .list-item.data-v-c2a1b864:last-child {
+  margin-bottom: 0;
+  border: none;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .project-list .list-item .iconfont.data-v-c2a1b864 {
+  color: #fc689a;
+  font-size: 40rpx;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .project-list .list-item .iconfont2.data-v-c2a1b864 {
+  color: #aaa;
+  -webkit-transform: scale(1.08);
+          transform: scale(1.08);
+}
+.t-hairdres-merchant-reserve-add-hairstylist .project-list .list-item image.data-v-c2a1b864 {
+  width: 170rpx;
+  height: 120rpx;
+  background-color: #f00055;
+  border-radius: 10rpx;
+  margin-right: 24rpx;
+  margin-left: 16rpx;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .project-list .list-item .content.data-v-c2a1b864 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 24rpx;
+  min-height: 120rpx;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .project-list .list-item .content .info.data-v-c2a1b864 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  color: #666;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .project-list .list-item .content .info .subtitle.data-v-c2a1b864 {
+  max-width: 375rpx;
+  color: #333333;
+  font-size: 28rpx;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .project-list .list-item .content .info .color-theme.data-v-c2a1b864 {
+  font-size: 28rpx;
+}
+.t-hairdres-merchant-reserve-add-hairstylist .project-list .list-item .content .info .color-theme text.data-v-c2a1b864 {
+  margin-left: 16rpx;
+  font-size: 24rpx;
+}
+

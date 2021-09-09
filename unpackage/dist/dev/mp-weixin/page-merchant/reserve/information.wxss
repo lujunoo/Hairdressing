@@ -1,0 +1,133 @@
+.t-hairdres-user-information.data-v-40d6fc72 {
+  font-size: 24rpx;
+}
+.t-hairdres-user-information .project-item.data-v-40d6fc72 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  position: relative;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  background: #ffe4ed;
+  padding: 24rpx;
+  border-radius: 10rpx;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-user-information .project-item image.data-v-40d6fc72 {
+  width: 170rpx;
+  height: 120rpx;
+  background-color: #f00055;
+  border-radius: 10rpx;
+  margin-right: 24rpx;
+}
+.t-hairdres-user-information .project-item .content.data-v-40d6fc72 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 24rpx;
+  min-height: 120rpx;
+}
+.t-hairdres-user-information .project-item .content .info.data-v-40d6fc72 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  color: #666;
+}
+.t-hairdres-user-information .project-item .content .info .title.data-v-40d6fc72 {
+  color: #333333;
+  font-size: 28rpx;
+  line-height: 1.3;
+}
+.t-hairdres-user-information .project-item .content .info .color-theme.data-v-40d6fc72 {
+  font-size: 28rpx;
+}
+.t-hairdres-user-information .project-item .content .info .color-theme text.data-v-40d6fc72 {
+  margin-left: 16rpx;
+  font-size: 24rpx;
+}
+.t-hairdres-user-information .list-item.data-v-40d6fc72 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-user-information .list-item.data-v-40d6fc72:last-child {
+  margin-bottom: 0;
+}
+.t-hairdres-user-information .list-item .image-list.data-v-40d6fc72 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.t-hairdres-user-information .list-item .image-list image.data-v-40d6fc72 {
+  width: 146rpx;
+  height: 146rpx;
+  background-color: #fc6968;
+  border-radius: 10rpx;
+  margin-right: 14rpx;
+  margin-bottom: 15rpx;
+}
+.t-hairdres-user-information .list-item .image-list image.data-v-40d6fc72:nth-child(4n) {
+  margin-right: 0;
+}
+.t-hairdres-user-information .list-item .iconfont.data-v-40d6fc72 {
+  display: inline-block;
+  color: #fc689a;
+  -webkit-transform: scale(1.3);
+          transform: scale(1.3);
+}
+.t-hairdres-user-information .list-item .address.data-v-40d6fc72 {
+  margin: 0 16rpx;
+}
+.t-hairdres-user-information .list-item .right.data-v-40d6fc72 {
+  -webkit-box-flex: 2;
+  -webkit-flex: 2;
+          flex: 2;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-user-information .list-item .right .oldprice.data-v-40d6fc72 {
+  margin-right: 32rpx;
+}
+.t-hairdres-user-information .list-item .label.data-v-40d6fc72 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.t-hairdres-user-information .title.data-v-40d6fc72 {
+  font-size: 28rpx;
+  color: #000;
+  font-weight: bold;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-user-information .string.data-v-40d6fc72 {
+  background: #ffb1b1;
+  color: #FFFFFF;
+  font-size: 28rpx;
+  font-weight: bold;
+  line-height: 1;
+  padding: 16rpx 32rpx;
+  margin: 32rpx;
+  border-radius: 10rpx;
+}
+

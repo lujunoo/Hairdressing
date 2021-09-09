@@ -1,0 +1,93 @@
+.t-hairdres-hairstylist.data-v-67ec5c6c {
+  margin: 24rpx 32rpx 0 32rpx;
+  background: #FFFFFF;
+  border-radius: 10rpx;
+  overflow: hidden;
+  padding: 24rpx 32rpx;
+}
+.t-hairdres-hairstylist .theme.data-v-67ec5c6c {
+  color: #F95AC0;
+}
+.t-hairdres-hairstylist .yellow.data-v-67ec5c6c {
+  color: #FFB400;
+}
+.t-hairdres-hairstylist .red.data-v-67ec5c6c {
+  color: #FF6464;
+}
+.t-hairdres-hairstylist .purple.data-v-67ec5c6c {
+  color: #D964FF;
+}
+.t-hairdres-hairstylist .t-hairdres-header.data-v-67ec5c6c {
+  width: 170rpx;
+  height: 190rpx;
+  border-radius: 10rpx;
+  overflow: hidden;
+  float: left;
+  margin-right: 40rpx;
+}
+.t-hairdres-hairstylist .t-hairdres-header image.data-v-67ec5c6c {
+  width: 100%;
+  height: 100%;
+}
+.t-hairdres-hairstylist .t-hairdres-content.data-v-67ec5c6c {
+  margin-left: 210rpx;
+}
+.t-hairdres-hairstylist .t-hairdres-content .title.data-v-67ec5c6c {
+  font-size: 28rpx;
+  line-height: 28rpx;
+  margin-bottom: 24rpx;
+  color: #333333;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-hairstylist .t-hairdres-content .title text.data-v-67ec5c6c:last-child {
+  font-size: 24rpx;
+}
+.t-hairdres-hairstylist .t-hairdres-content .price.data-v-67ec5c6c {
+  font-size: 24rpx;
+  line-height: 24rpx;
+  color: #333333;
+  margin-bottom: 30rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-hairstylist .t-hairdres-content .price .left text.data-v-67ec5c6c:nth-child(2) {
+  font-weight: bold;
+  color: #F95AC0;
+}
+.t-hairdres-hairstylist .t-hairdres-content .price .left text.data-v-67ec5c6c:last-child {
+  color: #999999;
+  font-size: 24rpx;
+  margin-left: 16rpx;
+}
+.t-hairdres-hairstylist .t-hairdres-content .fuwu.data-v-67ec5c6c {
+  font-size: 24rpx;
+  color: #333333;
+  line-height: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 30rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-hairstylist .t-hairdres-content .shop.data-v-67ec5c6c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 28rpx;
+  color: #333333;
+}
+

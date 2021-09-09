@@ -1,0 +1,53 @@
+.t-hairdres-user-add-card .t-hairdres-button.data-v-5165b8ae {
+  margin: 95rpx;
+}
+.t-hairdres-user-add-card .title.data-v-5165b8ae {
+  display: block;
+  padding: 32rpx;
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-bottom: -32rpx;
+}
+.t-hairdres-user-add-card .form--item.data-v-5165b8ae {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 32rpx;
+  font-size: 24rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-add-card .form--item .input.data-v-5165b8ae {
+  width: 430rpx;
+  height: 70rpx;
+  background-color: #fff3e2;
+  border-radius: 10rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 0 24rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-user-add-card .form--item .input input.data-v-5165b8ae {
+  font-size: 24rpx;
+}
+.t-hairdres-user-add-card .form--item .input .btn.data-v-5165b8ae {
+  line-height: 1;
+  background: #fc689a;
+  color: #fff;
+  padding: 9rpx 20rpx;
+  border-radius: 100rpx;
+}
+.t-hairdres-user-add-card .form--item.data-v-5165b8ae:last-child {
+  margin-bottom: 0;
+}
+

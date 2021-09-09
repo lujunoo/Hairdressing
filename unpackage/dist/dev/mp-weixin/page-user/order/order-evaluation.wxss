@@ -1,0 +1,65 @@
+.t-hairdres-order-evaluation .t-hairdres-button.data-v-269d2260 {
+  margin: 80rpx 60rpx;
+}
+.t-hairdres-order-evaluation .label-list.data-v-269d2260 {
+  padding-top: 16px;
+}
+.t-hairdres-order-evaluation .label-list .title.data-v-269d2260 {
+  display: block;
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-order-evaluation .label-list .label-item.data-v-269d2260 {
+  display: inline-block;
+  font-size: 24rpx;
+  color: #fff;
+  line-height: 1;
+  border-radius: 100rpx;
+  padding: 8rpx 24rpx;
+  margin-right: 16rpx;
+  margin-top: 16rpx;
+  background-color: #ffe4e4;
+}
+.t-hairdres-order-evaluation .label-list .active.data-v-269d2260 {
+  background-color: #fcabc7;
+}
+.t-hairdres-order-evaluation textarea.data-v-269d2260 {
+  padding: 16rpx;
+  font-size: 28rpx;
+  height: 200rpx;
+  background-color: #fff3e2;
+  border-radius: 10rpx;
+  border: dashed 4rpx #f95abf;
+  margin: 32rpx 0;
+}
+.t-hairdres-order-evaluation .evaluation-score.data-v-269d2260 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-order-evaluation .evaluation-score .images.data-v-269d2260 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-order-evaluation .evaluation-score text.data-v-269d2260 {
+  font-size: 24rpx;
+  margin: 0 24rpx;
+}
+.t-hairdres-order-evaluation .evaluation-score image.data-v-269d2260 {
+  width: 50rpx;
+  height: 50rpx;
+  border-radius: 100rpx;
+  display: block;
+  margin: 0 8rpx;
+}
+

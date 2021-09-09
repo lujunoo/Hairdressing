@@ -1,0 +1,73 @@
+.t-hairdres-user-bank-card .addCard.data-v-63862402 {
+  height: 80rpx;
+  margin: 95rpx 125rpx;
+  border-radius: 100rpx;
+  text-align: center;
+  line-height: 80rpx;
+  font-size: 24rpx;
+  color: #fc689a;
+  font-weight: bold;
+  border: solid 6rpx #fc689a;
+}
+.t-hairdres-user-bank-card .addCard .iconfont.data-v-63862402 {
+  margin-right: 16rpx;
+}
+.t-hairdres-user-bank-card .user-bank-card.data-v-63862402 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 185rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 24rpx;
+}
+.t-hairdres-user-bank-card .user-bank-card .iconfont2.data-v-63862402 {
+  width: 80rpx;
+  height: 80rpx;
+  text-align: center;
+  line-height: 80rpx;
+  font-size: 40rpx;
+  background: #FFFFFF;
+  border-radius: 100rpx;
+  margin-right: 24rpx;
+}
+.t-hairdres-user-bank-card .user-bank-card .content.data-v-63862402 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  color: #FFFFFF;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-user-bank-card .user-bank-card .content .title.data-v-63862402 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-user-bank-card .user-bank-card .content .title .iconfont.data-v-63862402 {
+  font-size: 40rpx;
+  -webkit-transform: translate(35%, -20%);
+          transform: translate(35%, -20%);
+  background: none;
+}
+.t-hairdres-user-bank-card .user-bank-card .content .title text.data-v-63862402:first-child {
+  font-weight: bold;
+  font-size: 28rpx;
+}
+.t-hairdres-user-bank-card .user-bank-card .content text.data-v-63862402 {
+  display: block;
+}
+

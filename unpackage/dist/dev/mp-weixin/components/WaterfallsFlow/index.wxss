@@ -1,0 +1,17 @@
+.t-hairdres-waterfallsflow.data-v-0703980d {
+  -webkit-column-count: 2;
+          column-count: 2;
+  -webkit-column-gap: 24rpx;
+          column-gap: 24rpx;
+}
+.t-hairdres-waterfallsflow .item.data-v-0703980d {
+  margin-bottom: 24rpx;
+  border-radius: 16rpx;
+  position: relative;
+  overflow: hidden;
+}
+.t-hairdres-waterfallsflow .item image.data-v-0703980d {
+  width: 100%;
+  display: block;
+}
+

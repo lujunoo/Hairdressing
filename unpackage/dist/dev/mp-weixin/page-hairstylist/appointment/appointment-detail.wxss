@@ -1,0 +1,119 @@
+.t-hairdres-appointment .title.data-v-5cd0fc4a {
+  text-align: center;
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-appointment .block1.data-v-5cd0fc4a,
+.t-hairdres-appointment .block2.data-v-5cd0fc4a,
+.t-hairdres-appointment .block3.data-v-5cd0fc4a {
+  display: inline-block;
+  background: #fc689a;
+  border: none;
+  color: #FFFFFF;
+}
+.t-hairdres-appointment .block2.data-v-5cd0fc4a {
+  background: #ffb400;
+}
+.t-hairdres-appointment .desc.data-v-5cd0fc4a {
+  margin-bottom: 100rpx;
+  line-height: 1;
+}
+.t-hairdres-appointment .desc .block1.data-v-5cd0fc4a,
+.t-hairdres-appointment .desc .block2.data-v-5cd0fc4a,
+.t-hairdres-appointment .desc .block3.data-v-5cd0fc4a {
+  width: 50rpx;
+  height: 20rpx;
+  margin-right: 16rpx;
+}
+.t-hairdres-appointment .desc .block3.data-v-5cd0fc4a {
+  width: 46rpx;
+  height: 18rpx;
+  border: solid 2rpx #aaa;
+  background: #fff;
+}
+.t-hairdres-appointment .desc .desc-item.data-v-5cd0fc4a {
+  font-size: 24rpx;
+  display: block;
+  color: #888;
+  margin-bottom: 24rpx;
+  position: relative;
+}
+.t-hairdres-appointment .desc .subtitle.data-v-5cd0fc4a {
+  color: #333333;
+  padding-left: 0rpx;
+  padding-top: 32rpx;
+  margin-bottom: 32rpx;
+  display: block;
+  font-size: 28rpx;
+}
+.t-hairdres-appointment .table.data-v-5cd0fc4a {
+  font-size: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border: solid 2rpx #eee;
+}
+.t-hairdres-appointment .table .left.data-v-5cd0fc4a {
+  border-right: solid 2rpx #eee;
+  text-align: center;
+  width: 150rpx;
+}
+.t-hairdres-appointment .table .left .timer.data-v-5cd0fc4a {
+  height: 120rpx;
+  border-top: 0;
+  font-weight: bold;
+  line-height: 120rpx;
+}
+.t-hairdres-appointment .table .left text.data-v-5cd0fc4a {
+  display: block;
+  height: 40rpx;
+  line-height: 40rpx;
+  border-top: solid 2rpx #eee;
+}
+.t-hairdres-appointment .table .right.data-v-5cd0fc4a {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.t-hairdres-appointment .table .right .right-item.data-v-5cd0fc4a {
+  text-align: center;
+  display: block;
+  height: 40rpx;
+  line-height: 40rpx;
+  border-top: solid 2rpx #eee;
+}
+.t-hairdres-appointment .title-date.data-v-5cd0fc4a {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 120rpx;
+  padding: 0 32rpx;
+}
+.t-hairdres-appointment .title-date .iconfont.data-v-5cd0fc4a {
+  width: 40rpx;
+  height: 40rpx;
+  background-color: #f7a0c7;
+  border-radius: 100rpx;
+  color: #FFFFFF;
+  text-align: center;
+  line-height: 40rpx;
+}
+.t-hairdres-appointment .title-date text.data-v-5cd0fc4a:first-child {
+  -webkit-transform: rotate(180deg);
+          transform: rotate(180deg);
+}
+.t-hairdres-appointment .title-date text.data-v-5cd0fc4a:nth-child(2) {
+  line-height: 1;
+  padding: 18rpx 42rpx;
+  font-size: 28rpx;
+  color: #FFFFFF;
+  background-color: #f7a0c7;
+  border-radius: 20rpx;
+}
+

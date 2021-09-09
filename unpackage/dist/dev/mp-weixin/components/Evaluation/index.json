@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "score": "/components/Score/index",
+    "card": "/components/Card/index",
+    "title": "/components/Title/index"
+  }
+}

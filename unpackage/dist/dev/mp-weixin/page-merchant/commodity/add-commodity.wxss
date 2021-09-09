@@ -1,0 +1,174 @@
+.t-hairdres-merchant-add-commodity.data-v-59c1c238 {
+  font-size: 24rpx;
+  line-height: 1;
+}
+.t-hairdres-merchant-add-commodity .t-hairdres-button.data-v-59c1c238 {
+  width: 500rpx;
+}
+.t-hairdres-merchant-add-commodity .statement.data-v-59c1c238 {
+  text-align: center;
+  padding: 20rpx 0 160rpx 0;
+}
+.t-hairdres-merchant-add-commodity .desc2.data-v-59c1c238 {
+  color: #fc6868;
+  margin-top: 32rpx;
+}
+.t-hairdres-merchant-add-commodity .form-item.data-v-59c1c238 {
+  margin-bottom: 32rpx;
+  padding-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-merchant-add-commodity .form-item.data-v-59c1c238:last-child {
+  border: none;
+  margin-bottom: 0;
+}
+.t-hairdres-merchant-add-commodity .form-item .label.data-v-59c1c238 {
+  width: 200rpx;
+}
+.t-hairdres-merchant-add-commodity .form-item .right.data-v-59c1c238 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-merchant-add-commodity .form-item .right .input.data-v-59c1c238 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 24rpx;
+}
+.t-hairdres-merchant-add-commodity .form-item .right .iconfont.data-v-59c1c238 {
+  font-size: 36rpx;
+}
+.t-hairdres-merchant-add-commodity .form-item-checked.data-v-59c1c238 {
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+          align-items: flex-start;
+}
+.t-hairdres-merchant-add-commodity .form-item-checked .label.data-v-59c1c238 {
+  display: block;
+  margin-bottom: 24rpx;
+  width: auto;
+  margin-right: 80rpx;
+}
+.t-hairdres-merchant-add-commodity .form-item-checked .checkbox.data-v-59c1c238 {
+  color: #666;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: end;
+  -webkit-justify-content: flex-end;
+          justify-content: flex-end;
+  -webkit-box-align: start;
+  -webkit-align-items: flex-start;
+          align-items: flex-start;
+}
+.t-hairdres-merchant-add-commodity .form-item-checked .checkbox .checked-label.data-v-59c1c238 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-merchant-add-commodity .form-item-checked .checkbox .checked-label.data-v-59c1c238:last-child {
+  margin-bottom: 0;
+}
+.t-hairdres-merchant-add-commodity .form-item-checked .checkbox .checked-label .name.data-v-59c1c238 {
+  color: #000;
+  margin: 0 24rpx;
+}
+.t-hairdres-merchant-add-commodity .form-item-checked .checkbox .checked-label .input.data-v-59c1c238 {
+  border: solid 2rpx #aaa;
+  border-radius: 10rpx;
+  margin: 0 6rpx;
+  padding: 0 6rpx;
+}
+.t-hairdres-merchant-add-commodity .form-item-checked .checkbox .time.data-v-59c1c238 {
+  color: #999;
+  border: solid 2rpx #999;
+  border-radius: 10rpx;
+  padding: 8rpx 24rpx;
+}
+.t-hairdres-merchant-add-commodity .form-item-checked .checkbox .iconfont.data-v-59c1c238 {
+  font-size: 30rpx;
+  font-weight: bold;
+  color: #999;
+}
+.t-hairdres-merchant-add-commodity .form-item-checked .checkbox .iconfont2.data-v-59c1c238 {
+  color: #fc6868;
+}
+.t-hairdres-merchant-add-commodity .project .add-project.data-v-59c1c238 {
+  border: solid 2rpx #fc6968;
+  color: #fc6968;
+  line-height: 1;
+  display: inline-block;
+  border-radius: 20rpx;
+  padding: 4rpx 16rpx;
+  margin-left: 32rpx;
+}
+.t-hairdres-merchant-add-commodity .project .project-item.data-v-59c1c238 {
+  margin-top: 24rpx;
+  background: #fae5e5;
+  padding: 24rpx;
+  position: relative;
+}
+.t-hairdres-merchant-add-commodity .project .project-item .string.data-v-59c1c238 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  color: #666;
+}
+.t-hairdres-merchant-add-commodity .project .project-item .string.data-v-59c1c238:first-child {
+  color: #000;
+  padding-right: 64rpx;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-merchant-add-commodity .project .project-item .iconfont.data-v-59c1c238 {
+  top: 0rpx;
+  right: 0rpx;
+  color: #fc6968;
+  position: absolute;
+  padding: 24rpx;
+}
+.t-hairdres-merchant-add-commodity .upload.data-v-59c1c238 {
+  margin-bottom: 32rpx;
+}
+.t-hairdres-merchant-add-commodity .upload .label.data-v-59c1c238 {
+  margin-bottom: 32rpx;
+  margin-top: 32rpx;
+}
+.t-hairdres-merchant-add-commodity .upload .desc.data-v-59c1c238 {
+  color: #888;
+  margin-top: 24rpx;
+  margin-bottom: 24rpx;
+}
+

@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "发型师详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "banner": "/components/Banner/index",
+    "search": "/components/Search/index",
+    "pull-down-refresh": "/components/PullDownRefresh/index"
+  }
+}

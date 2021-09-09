@@ -1,0 +1,106 @@
+.t-hairdres-user-add-appointment .rule.data-v-5eff7f78 {
+  text-align: center;
+  font-size: 24rpx;
+}
+.t-hairdres-user-add-appointment .rule .t-hairdres-button.data-v-5eff7f78 {
+  margin: 50rpx 125rpx;
+}
+.t-hairdres-user-add-appointment .rule .iconfont2.data-v-5eff7f78 {
+  color: #fc689a;
+}
+.t-hairdres-user-add-appointment .title.data-v-5eff7f78 {
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-user-add-appointment .title text.data-v-5eff7f78 {
+  font-size: 24rpx;
+  color: #999;
+  font-weight: 500;
+}
+.t-hairdres-user-add-appointment .walloffame .image-lits.data-v-5eff7f78 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  margin-top: 16rpx;
+}
+.t-hairdres-user-add-appointment .walloffame .image-lits image.data-v-5eff7f78 {
+  width: calc(33% - 20rpx);
+  border-radius: 6rpx;
+  margin: 10rpx;
+  height: 135rpx;
+  display: block;
+}
+.t-hairdres-user-add-appointment .walloffame .photo.data-v-5eff7f78 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin: 24rpx 0;
+}
+.t-hairdres-user-add-appointment .walloffame textarea.data-v-5eff7f78 {
+  width: calc(100% - 32rpx);
+  border-radius: 10rpx;
+  padding: 16rpx;
+  height: 200rpx;
+  font-size: 24rpx;
+  margin-top: 24rpx;
+  background-color: #fff3e2;
+}
+.t-hairdres-user-add-appointment .walloffame .button.data-v-5eff7f78 {
+  color: #fc689a;
+  font-size: 24rpx;
+  line-height: 1;
+  padding: 24rpx 0;
+  text-align: center;
+  border-radius: 10rpx;
+  margin: 50rpx 210rpx 16rpx 210rpx;
+  border: dashed 3rpx #fc689a;
+}
+.t-hairdres-user-add-appointment .form-item.data-v-5eff7f78 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  margin-bottom: 32rpx;
+  font-size: 24rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-user-add-appointment .form-item.data-v-5eff7f78:last-child {
+  margin-bottom: 0;
+  padding-bottom: 16rpx;
+  border: none;
+}
+.t-hairdres-user-add-appointment .form-item .label.data-v-5eff7f78 {
+  width: 140rpx;
+}
+.t-hairdres-user-add-appointment .form-item .right.data-v-5eff7f78 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-add-appointment .form-item .right .grap.data-v-5eff7f78 {
+  color: #999;
+}
+.t-hairdres-user-add-appointment .form-item .right input.data-v-5eff7f78 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 24rpx;
+}
+

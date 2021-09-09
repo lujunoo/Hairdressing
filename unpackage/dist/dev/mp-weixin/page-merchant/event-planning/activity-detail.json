@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "活动详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "fixed-footer": "/components/fixedFooter/index",
+    "tab-bar": "/components/TabBar/index"
+  }
+}

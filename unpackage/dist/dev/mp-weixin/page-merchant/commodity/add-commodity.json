@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "添加商品",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index",
+    "fixed-footer": "/components/fixedFooter/index",
+    "upload": "/components/Upload/index"
+  }
+}

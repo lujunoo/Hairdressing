@@ -1,0 +1,39 @@
+.t-hairdres-merchant-constrains.data-v-14c93318 {
+  padding-bottom: 100rpx;
+  font-size: 24rpx;
+  line-height: 1;
+  color: #555;
+}
+.t-hairdres-merchant-constrains .list-item.data-v-14c93318 {
+  margin-bottom: 32rpx;
+}
+.t-hairdres-merchant-constrains .list-item.data-v-14c93318:last-child {
+  margin-bottom: 0;
+}
+.t-hairdres-merchant-constrains .list-item .font-weight.data-v-14c93318 {
+  color: #000;
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-merchant-constrains .color-red.data-v-14c93318 {
+  line-height: 1.8;
+}
+.t-hairdres-merchant-constrains .button-group.data-v-14c93318 {
+  width: 750rpx;
+  text-align: right;
+}
+.t-hairdres-merchant-constrains .button-group text.data-v-14c93318 {
+  display: inline-block;
+  width: 180rpx;
+  height: 60rpx;
+  background-color: #fc689a;
+  color: #fff;
+  margin: 0 32rpx;
+  line-height: 60rpx;
+  text-align: center;
+  border-radius: 50rpx;
+}
+.t-hairdres-merchant-constrains .button-group text.data-v-14c93318:first-child {
+  background: #ffc5c5;
+}
+

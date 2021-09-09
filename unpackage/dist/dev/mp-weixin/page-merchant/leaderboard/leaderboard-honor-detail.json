@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "商家-荣誉列表-荣誉详情",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card": "/components/Card/index"
+  }
+}

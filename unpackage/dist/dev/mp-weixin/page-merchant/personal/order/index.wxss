@@ -1,0 +1,46 @@
+.t-hairdres-merchant-personal-order.data-v-6ea9658e {
+  font-size: 24rpx;
+  line-height: 1;
+}
+.t-hairdres-merchant-personal-order .title.data-v-6ea9658e {
+  padding-bottom: 24rpx;
+  margin-bottom: 24rpx;
+  border-bottom: solid 2rpx #eee;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-merchant-personal-order .title text.data-v-6ea9658e:first-child {
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-merchant-personal-order .title text.data-v-6ea9658e:last-child {
+  color: #666;
+  font-size: 28rpx;
+}
+.t-hairdres-merchant-personal-order .info.data-v-6ea9658e {
+  padding-bottom: 24rpx;
+  margin-bottom: 24rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-merchant-personal-order .info text.data-v-6ea9658e {
+  display: block;
+  margin-bottom: 16rpx;
+}
+.t-hairdres-merchant-personal-order .info text.data-v-6ea9658e:last-child {
+  margin-bottom: 0;
+}
+.t-hairdres-merchant-personal-order .order text.data-v-6ea9658e {
+  display: block;
+}
+.t-hairdres-merchant-personal-order .order text.data-v-6ea9658e:first-child {
+  margin-bottom: 16rpx;
+}
+.t-hairdres-merchant-personal-order .personal-order-search.data-v-6ea9658e {
+  width: calc(100% - 64rpx);
+  margin: 32rpx;
+}
+

@@ -1,0 +1,11 @@
+.t-hairdres-leaderboard-user-evaluation .leaderboard-evaluation-item.data-v-89ea3e96 {
+  border-bottom: solid 2rpx #ddd;
+  margin-bottom: 32rpx;
+  padding-bottom: 32rpx;
+}
+.t-hairdres-leaderboard-user-evaluation .leaderboard-evaluation-item.data-v-89ea3e96:last-child {
+  margin: 0;
+  padding: 0;
+  border: none;
+}
+

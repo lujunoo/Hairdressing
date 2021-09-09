@@ -1,0 +1,29 @@
+.t-hairdres-fixedFooter.data-v-890d7f72 {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 100rpx;
+  background: #FFFFFF;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  line-height: 100rpx;
+  font-size: 24rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-fixedFooter .right .submit.data-v-890d7f72 {
+  display: block;
+  width: 220rpx;
+  height: 60rpx;
+  background-color: #fc689a;
+  border-radius: 25rpx;
+  line-height: 60rpx;
+  text-align: center;
+  color: #FFFFFF;
+}
+

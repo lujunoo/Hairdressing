@@ -1,0 +1,70 @@
+.t-hairdres-user-customer-profile .list-item.data-v-3b2d71b8 {
+  margin-bottom: 32rpx;
+  padding-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 24rpx;
+}
+.t-hairdres-user-customer-profile .list-item .right.data-v-3b2d71b8 {
+  text-align: right;
+}
+.t-hairdres-user-customer-profile .list-item .right text.data-v-3b2d71b8 {
+  display: block;
+}
+.t-hairdres-user-customer-profile .list-item .right text.data-v-3b2d71b8:last-child {
+  color: #fc689a;
+}
+.t-hairdres-user-customer-profile .list-item .left.data-v-3b2d71b8 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-user-customer-profile .list-item .left image.data-v-3b2d71b8 {
+  width: 60rpx;
+  height: 60rpx;
+  border-radius: 100rpx;
+}
+.t-hairdres-user-customer-profile .list-item .left .name.data-v-3b2d71b8 {
+  margin-left: 24rpx;
+}
+.t-hairdres-user-customer-profile .list-item .left .name text.data-v-3b2d71b8 {
+  display: block;
+}
+.t-hairdres-user-customer-profile .list-item .left .name text.data-v-3b2d71b8:first-child {
+  font-weight: bold;
+}
+.t-hairdres-user-customer-profile .customer-profile-search.data-v-3b2d71b8 {
+  padding: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-user-customer-profile .customer-profile-search .button.data-v-3b2d71b8 {
+  width: 150rpx;
+  font-size: 24rpx;
+  display: block;
+  line-height: 1;
+  margin-left: 190rpx;
+  padding: 16rpx 40rpx;
+  border-radius: 20rpx;
+  border: solid 2rpx #fc689a;
+  color: #fc689a;
+}
+

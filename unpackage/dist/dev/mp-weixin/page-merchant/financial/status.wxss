@@ -1,0 +1,42 @@
+.t-hairdres-merchant-financial-status.data-v-cc584722 {
+  font-size: 24rpx;
+  padding-bottom: 32rpx;
+  line-height: 1;
+}
+.t-hairdres-merchant-financial-status .list-item.data-v-cc584722 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  padding-bottom: 70rpx;
+  padding-left: 32rpx;
+  position: relative;
+  margin-left: 24rpx;
+  border-left: solid 4rpx #fc689a;
+}
+.t-hairdres-merchant-financial-status .list-item.data-v-cc584722:last-child {
+  border: none;
+}
+.t-hairdres-merchant-financial-status .list-item.data-v-cc584722::after {
+  content: '';
+  top: 0;
+  left: -13rpx;
+  position: absolute;
+  width: 26rpx;
+  height: 26rpx;
+  border-radius: 100rpx;
+  background: #fc689a;
+}
+.t-hairdres-merchant-financial-status .list-item text.data-v-cc584722 {
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.t-hairdres-merchant-financial-status .list-item text.data-v-cc584722:last-child {
+  font-weight: 500;
+  margin-top: 24rpx;
+  color: #888;
+}
+

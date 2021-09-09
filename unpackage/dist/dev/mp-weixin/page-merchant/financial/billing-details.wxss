@@ -1,0 +1,64 @@
+.t-hairdres-merchant-billing-details.data-v-7ff3d643 {
+  font-size: 24rpx;
+  padding-bottom: 32rpx;
+}
+.t-hairdres-merchant-billing-details .font-weight.data-v-7ff3d643 {
+  font-size: 36rpx;
+  font-weight: bold;
+}
+.t-hairdres-merchant-billing-details .list-item.data-v-7ff3d643 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  border-bottom: solid 2rpx #eee;
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-merchant-billing-details .list-item .iconfont.data-v-7ff3d643 {
+  display: inline-block;
+  margin-left: 16rpx;
+  -webkit-transform: scale(1.4);
+          transform: scale(1.4);
+}
+.t-hairdres-merchant-billing-details .list-item.data-v-7ff3d643:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border: none;
+}
+.t-hairdres-merchant-billing-details .list-item text.data-v-7ff3d643:last-child {
+  color: #888;
+}
+.t-hairdres-merchant-billing-details .count.data-v-7ff3d643 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.t-hairdres-merchant-billing-details .count .item.data-v-7ff3d643 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 24rpx;
+}
+.t-hairdres-merchant-billing-details .count .item.data-v-7ff3d643:last-child {
+  margin-bottom: 0;
+}
+.t-hairdres-merchant-billing-details .count .item text.data-v-7ff3d643:first-child {
+  width: 200rpx;
+}
+.t-hairdres-merchant-billing-details .count .item text.data-v-7ff3d643:last-child {
+  color: #888;
+}
+

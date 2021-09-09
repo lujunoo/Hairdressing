@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "顾客档案",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "search": "/components/Search/index",
+    "card": "/components/Card/index"
+  }
+}

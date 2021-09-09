@@ -1,0 +1,47 @@
+.t-hairdres-tabBar-box.data-v-4231ce1c {
+  width: 100%;
+  height: 80rpx;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}
+.t-hairdres-tabBar-box .t-hairdres-scroll.data-v-4231ce1c {
+  width: 100%;
+  white-space: nowrap;
+  height: 80rpx;
+}
+.t-hairdres-tabBar-box .t-hairdres-scroll text.data-v-4231ce1c {
+  margin: 0 32rpx;
+  display: inline-block;
+  font-size: 32rpx;
+  position: relative;
+}
+.t-hairdres-tabBar-box .t-hairdres-flex.data-v-4231ce1c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.t-hairdres-tabBar-box .t-hairdres-flex text.data-v-4231ce1c {
+  display: inline-block;
+  font-size: 32rpx;
+  position: relative;
+}
+.t-hairdres-tabBar-box .active.data-v-4231ce1c {
+  color: #f95abf;
+  font-size: 32rpx;
+  font-weight: 600;
+}
+.t-hairdres-tabBar-box .active.data-v-4231ce1c::after {
+  content: '';
+  width: 100%;
+  height: 6rpx;
+  border-radius: 10rpx;
+  background: #f95abf;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+

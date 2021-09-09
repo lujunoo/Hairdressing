@@ -1,0 +1,1 @@
+<view class="t-hairdres-calendar-header data-v-5336ca09"><text data-event-opts="{{[['tap',[['subtract',['$event']]]]]}}" class="iconfont data-v-5336ca09" bindtap="__e"></text><text class="data-v-5336ca09">{{year+"年"+month+"月"}}</text><text data-event-opts="{{[['tap',[['add',['$event']]]]]}}" class="iconfont data-v-5336ca09" bindtap="__e"></text></view>

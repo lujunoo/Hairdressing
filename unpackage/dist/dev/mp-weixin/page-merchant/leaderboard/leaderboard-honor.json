@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "商家-荣誉列表",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "honor": "/components/Honor/index"
+  }
+}

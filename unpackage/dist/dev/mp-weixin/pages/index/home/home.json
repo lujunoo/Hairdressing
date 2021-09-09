@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationBarTextStyle": "white",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "search-box": "/components/Search/index",
+    "banner": "/components/Banner/index",
+    "tab-bar": "/components/TabBar/index",
+    "setmeal": "/components/Setmeal/index",
+    "pull-down-refresh": "/components/PullDownRefresh/index"
+  }
+}

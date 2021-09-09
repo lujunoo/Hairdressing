@@ -1,0 +1,76 @@
+.t-hairdres-school-teachers-detail .setmeal.data-v-40580fdc {
+  margin-top: 32rpx;
+}
+.t-hairdres-school-teachers-detail .setmeal .item.data-v-40580fdc {
+  margin-bottom: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-school-teachers-detail .setmeal .item .cover.data-v-40580fdc {
+  width: 140rpx;
+  height: 140rpx;
+  border-radius: 10rpx;
+  margin-right: 32rpx;
+  overflow: hidden;
+}
+.t-hairdres-school-teachers-detail .setmeal .item .cover image.data-v-40580fdc {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.t-hairdres-school-teachers-detail .setmeal .item .info.data-v-40580fdc {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.t-hairdres-school-teachers-detail .setmeal .item .info text.data-v-40580fdc {
+  font-size: 24rpx;
+}
+.t-hairdres-school-teachers-detail .setmeal .item .info .price.data-v-40580fdc {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-school-teachers-detail .setmeal .item .info .price text.data-v-40580fdc:first-child {
+  color: #ff0000;
+}
+.t-hairdres-school-teachers-detail .setmeal .item .info .price text:first-child text.data-v-40580fdc {
+  color: #999;
+  position: relative;
+  margin-left: 32rpx;
+}
+.t-hairdres-school-teachers-detail .setmeal .item .info .price text:first-child text.data-v-40580fdc::after {
+  content: "";
+  width: 100%;
+  height: 2rpx;
+  background: #999;
+  position: absolute;
+  top: 50%;
+  left: 0;
+}
+.t-hairdres-school-teachers-detail .card.data-v-40580fdc {
+  padding: 32rpx;
+}
+.t-hairdres-school-teachers-detail .desc.data-v-40580fdc {
+  font-size: 24rpx;
+  line-height: 1.8;
+  margin-top: -16rpx;
+}
+.t-hairdres-school-teachers-detail .banner.data-v-40580fdc {
+  border-radius: 10rpx;
+  overflow: hidden;
+}
+

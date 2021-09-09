@@ -1,0 +1,30 @@
+.t-hairdres-merchant-personal-withdrawal.data-v-96d19492 {
+  font-size: 24rpx;
+  color: #666;
+}
+.t-hairdres-merchant-personal-withdrawal .list-item.data-v-96d19492 {
+  padding-bottom: 32rpx;
+  margin-bottom: 32rpx;
+  border-bottom: solid 2rpx #eee;
+}
+.t-hairdres-merchant-personal-withdrawal .list-item.data-v-96d19492:last-child {
+  border: none;
+  margin-bottom: 0rpx;
+  padding-bottom: 0;
+}
+.t-hairdres-merchant-personal-withdrawal .item.data-v-96d19492 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-merchant-personal-withdrawal .item.data-v-96d19492:first-child {
+  margin-bottom: 24rpx;
+}
+.t-hairdres-merchant-personal-withdrawal .item:first-child text.data-v-96d19492:first-child {
+  color: #000;
+  font-weight: bold;
+}
+

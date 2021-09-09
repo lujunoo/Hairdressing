@@ -1,0 +1,187 @@
+.t-hairdres-discuss.data-v-2b431c0d {
+  background: #FFFFFF;
+}
+.t-hairdres-discuss .greatlist.data-v-2b431c0d {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.t-hairdres-discuss .greatlist .img-list.data-v-2b431c0d {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.t-hairdres-discuss .greatlist .img-list image.data-v-2b431c0d {
+  border: 2rpx solid #FFFFFF;
+  margin-left: -14rpx;
+  border-radius: 100rpx;
+  display: block;
+  width: 40rpx;
+  height: 40rpx;
+}
+.t-hairdres-discuss .greatlist .number.data-v-2b431c0d {
+  font-size: 24rpx;
+  margin-left: 8rpx;
+}
+.t-hairdres-discuss .greatlist .iconfont.data-v-2b431c0d {
+  font-size: 32rpx;
+  margin-right: 16rpx;
+}
+.t-hairdres-discuss .greatlist .iconfont2.data-v-2b431c0d {
+  color: #fc689a;
+}
+.t-hairdres-discuss .data-count.data-v-2b431c0d {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.t-hairdres-discuss .data-count .item.data-v-2b431c0d {
+  font-size: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-discuss .data-count .item .iconfont.data-v-2b431c0d {
+  font-weight: bold;
+  font-size: 28rpx;
+  font-family: icon-hairdressing;
+  display: block;
+  margin-right: 16rpx;
+  margin-bottom: -6rpx;
+}
+.t-hairdres-discuss .data-count .item:first-child .iconfont.data-v-2b431c0d {
+  margin-bottom: -2rpx;
+  font-size: 32rpx;
+}
+.t-hairdres-discuss .link.data-v-2b431c0d {
+  height: 100rpx;
+  background-color: #ffd9d3;
+  margin-bottom: 32rpx;
+  font-size: 24rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 10rpx 24rpx;
+  color: #666666;
+}
+.t-hairdres-discuss .link text.data-v-2b431c0d:first-child {
+  max-width: 480rpx;
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.t-hairdres-discuss .link text.data-v-2b431c0d:last-child {
+  width: 80rpx;
+  height: 70rpx;
+  background-color: #ff4200;
+  border-radius: 3rpx;
+  color: #FFFFFF;
+  font-size: 28rpx;
+  display: block;
+  line-height: 34rpx;
+  text-align: center;
+  padding: 10rpx 0rpx;
+}
+.t-hairdres-discuss .content.data-v-2b431c0d {
+  font-size: 28rpx;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-discuss .label.data-v-2b431c0d {
+  margin-bottom: 32rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.t-hairdres-discuss .label text.data-v-2b431c0d {
+  line-height: 1.5;
+  display: block;
+  font-size: 24rpx;
+  color: #ff8400;
+  margin-left: 16rpx;
+}
+.t-hairdres-discuss .header.data-v-2b431c0d {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-bottom: 32rpx;
+}
+.t-hairdres-discuss .header .btn.data-v-2b431c0d {
+  width: 90rpx;
+  height: 40rpx;
+  background-color: #fc689a;
+  border-radius: 10rpx;
+  color: #FFFFFF;
+  text-align: center;
+  line-height: 40rpx;
+  font-size: 24rpx;
+}
+.t-hairdres-discuss .header .author.data-v-2b431c0d {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.t-hairdres-discuss .header .author .user.data-v-2b431c0d {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  font-size: 24rpx;
+  line-height: 1;
+}
+.t-hairdres-discuss .header .author .user text.data-v-2b431c0d:first-child {
+  font-size: 28rpx;
+  font-weight: bold;
+  margin-bottom: 20rpx;
+}
+.t-hairdres-discuss .header .author .cover.data-v-2b431c0d {
+  margin-right: 16rpx;
+  border-radius: 100rpx;
+  width: 60rpx;
+  height: 60rpx;
+  overflow: hidden;
+}
+.t-hairdres-discuss .header .author .cover image.data-v-2b431c0d {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
